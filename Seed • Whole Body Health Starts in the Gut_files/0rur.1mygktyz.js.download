@@ -1,0 +1,2188 @@
+;!function(){try { var e="undefined"!=typeof globalThis?globalThis:"undefined"!=typeof global?global:"undefined"!=typeof window?window:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&((e._debugIds|| (e._debugIds={}))[n]="b1409b32-ed77-b804-5436-4c6cc51305ca")}catch(e){}}();
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,186299,522458,580368,e=>{"use strict";e.s(["bottomCentered",0,[{backgroundDesktop:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887692/library/hero/hero-desktop.jpg",alt:"Default Hero image"},backgroundMobile:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887663/library/hero/hero-mobile.jpg",alt:"Default Hero image"},pill:"DS-01®",title:"Heal Your Gut, Change Your Life.",subhead:"Feel relief in just one week with DS-01®.",alignment:"center",position:"bottom",primaryButton:{label:"Learn More"},secondaryButton:{label:"Shop Now"}}],"bottomLeft",0,[{backgroundDesktop:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887692/library/hero/hero-desktop.jpg",alt:"Default Hero image"},backgroundMobile:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887663/library/hero/hero-mobile.jpg",alt:"Default Hero image"},pill:"DS-01®",title:"Heal Your Gut, Change Your Life.",subhead:"Feel relief in just one week with DS-01®.",alignment:"left",position:"bottom",primaryButton:{label:"Learn More"},secondaryButton:{label:"Shop Now"}}],"centered",0,[{backgroundDesktop:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887692/library/hero/hero-desktop.jpg",alt:"Default Hero image"},backgroundMobile:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887663/library/hero/hero-mobile.jpg",alt:"Default Hero image"},pill:"DS-01®",title:"Heal Your Gut, Change Your Life.",subhead:"Feel relief in just one week with DS-01®.",alignment:"center",position:"center",primaryButton:{label:"Learn More"},secondaryButton:{label:"Shop Now"}}],"centeredLeft",0,[{backgroundDesktop:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887692/library/hero/hero-desktop.jpg",alt:"Default Hero image"},backgroundMobile:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887663/library/hero/hero-mobile.jpg",alt:"Default Hero image"},pill:"DS-01®",title:"Heal Your Gut, Change Your Life.",subhead:"Feel relief in just one week with DS-01®.",alignment:"left",position:"center",primaryButton:{label:"Learn More"},secondaryButton:{label:"Shop Now"}}],"centeredSlides",0,[{backgroundDesktop:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887692/library/hero/hero-desktop.jpg",alt:"Default Hero image"},backgroundMobile:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887663/library/hero/hero-mobile.jpg",alt:"Default Hero image"},pill:"DS-01®",title:"Heal Your Gut, Change Your Life.",subhead:"Feel relief in just one week with DS-01®.",alignment:"center",position:"center",primaryButton:{label:"Learn More"},secondaryButton:{label:"Shop Now"}},{backgroundDesktop:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887692/library/hero/hero-desktop.jpg",alt:"Default Hero image"},backgroundMobile:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887663/library/hero/hero-mobile.jpg",alt:"Default Hero image"},title:"Heal Your Gut, Change Your Life.",subhead:"Feel relief in just one week with DS-01®.",alignment:"center",position:"center",primaryButton:{label:"Learn More"},secondaryButton:{label:"Shop Now"}},{backgroundDesktop:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887692/library/hero/hero-desktop.jpg",alt:"Default Hero image"},backgroundMobile:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887663/library/hero/hero-mobile.jpg",alt:"Default Hero image"},title:"Heal Your Gut, Change Your Life.",subhead:"Feel relief in just one week with DS-01®.",alignment:"center",position:"center",primaryButton:{label:"Learn More"},secondaryButton:{label:"Shop Now"}}],"lifeChangingHealthRoutineVariant",0,[{backgroundDesktop:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/v1776179362/hero_desktop.png",alt:"Four jars of seed products"},backgroundMobile:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/v1776179361/hero_mobile.png",alt:"Four jars of seed products"},title:"A life-changing<br />health routine, built<br />for your microbiome.",mobileTitle:"A life-changing health<br />routine, built for your<br />microbiome",titleMobileFontSize:"32px",subhead:"Transform your gut health, energy, sleep, and nutrition with formulations designed for real results.",alignment:"left",position:"midtop",mobilePosition:"top",hideFilter:!0,textColor:"seedgreen",desktopVerticalCenter:!0,mobileImageFit:"cover",mobileBackgroundColor:"#F6F7F0",desktopImageFit:"cover",desktopBackgroundColor:"#F6F7F0",primaryButton:{label:"Take the Quiz",url:"/find-your-routine",color:"seedgreen"},secondaryButton:{label:"Shop Now",url:"/products",hideArrow:!1}}],"topCentered",0,[{backgroundDesktop:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887692/library/hero/hero-desktop.jpg",alt:"Default Hero image"},backgroundMobile:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887663/library/hero/hero-mobile.jpg",alt:"Default Hero image"},pill:"DS-01®",title:"Heal Your Gut, Change Your Life.",subhead:"Feel relief in just one week with DS-01®.",alignment:"center",position:"top",primaryButton:{label:"Learn More"},secondaryButton:{label:"Shop Now"}}],"topLeft",0,[{backgroundDesktop:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887692/library/hero/hero-desktop.jpg",alt:"Default Hero image"},backgroundMobile:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887663/library/hero/hero-mobile.jpg",alt:"Default Hero image"},pill:"DS-01®",title:"Heal Your Gut, Change Your Life.",subhead:"Feel relief in just one week with DS-01®.",alignment:"left",position:"top",primaryButton:{label:"Learn More"},secondaryButton:{label:"Shop Now"}}],"uniqueSlide",0,[{backgroundDesktop:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887692/library/hero/hero-desktop.jpg",alt:"Default Hero image"},backgroundMobile:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887663/library/hero/hero-mobile.jpg",alt:"Default Hero image"},videoDesktop:{playbackId:"HMfn1TgirVAOwDN51CRI9xwb2v9ricFBIujMwq2pDl00",devPlaybackId:"sk02sImOWMUxrYEB5euhNe02013jjLMlnUw1yu6wM3B2QY",alt:"Hero background video"},videoMobile:{playbackId:"t4g1uPV9yE7EwLmQ6oqvDiiWlY2oqaGZgfVb7NmewPE",devPlaybackId:"T01VMlb7Me5UZsEVwW01cHcb2gfR1xoXoHQeEGmT2Xn1M",alt:"Hero background video"},title:"The probiotic pioneering the future of gut health.",subhead:"DS-01® Daily Synbiotic is clinically proven to deliver relief from bloating, gas, and irregularity.*",alignment:"left",position:"center",primaryButton:{label:"Is DS-01® Right for You?",url:"/is-ds01-right-for-you"}}]],186299);var t=e.i(391398),i=e.i(97984),a=e.i(285003),r=e.i(984727),o=e.i(760814),l=e.i(341949),n=e.i(32118),s=e.i(188564);let d=o.default.section.withConfig({displayName:"headline.styled__HeadlineWrapper",componentId:"sc-fcf9d40a-0"})`
+  background: var(--fill-primary);
+  padding: var(--space-outer);
+`,c=o.default.div.withConfig({displayName:"headline.styled__HeadlineContainer",componentId:"sc-fcf9d40a-1"})`
+  display: ${({variant:e})=>"50-50"===e?"grid":"flex"};
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  ${s.StackSmall};
+
+  @media ${l.mqLargeMin} {
+    ${s.StackMedium};
+  }
+
+  ${({variant:e})=>"center"===e?o.css`
+        @media ${l.mqMediumMin} {
+          align-items: center;
+          text-align: center;
+        }
+      `:"50-50"===e?o.css`
+        grid-template-columns: repeat(
+          auto-fit,
+          minmax(clamp(16rem, 50vw, 28rem), 1fr)
+        );
+        gap: var(--space-fixed-3);
+
+        @media ${l.mqLargeMin} {
+          gap: var(--space-fixed-4);
+        }
+      `:""}
+`,p=o.default.div.withConfig({displayName:"headline.styled__HeadlineContent",componentId:"sc-fcf9d40a-2"})`
+  max-inline-size: ${e=>e.$contentMaxInlineSize||(0,n.pxToRem)(350)};
+  ${s.StackLarge};
+
+  ${({variant:e})=>"50-50"===e&&`
+    margin-top: 0;
+      & > button,
+      & > a {
+        width: fit-content;
+        flex-shrink: 0;
+      }
+    `}
+`,m=(0,o.default)(i.TypeHeadingSecondary).withConfig({displayName:"headline.styled__HeadlineTitle",componentId:"sc-fcf9d40a-3"})`
+  max-inline-size: ${e=>e.$titleMaxInlineSize||(0,n.pxToRem)(500)};
+  margin: 0;
+`,u=({title:e,body:o,primaryButton:l,variant:n,wrapperType:s="section",contentMaxInlineSize:u,titleMaxInlineSize:h})=>(0,t.jsx)(d,{as:s??"section",children:(0,t.jsx)(r.Container,{children:(0,t.jsxs)(c,{variant:n,children:[(0,t.jsx)(m,{$titleMaxInlineSize:h,children:e}),(0,t.jsxs)(p,{$contentMaxInlineSize:u,variant:n,children:[o&&(0,t.jsx)(i.TypeBody,{children:o}),l&&(0,t.jsx)(a.default,{label:l?.label,url:l?.url})]})]})})});e.s(["default",0,u],522458),e.s(["UgcHeadline",0,()=>(0,t.jsx)(u,{title:(0,t.jsx)(t.Fragment,{children:"Stories from scientists, innovators, and members like you."}),variant:"left"}),"items",0,[{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/v1752249339/library/scroller/Frame_1739333317.png",width:524,height:860,alt:"ds01 on bathroom sink"},shape:"round"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/v1753371915/library/scroller/Frame_1739333315.png",width:552,height:860,alt:"dispensing two seed pills"},shape:"vertical"},{video:{playbackId:"B7ii9VEdNofKFscQjX1KWamismdYkNjaHKZEfC5zADE",devPlaybackId:"X02cIUhTn899QdOBqiUoc44PLW9I1PgO7HgkI7Hwo6QU",format:"mp4"},ratio:"9:14",shape:"vertical"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/v1752252570/library/scroller/Frame_1739333318.png",width:552,height:860,alt:"ds-01 on a counter"},shape:"horizontal-pill"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/v1753366891/library/scroller/ugc-5.png",width:552,height:860,alt:"quote from fast company"},url:"https://www.fastcompany.com/90813751/this-company-is-sending-plastic-eating-microbes-into-space",shape:"horizontal"},{video:{playbackId:"ulw3ww5UZIgdyYqXJgZq1rqt4GxjG631zzxeGLdN9Co",devPlaybackId:"RLZOmOM7ozom02ekPi3tw7U6dUFJ5A9cfu0002ErlRvouo",format:"mov"},ratio:"9:14",shape:"vertical"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/v1752261552/library/scroller/Frame_1739333320.png",width:552,height:860,alt:"woman wearing seed merchandise"},shape:"vertical"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/v1753366892/library/scroller/ugc-8.png",width:552,height:860,alt:"quote from forbes"},url:"https://www.forbes.com/sites/oliviaobryon/2022/11/06/how-can-microbes-support-wellness-and-save-the-planet-seed-health-co-founders-explain/",shape:"horizontal"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/v1752252937/library/scroller/blobs.png",width:552,height:860,alt:"clip 5"},shape:"horizontal-pill"}],"itemsDouble",0,[{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887581/library/double-scroller/clip-1-1.jpg",width:524,height:860,alt:"clip 1"},ratio:"9:14"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887588/library/double-scroller/clip-1-2.jpg",width:552,height:864,alt:"clip 2"},ratio:"14:9"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887589/library/double-scroller/clip-1-3.jpg",width:552,height:860,alt:"clip 3"},ratio:"1:1"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887581/library/double-scroller/clip-1-4.jpg",width:552,height:860,alt:"clip 4"},url:"https://seed.com/",ratio:"9:14"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887589/library/double-scroller/clip-1-5.jpg",width:552,height:860,alt:"clip 5"},ratio:"14:9"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887585/library/double-scroller/clip-1-6.jpg",width:552,height:860,alt:"clip 6"},ratio:"9:14"},{video:{src:"https://res.cloudinary.com/dljz0lko8/video/upload/f_auto,q_auto/v1748887695/library/scroller/video-placeholder.mp4",format:"mp4"},ratio:"9:14"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887588/library/double-scroller/clip-1-2.jpg",width:552,height:864,alt:"clip 2"},ratio:"14:9"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887589/library/double-scroller/clip-1-3.jpg",width:552,height:860,alt:"clip 3"},ratio:"1:1"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887581/library/double-scroller/clip-1-4.jpg",width:552,height:860,alt:"clip 4"},ratio:"9:14"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887589/library/double-scroller/clip-1-5.jpg",width:552,height:860,alt:"clip 5"},url:"https://seed.com/",ratio:"14:9"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887585/library/double-scroller/clip-1-6.jpg",width:552,height:860,alt:"clip 6"},ratio:"9:14"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887589/library/double-scroller/clip-2-1.jpg",width:524,height:860,alt:"clip 1"},ratio:"9:14"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887651/library/double-scroller/clip-2-2.jpg",width:552,height:864,alt:"clip 2"},ratio:"14:9"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887589/library/double-scroller/clip-2-3.jpg",width:552,height:860,alt:"clip 3"},ratio:"1:1"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887655/library/double-scroller/clip-2-4.jpg",width:552,height:860,alt:"clip 4"},ratio:"9:14"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887589/library/double-scroller/clip-1-3.jpg",width:552,height:860,alt:"clip 5"},url:"https://seed.com/",ratio:"14:9"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887656/library/double-scroller/clip-2-5.jpg",width:552,height:860,alt:"clip 6"},ratio:"9:14"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887589/library/double-scroller/clip-2-1.jpg",width:524,height:860,alt:"clip 1"},ratio:"9:14"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887651/library/double-scroller/clip-2-2.jpg",width:552,height:864,alt:"clip 2"},ratio:"14:9"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887589/library/double-scroller/clip-2-3.jpg",width:552,height:860,alt:"clip 3"},ratio:"1:1"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887655/library/double-scroller/clip-2-4.jpg",width:552,height:860,alt:"clip 4"},ratio:"9:14"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887589/library/double-scroller/clip-1-3.jpg",width:552,height:860,alt:"clip 5"},ratio:"14:9"},{cover:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887656/library/double-scroller/clip-2-5.jpg",width:552,height:860,alt:"clip 6"},ratio:"9:14"}]],580368)},320126,274403,e=>{"use strict";e.s(["capsuleLarge",0,{media:{src:"https://res.cloudinary.com/dljz0lko8/video/upload/v1755019042/library/viacap/Seed-2025_3D-360-Product-Catalog_Capsule_DS01-Transparency_web-web_hd_720p.mov",fallbackSrc:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1756048619/library/viacap/viacap-fallback.gif",alt:"DS-01 3D 360° Product Catalog Capsule",type:"video",width:400,height:400},top:{title:"OUTER CAPSULE",body:"Shields probiotics from stomach acid in the digestive tract, while delivering prebiotics to stimulate the growth of beneficial bacteria."},bottom:{title:"INNER CAPSULE",body:"Delivers 24 live strains of probiotics to the colon, where they're needed most."}},"capsuleSmall",0,{media:{src:"https://res.cloudinary.com/dljz0lko8/video/upload/v1755019042/library/viacap/Seed-2025_3D-360-Product-Catalog_Capsule_DS01-Transparency_web-web_hd_720p.mov",fallbackSrc:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1756048619/library/viacap/viacap-fallback.gif",alt:"DS-01 3D 360° Product Catalog Capsule",type:"video",width:300,height:300},top:{title:"Outer Capsule - For You",body:"Shields probiotics from stomach acid in the digestive tract, while delivering prebiotics to stimulate the growth of beneficial bacteria."},bottom:{title:"Inner Capsule - For Your Microbiome",body:"Delivers 24 live strains of probiotics to the colon, where they're needed most."}},"content",0,{eyebrow:"ViaCap® Technology",background:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1755552501/library/viacap/viacapbg.png",alt:"ViaCap background"},description:"Most probiotics don't survive digestion—DS-01® does.",note:{title:"Increases healthy bacteria°",pill:"DS-01®",performance:17},footnote:"°Lactobacillus"}],320126);var t=e.i(32178);let i={media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1753460833/library/bookend/5f4e9939ee3b96921d9af4d502cbdd3edf2a3d2a.jpg",alt:"Bookend cover",width:1312,height:1208},title:"Seed",word:"Labs",body:"Because health is not just human.",eyebrow:"● Lipari, Panarea — Italy",primaryButton:{label:"Read More",url:"/seedlabs"},align:"center"},a={media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1753995020/library/bookend/force-life.png",alt:"Bookend cover",width:1312,height:1208},title:"Change your gut health for good.*",titleStyle:{fontWeight:"350",fontSize:t.fontSizes["24px"],lineHeight:"28px",color:"var(--text-inverse-primary)",marginTop:"-32px"},body:"Feel lasting relief in one week with DS-01®*",primaryButton:{label:"Shop Now",url:"/daily-synbiotic",color:"snowwhite"},align:"center",additionalImage:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/v1752512630/library/bookend/image_164.png",alt:"Additional image",width:232,height:142}},r=[i,a],o=[{...i,align:"start"},{...a,align:"start"}],l=[{...i,align:"center"},{...a,align:"center"}],n=[{...i,pill:"DS-01®",align:"center"},{...a,pill:"PDS-08®",align:"center"}],s=[{...i,eyebrow:"● Lipari, Panarea — Italy",align:"center"},{...a,eyebrow:"● Science & Research",align:"center"}],d=[{...i,align:"end"},{...a,align:"end"}],c=[{...i,eyebrow:"● Lipari, Panarea — Italy",align:"end"},{...a,eyebrow:"● Science & Research",align:"end"}];e.s(["bookendItems",0,r,"bookendItemsBottom",0,d,"bookendItemsBottomWithEyebrow",0,c,"bookendItemsCenter",0,l,"bookendItemsCenterWithEyebrow",0,s,"bookendItemsCenterWithPill",0,n,"bookendItemsTop",0,o],274403)},39727,870674,114407,e=>{"use strict";e.s(["microbiomeChapters",0,[{type:"video",title:"The Microbiome",chapter:1,startTime:0,duration:16.5},{type:"video",title:"The Gut Microbiome",chapter:2,startTime:16.5,duration:24},{type:"video",title:"The Probiotics",chapter:3,startTime:40.89,duration:50},{type:"video",title:"DS-01 Daily Synbiotic",chapter:4,startTime:91.88,duration:41}],"microbiomeImageSlide",0,{type:"image",src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1750392786/library/microbiome/microbiome-fpo-2.jpg",heading:"Science-backed probiotics for your whole body of health.",title:"Whole Body Health",chapter:5,description:"From gut to brain to skin health, your microbiome plays a key role in how you feel every day. Seed’s science-backed probiotics are designed to support your body where it’s needed most."},"microbiomeVideo",0,{type:"video",devPlaybackId:"6Z02R016zJ8VbZNridGTzV9ylf02ttaS79MAmV9aT3OtLk",mobileDevPlaybackId:"RFXOFtkg01hHzL4dNrudCPoPr84Xol00PgJnLOjoUuWqM",playbackId:"lghhNZvdjkKNBiuV2g1GIWP9hBYnAYYQrd83swVFayM",mobilePlaybackId:"oMCpXSzvLPcYg8jZeStvs9LUXPFb37BDmjjjkMRgH900"}],39727);var t=e.i(391398),i=e.i(522458),a=e.i(32118),r=e.i(341949),o=e.i(760814);let l=o.default.div.withConfig({displayName:"review-carousel.content__StyledHeadline",componentId:"sc-3996226a-0"})`
+  margin-bottom: ${(0,a.pxToRem)(13)};
+  @media (${r.mqLargeMax}) {
+    margin-bottom: ${(0,a.pxToRem)(36.14)};
+  }
+`,n=[{playbackId:"oB02r9BUIqkJHUxbfyWLh00yK5GO6GqRQReiSskS5SRL4",devPlaybackId:"RAGGejzNXK7LZh02xMZbCPf9DeehqjfNtP5Tw4xtPQlk",mobilePlaybackId:"jPg401yfLuKkhTNqFtcMEUCdeidqj25YN00WG2upHt9rE",mobileDevPlaybackId:"u01fdMziZlEL8901FVvkOs4YOi5LUXUsVFuOiJ02IaQN00A",posterTime:3,thumb:"https://res.cloudinary.com/dljz0lko8/image/upload/v1752675690/library/reviews/thumbnail_zam.png",title:"Zam"},{playbackId:"iM00sNT9JitDRoL3sKGoI7wWXDmYwx7eAw5ialhbLBOk",devPlaybackId:"yAFu27L00T01EGdDrf5SzYMnMCWGfnDQUngJr9tHzSZfc",mobilePlaybackId:"EuX7bFlojLBm7cxPs2IKMBew1I7J0102vo74KVGwW016wc",mobileDevPlaybackId:"7S02mL4so7YmGpysiAwmB7GBZ9zKMvf01aBuGDC2kkUMw",posterTime:2.5,thumb:"https://res.cloudinary.com/dljz0lko8/image/upload/v1752675841/library/reviews/alice_thumbnail.png",title:"Alice"}];e.s(["ReviewCarouselHeadline",0,()=>(0,t.jsx)(l,{children:(0,t.jsx)(i.default,{title:"Over 1 million health transformations (and counting).",body:"See how real people are changing their health with Seed.",variant:"center",wrapperType:"div",contentMaxInlineSize:(0,a.pxToRem)(450),titleMaxInlineSize:(0,a.pxToRem)(700)})}),"videos",0,n],870674);let s={title:"Daily Synbiotic",microNavTitle:"Gut Health",label:"Bestseller",pills:["DS–01®"],media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1762362135/library/carousel/ds01-carousel-poster.png",videoSrc:"https://res.cloudinary.com/dljz0lko8/video/upload/v1755780716/library/carousel/Seed_DS01_Jar_1080-web_hd_720p.mov",webmVideoSrc:"https://res.cloudinary.com/dljz0lko8/video/upload/v1758217610/library/carousel/ds01_webm.webm",playbackId:"c6C1Y5Bwf00B6b9gQ25X9MpyFX8LMg43ier45AvpYoRs",devPlaybackId:"3jJ4yBBBZLDlmc7x7JKXfW02sehzxWMUyXpvwmIQPnJY",alt:"DS-01 Daily Synbiotic",width:360,height:360},primaryButton:{label:"Shop Now",url:"/daily-synbiotic"},note:"Starting at $49.99",desktopNote:"Starting at $49.99 per month",labelColor:"seedgreen"},d={title:"2-in-1 synbiotics for whole body health.",body:"Seed’s probiotics and prebiotics restore optimal microbiome health, with scientifically studied strains shown to promote systemic benefits.",primaryButton:{label:"Shop all",url:"/products"},reviews:{videos:n},items:[s,{title:"Pediatric Daily Synbiotic",microNavTitle:"Kids’ Gut Health",pills:["PDS–08®"],media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1753458405/library/carousel/pds08-green-lighter.png",videoSrc:"https://res.cloudinary.com/dljz0lko8/video/upload/v1755121850/library/carousel/Seed_PDS08_Jar_1080-web_hd_720p.mov",webmVideoSrc:"https://res.cloudinary.com/dljz0lko8/video/upload/v1758218246/library/carousel/pds_08_webm.webm",playbackId:"61EjIv6SXVFsvkOyKrtIahRipMPuvLGfd3YjFNpgvmo",devPlaybackId:"2BPGCAC02G4t52jB6mgnUG0033wocKDDqgcXbByo36ykc",alt:"PDS-08 Pediatric Daily Synbiotic",width:360,height:360},primaryButton:{label:"Shop Now",url:"pds08-daily-kids-probiotic"},note:"Starting at $39.99",desktopNote:"Starting at $39.99 per month"},{title:"Vaginal Synbiotic",microNavTitle:"Vaginal Health",pills:["VS–01™"],media:{videoSrc:"https://res.cloudinary.com/dljz0lko8/video/upload/v1755121850/library/carousel/Seed_VS01_Box_1080-web_hd_720p.mov",webmVideoSrc:"https://res.cloudinary.com/dljz0lko8/video/upload/v1758218247/library/carousel/vs_01_webm.webm",src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1753458290/library/carousel/vs01-green-lighter.png",playbackId:"hn6eszHn1C9TAW01dWLRErquE8ys9SQB3ZnX1G200ePjs",devPlaybackId:"XBSEWIByvhqzhdA5NrBD9UgfXD6mNFW00AvjGvI02f01Po",alt:"VS–01 Vaginal Synbiotic",width:360,height:360},primaryButton:{label:"Shop Now",url:"/vaginal-synbiotic"},note:"Starting at $99.99",desktopNote:"Starting at $99.99 per month"}]},c={...d,title:"Whole body health starts in the gut.",body:"Formulations that provide sustained support using key scientifically and clinically studied ingredients",items:[s,{title:"Daily Multivitamin",label:"New",pills:["DM–02™"],media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1762362131/library/carousel/dm02-carousel-poster.png",videoSrc:"https://res.cloudinary.com/dljz0lko8/video/upload/v1758201890/library/carousel/dm02clipped-mov_hd_720p_small.mov",webmVideoSrc:"https://res.cloudinary.com/dljz0lko8/video/upload/v1757706601/library/carousel/dm02clipped.webm",playbackId:"c6C1Y5Bwf00B6b9gQ25X9MpyFX8LMg43ier45AvpYoRs",devPlaybackId:"3jJ4yBBBZLDlmc7x7JKXfW02sehzxWMUyXpvwmIQPnJY",alt:"DM-02 Daily Multivitamin",width:360,height:360},primaryButton:{label:"Shop Now",url:"/daily-multivitamin"},note:"Starting at $39.99",desktopNote:"Starting at $39.99 per month",labelColor:"dmprimary"},{title:"Energy + Focus",label:"New",pills:["AM–02™"],media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1762362130/library/carousel/am02-carousel-poster.png",videoSrc:"https://res.cloudinary.com/dljz0lko8/video/upload/v1758201889/library/carousel/am02clipped-mov_hd_720p_small.mov",webmVideoSrc:"https://res.cloudinary.com/dljz0lko8/video/upload/v1757686131/library/carousel/am02clipped.webm",playbackId:"c6C1Y5Bwf00B6b9gQ25X9MpyFX8LMg43ier45AvpYoRs",devPlaybackId:"3jJ4yBBBZLDlmc7x7JKXfW02sehzxWMUyXpvwmIQPnJY",alt:"AM-02 Energy + Focus",width:360,height:360},primaryButton:{label:"Shop Now",url:"/energy-focus"},note:"Starting at $34.99",desktopNote:"Starting at $34.99 per month",labelColor:"amprimary"},{title:"Sleep + Restore",label:"New",pills:["PM–02™"],media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1762362130/library/carousel/pm02-carousel-poster.png",videoSrc:"https://res.cloudinary.com/dljz0lko8/video/upload/v1758201889/library/carousel/pm02clipped-mov_hd_720p_small.mov",webmVideoSrc:"https://res.cloudinary.com/dljz0lko8/video/upload/v1757706600/library/carousel/pm02clipped.webm",playbackId:"c6C1Y5Bwf00B6b9gQ25X9MpyFX8LMg43ier45AvpYoRs",devPlaybackId:"3jJ4yBBBZLDlmc7x7JKXfW02sehzxWMUyXpvwmIQPnJY",alt:"PM-02 Sleep + Restore",width:360,height:360},primaryButton:{label:"Shop Now",url:"/sleep-restore"},note:"Starting at $34.99",desktopNote:"Starting at $34.99 per month",labelColor:"pmprimary"}]};e.s(["gridItems",0,{items:[{title:"Daily Energy, Sharpened Focus",label:"New",pills:["AM–02®"],media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1750392871/library/card/product-1.png",alt:"product 1",width:300,height:360},primaryButton:{label:"Shop Now",url:"#"},note:"Starting at $39.99"},{title:"Proactive Vaginal Care — Finally",pills:["VS–01™"],media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1750392872/library/card/product-3.png",alt:"product 3",width:300,height:360},primaryButton:{label:"Shop Now",url:"#"},note:"Starting at $39.99"},{title:"The Standard in Kids Probiotics",pills:["PDS–08®"],media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1750392872/library/card/product-2.png",alt:"product 2",width:300,height:360},primaryButton:{label:"Shop Now",url:"#"},note:"Starting at $39.99"},{title:"The Standard in Kids Probiotics",pills:["PDS–08®"],media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1750392872/library/card/product-2.png",alt:"product 2",width:300,height:360},primaryButton:{label:"Shop Now",url:"#"},note:"Starting at $39.99"}]},"itemsOverflow",0,{items:[{title:"Daily Synbiotic",label:"Bestseller",pills:["DS–01®"],media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1750392871/library/card/product-1.png",alt:"product 1",width:300,height:360},primaryButton:{label:"Shop Now",url:"#"},note:"Starting at $39.99"},{title:"Daily Multivitamin",pills:["PDS–08®"],media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1750392872/library/card/product-2.png",alt:"product 2",width:300,height:360},primaryButton:{label:"Shop Now",url:"#"},note:"Starting at $39.99"},{title:"Energy + Focus",pills:["VS–01™"],media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1750392872/library/card/product-3.png",alt:"product 3",width:300,height:360},primaryButton:{label:"Shop Now",url:"#"},note:"Starting at $39.99"},{title:"Sleep + Restore",pills:["VS–01™"],media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1750392872/library/card/product-3.png",alt:"product 3",width:300,height:360},primaryButton:{label:"Shop Now",url:"#"},note:"Starting at $39.99"},{title:"Proactive Vaginal Care — Finally",pills:["VS–01™"],media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1750392872/library/card/product-3.png",alt:"product 3",width:300,height:360},primaryButton:{label:"Shop Now",url:"#"},note:"Starting at $39.99"}]},"npdProductContent",0,c,"productContent",0,d],114407)},862389,e=>{"use strict";var t=e.i(391398),i=e.i(97984),a=e.i(285003),r=e.i(984727),o=e.i(926405),l=e.i(760814),n=e.i(32118),s=e.i(341949),d=e.i(32178),c=e.i(188564);let p=l.default.section.withConfig({displayName:"bookend.styled__Section",componentId:"sc-98d93319-0"})`
+  background: var(--fill-primary);
+  padding-block: var(--space-5);
+  padding-inline: var(--space-outer);
+
+  @media ${s.mqLargeMax} {
+    padding-block: var(--space-fixed-2);
+  }
+`,m=l.default.div.withConfig({displayName:"bookend.styled__Frame",componentId:"sc-98d93319-1"})`
+  background-color: var(--fill-brand);
+  background-size: cover;
+  aspect-ratio: 1 / 1;
+  border-radius: var(--bdrs-m);
+  align-items: center;
+  justify-content: ${e=>e.align||"center"};
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  grid-column: auto / span 6;
+  padding: ${(0,n.pxToRem)(48)} ${(0,n.pxToRem)(128)};
+  width: 100%;
+
+  ${e=>"end"==e.align&&`
+    justify-content: end;
+
+    &:has(.eyebrow) {
+        justify-content: space-between;
+    }
+  `}
+
+  @media ${s.mqLargeMax} {
+    padding: ${(0,n.pxToRem)(24)} ${(0,n.pxToRem)(56)};
+    grid-column: 1 / -1;
+  }
+
+  & > picture,
+  & img,
+  & > video {
+    block-size: 100%;
+    inline-size: 100%;
+    object-fit: cover;
+  }
+`,u=l.default.div.withConfig({displayName:"bookend.styled__BookendContent",componentId:"sc-98d93319-2"})`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  ${c.StackMedium};
+`,h=(0,l.default)(i.TypeLabel).withConfig({displayName:"bookend.styled__Eyebrow",componentId:"sc-98d93319-3"})`
+  color: var(--fill-primary);
+  align-self: center;
+  ${e=>"center"==e.align&&`
+      transform-origin: 0 0;
+    transform: rotate(90deg);
+      position: absolute;
+      top: 33%;
+      left: var(--space-fixed-4);
+    `}
+`,g=(0,l.default)(i.TypeHeadingTertiary).withConfig({displayName:"bookend.styled__BookendWordWrapper",componentId:"sc-98d93319-4"})`
+  position: relative;
+
+  &:before,
+  &:after {
+    position: absolute;
+    top: 0;
+  }
+
+  &:before {
+    content: '【';
+    left: -44px;
+  }
+
+  &:after {
+    content: '】';
+    right: 60px;
+    transition: all 0.5s linear;
+  }
+
+  &.is-visible:after {
+    right: -44px;
+  }
+`,f=(0,l.default)(i.TypeHeadingTertiary).withConfig({displayName:"bookend.styled__BookendWord",componentId:"sc-98d93319-5"})``,b=(0,l.default)(i.TypeHeadingTertiary).withConfig({displayName:"bookend.styled__BookendTitle",componentId:"sc-98d93319-6"})`
+  color: var(--fill-primary);
+  font-feature-settings: 'ss05' on;
+  display: flex;
+  gap: var(--space-fixed-4);
+
+  &[data-pill]:before {
+    content: attr(data-pill);
+    color: var(--fill-primary);
+    font-family: var(--ff);
+    font-size: ${d.fontSizes["14px"]};
+    font-weight: 500;
+    text-transform: uppercase;
+    border-radius: var(--bdrs-pill);
+    border: 1.5px solid currentColor;
+    padding-block: ${(0,n.pxToRem)(8)};
+    padding-inline: ${(0,n.pxToRem)(12)};
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: var(--space-fixed-1);
+    margin-bottom: var(--space-fixed-1);
+  }
+`;var y=e.i(126019),v=e.i(715367);let x=(0,l.default)(m).withConfig({displayName:"bookend-item__StyledFrame",componentId:"sc-1a472bd0-0"})``,w=({item:e,index:r})=>{let o=e.align??"center";return(0,t.jsxs)(x,{align:o,style:{backgroundImage:`url(${e.media.src})`},children:[["center","end"].includes(o)&&e.eyebrow&&(0,t.jsx)(h,{align:o,className:"eyebrow",children:e.eyebrow}),(0,t.jsxs)(u,{children:[e.additionalImage&&(0,t.jsx)("div",{style:{marginTop:0,width:`${e.additionalImage.width}px`,height:`${e.additionalImage.height}px`,alignSelf:"center"},children:(0,t.jsx)(y.default,{src:e.additionalImage.src,alt:e.additionalImage.alt,width:e.additionalImage.width,height:e.additionalImage.height})}),(0,t.jsx)("div",{children:(0,t.jsxs)(b,{"data-pill":e.pill,children:[e.titleStyle?(0,t.jsx)("span",{style:e.titleStyle,children:e.title}):e.title,e.word&&(0,t.jsx)(g,{as:"span",className:"is-visible",color:"inverse-primary",children:(0,t.jsx)(f,{as:"span",color:"inverse-primary",children:e.word})})]})}),(0,t.jsx)("div",{children:(0,t.jsx)(i.TypeBody,{color:"inverse-primary",children:e.body})}),(0,t.jsx)("div",{children:(0,t.jsx)(a.default,{onClick:()=>{(0,v.buttonEventHandler)(`${e.primaryButton.label}`,"Bookend")},url:e.primaryButton.url,color:e.primaryButton.color??"snowwhite",label:e.primaryButton.label})})]})]})};e.s(["default",0,({items:e})=>(0,t.jsx)(p,{children:(0,t.jsx)(r.Container,{children:(0,t.jsx)(o.Grid,{children:e.map((e,i)=>(0,t.jsx)(w,{item:e,index:i},i))})})})],862389)},426609,e=>{"use strict";var t=e.i(357126),i=e.i(39016),a=e.i(361263),r=e.i(794364),o=e.i(388905);function l(e,t){[...t].reverse().forEach(i=>{let a=e.getVariant(i);a&&(0,r.setTarget)(e,a),e.variantChildren&&e.variantChildren.forEach(e=>{l(e,t)})})}function n(){let e=!1,t=new Set,i={subscribe:e=>(t.add(e),()=>void t.delete(e)),start(i,r){(0,o.invariant)(e,"controls.start() should only be called after a component has mounted. Consider calling within a useEffect hook.");let l=[];return t.forEach(e=>{l.push((0,a.animateVisualElement)(e,i,{transitionOverride:r}))}),Promise.all(l)},set:i=>((0,o.invariant)(e,"controls.set() should only be called after a component has mounted. Consider calling within a useEffect hook."),t.forEach(e=>{var t,a;t=e,Array.isArray(a=i)?l(t,a):"string"==typeof a?l(t,[a]):(0,r.setTarget)(t,a)})),stop(){t.forEach(e=>{e.values.forEach(e=>e.stop())})},mount:()=>(e=!0,()=>{e=!1,i.stop()})};return i}e.s(["useAnimation",0,function(){let e=(0,t.useConstant)(n);return(0,i.useIsomorphicLayoutEffect)(e.mount,[]),e}],426609)},679480,793087,657610,326742,738496,855821,147749,27296,e=>{"use strict";e.i(350461);var t=e.i(391398),i=e.i(191788),a=e.i(484398),r=e.i(24297),o=e.i(285003),l=e.i(630051),n=e.i(4912),s=e.i(321091);function d({swiper:e,extendParams:t,on:i}){t({parallax:{enabled:!1}});let a="[data-swiper-parallax], [data-swiper-parallax-x], [data-swiper-parallax-y], [data-swiper-parallax-opacity], [data-swiper-parallax-scale]",r=(t,i)=>{let{rtl:a}=e,r=a?-1:1,o=t.getAttribute("data-swiper-parallax")||"0",l=t.getAttribute("data-swiper-parallax-x"),n=t.getAttribute("data-swiper-parallax-y"),s=t.getAttribute("data-swiper-parallax-scale"),d=t.getAttribute("data-swiper-parallax-opacity"),c=t.getAttribute("data-swiper-parallax-rotate");if(l||n?(l=l||"0",n=n||"0"):e.isHorizontal()?(l=o,n="0"):(n=o,l="0"),l=l.indexOf("%")>=0?`${parseInt(l,10)*i*r}%`:`${l*i*r}px`,n=n.indexOf("%")>=0?`${parseInt(n,10)*i}%`:`${n*i}px`,null!=d){let e=d-(d-1)*(1-Math.abs(i));t.style.opacity=e}let p=`translate3d(${l}, ${n}, 0px)`;if(null!=s){let e=s-(s-1)*(1-Math.abs(i));p+=` scale(${e})`}c&&null!=c&&(p+=` rotate(${-(c*i*1)}deg)`),t.style.transform=p},o=()=>{let{el:t,slides:i,progress:o,snapGrid:l,isElement:n}=e,d=(0,s.e)(t,a);e.isElement&&d.push(...(0,s.e)(e.hostEl,a)),d.forEach(e=>{r(e,o)}),i.forEach((t,i)=>{let n=t.progress;e.params.slidesPerGroup>1&&"auto"!==e.params.slidesPerView&&(n+=Math.ceil(i/2)-o*(l.length-1)),n=Math.min(Math.max(n,-1),1),t.querySelectorAll(`${a}, [data-swiper-parallax-rotate]`).forEach(e=>{r(e,n)})})};i("beforeInit",()=>{e.params.parallax.enabled&&(e.params.watchSlidesProgress=!0,e.originalParams.watchSlidesProgress=!0)}),i("init",()=>{e.params.parallax.enabled&&o()}),i("setTranslate",()=>{e.params.parallax.enabled&&o()}),i("setTransition",(t,i)=>{e.params.parallax.enabled&&((t=e.params.speed)=>{let{el:i,hostEl:r}=e,o=[...i.querySelectorAll(a)];e.isElement&&o.push(...r.querySelectorAll(a)),o.forEach(e=>{let i=parseInt(e.getAttribute("data-swiper-parallax-duration"),10)||t;0===t&&(i=0),e.style.transitionDuration=`${i}ms`})})(i)})}var c=e.i(477431);function p({swiper:e,extendParams:t,on:i,emit:a}){let r,o,l=(0,c.a)();t({mousewheel:{enabled:!1,releaseOnEdges:!1,invert:!1,forceToAxis:!1,sensitivity:1,eventsTarget:"container",thresholdDelta:null,thresholdTime:null,noMousewheelClass:"swiper-no-mousewheel"}}),e.mousewheel={enabled:!1};let n=(0,s.h)(),d=[];function m(){e.enabled&&(e.mouseEntered=!0)}function u(){e.enabled&&(e.mouseEntered=!1)}function h(t){return!(e.params.mousewheel.thresholdDelta&&t.delta<e.params.mousewheel.thresholdDelta||e.params.mousewheel.thresholdTime&&(0,s.h)()-n<e.params.mousewheel.thresholdTime)&&(!!(t.delta>=6&&(0,s.h)()-n<60)||(t.direction<0?e.isEnd&&!e.params.loop||e.animating||(e.slideNext(),a("scroll",t.raw)):e.isBeginning&&!e.params.loop||e.animating||(e.slidePrev(),a("scroll",t.raw)),n=new l.Date().getTime(),!1))}function g(t){var i;let l,n,c,p,m=t;if(!e.enabled||t.target.closest(`.${e.params.mousewheel.noMousewheelClass}`))return;let u=e.params.mousewheel;e.params.cssMode&&m.preventDefault();let g=e.el;"container"!==e.params.mousewheel.eventsTarget&&(g=document.querySelector(e.params.mousewheel.eventsTarget));let f=g&&g.contains(m.target);if(!e.mouseEntered&&!f&&!u.releaseOnEdges)return!0;m.originalEvent&&(m=m.originalEvent);let b=0,y=e.rtlTranslate?-1:1,v=(l=0,n=0,c=0,p=0,"detail"in(i=m)&&(n=i.detail),"wheelDelta"in i&&(n=-i.wheelDelta/120),"wheelDeltaY"in i&&(n=-i.wheelDeltaY/120),"wheelDeltaX"in i&&(l=-i.wheelDeltaX/120),"axis"in i&&i.axis===i.HORIZONTAL_AXIS&&(l=n,n=0),c=10*l,p=10*n,"deltaY"in i&&(p=i.deltaY),"deltaX"in i&&(c=i.deltaX),i.shiftKey&&!c&&(c=p,p=0),(c||p)&&i.deltaMode&&(1===i.deltaMode?(c*=40,p*=40):(c*=800,p*=800)),c&&!l&&(l=c<1?-1:1),p&&!n&&(n=p<1?-1:1),{spinX:l,spinY:n,pixelX:c,pixelY:p});if(u.forceToAxis)if(e.isHorizontal())if(!(Math.abs(v.pixelX)>Math.abs(v.pixelY)))return!0;else b=-v.pixelX*y;else{if(!(Math.abs(v.pixelY)>Math.abs(v.pixelX)))return!0;b=-v.pixelY}else b=Math.abs(v.pixelX)>Math.abs(v.pixelY)?-v.pixelX*y:-v.pixelY;if(0===b)return!0;u.invert&&(b=-b);let x=e.getTranslate()+b*u.sensitivity;if(x>=e.minTranslate()&&(x=e.minTranslate()),x<=e.maxTranslate()&&(x=e.maxTranslate()),(e.params.loop||x!==e.minTranslate()&&x!==e.maxTranslate())&&e.params.nested&&m.stopPropagation(),e.params.freeMode&&e.params.freeMode.enabled){let t={time:(0,s.h)(),delta:Math.abs(b),direction:Math.sign(b)},i=o&&t.time<o.time+500&&t.delta<=o.delta&&t.direction===o.direction;if(!i){o=void 0;let l=e.getTranslate()+b*u.sensitivity,n=e.isBeginning,c=e.isEnd;if(l>=e.minTranslate()&&(l=e.minTranslate()),l<=e.maxTranslate()&&(l=e.maxTranslate()),e.setTransition(0),e.setTranslate(l),e.updateProgress(),e.updateActiveIndex(),e.updateSlidesClasses(),(!n&&e.isBeginning||!c&&e.isEnd)&&e.updateSlidesClasses(),e.params.loop&&e.loopFix({direction:t.direction<0?"next":"prev",byMousewheel:!0}),e.params.freeMode.sticky){clearTimeout(r),r=void 0,d.length>=15&&d.shift();let i=d.length?d[d.length-1]:void 0,a=d[0];if(d.push(t),i&&(t.delta>i.delta||t.direction!==i.direction))d.splice(0);else if(d.length>=15&&t.time-a.time<500&&a.delta-t.delta>=1&&t.delta<=6){let i=b>0?.8:.2;o=t,d.splice(0),r=(0,s.n)(()=>{!e.destroyed&&e.params&&e.slideToClosest(e.params.speed,!0,void 0,i)},0)}r||(r=(0,s.n)(()=>{e.destroyed||!e.params||(o=t,d.splice(0),e.slideToClosest(e.params.speed,!0,void 0,.5))},500))}if(i||a("scroll",m),e.params.autoplay&&e.params.autoplay.disableOnInteraction&&e.autoplay.stop(),u.releaseOnEdges&&(l===e.minTranslate()||l===e.maxTranslate()))return!0}}else{let i={time:(0,s.h)(),delta:Math.abs(b),direction:Math.sign(b),raw:t};d.length>=2&&d.shift();let a=d.length?d[d.length-1]:void 0;if(d.push(i),a?(i.direction!==a.direction||i.delta>a.delta||i.time>a.time+150)&&h(i):h(i),function(t){let i=e.params.mousewheel;if(t.direction<0){if(e.isEnd&&!e.params.loop&&i.releaseOnEdges)return!0}else if(e.isBeginning&&!e.params.loop&&i.releaseOnEdges)return!0;return!1}(i))return!0}return m.preventDefault?m.preventDefault():m.returnValue=!1,!1}function f(t){let i=e.el;"container"!==e.params.mousewheel.eventsTarget&&(i=document.querySelector(e.params.mousewheel.eventsTarget)),i[t]("mouseenter",m),i[t]("mouseleave",u),i[t]("wheel",g)}function b(){return e.params.cssMode?(e.wrapperEl.removeEventListener("wheel",g),!0):!e.mousewheel.enabled&&(f("addEventListener"),e.mousewheel.enabled=!0,!0)}function y(){return e.params.cssMode?(e.wrapperEl.addEventListener(event,g),!0):!!e.mousewheel.enabled&&(f("removeEventListener"),e.mousewheel.enabled=!1,!0)}i("init",()=>{!e.params.mousewheel.enabled&&e.params.cssMode&&y(),e.params.mousewheel.enabled&&b()}),i("destroy",()=>{e.params.cssMode&&b(),e.mousewheel.enabled&&y()}),Object.assign(e.mousewheel,{enable:b,disable:y})}var m=e.i(603783),u=e.i(57641),h=e.i(193987),g=e.i(120672);function f({swiper:e,extendParams:t,on:i}){t({creativeEffect:{limitProgress:1,shadowPerProgress:!1,progressMultiplier:1,perspective:!0,prev:{translate:[0,0,0],rotate:[0,0,0],opacity:1,scale:1},next:{translate:[0,0,0],rotate:[0,0,0],opacity:1,scale:1}}});let a=e=>"string"==typeof e?e:`${e}px`;(0,u.e)({effect:"creative",swiper:e,on:i,setTranslate:()=>{let{slides:t,wrapperEl:i,slidesSizesGrid:r}=e,o=e.params.creativeEffect,{progressMultiplier:l}=o,n=e.params.centeredSlides,d=(0,s.a)(e);if(n){let t=r[0]/2-e.params.slidesOffsetBefore||0;i.style.transform=`translateX(calc(50% - ${t}px))`}for(let i=0;i<t.length;i+=1){let r=t[i],c=r.progress,p=Math.min(Math.max(r.progress,-o.limitProgress),o.limitProgress),m=p;n||(m=Math.min(Math.max(r.originalProgress,-o.limitProgress),o.limitProgress));let u=r.swiperSlideOffset,g=[e.params.cssMode?-u-e.translate:-u,0,0],f=[0,0,0],b=!1;e.isHorizontal()||(g[1]=g[0],g[0]=0);let y={translate:[0,0,0],rotate:[0,0,0],scale:1,opacity:1};p<0?(y=o.next,b=!0):p>0&&(y=o.prev,b=!0),g.forEach((e,t)=>{g[t]=`calc(${e}px + (${a(y.translate[t])} * ${Math.abs(p*l)}))`}),f.forEach((e,t)=>{let i=y.rotate[t]*Math.abs(p*l);f[t]=i}),r.style.zIndex=-Math.abs(Math.round(c))+t.length;let v=g.join(", "),x=`rotateX(${d(f[0])}deg) rotateY(${d(f[1])}deg) rotateZ(${d(f[2])}deg)`,w=m<0?`scale(${1+(1-y.scale)*m*l})`:`scale(${1-(1-y.scale)*m*l})`,k=m<0?1+(1-y.opacity)*m*l:1-(1-y.opacity)*m*l,j=`translate3d(${v}) ${x} ${w}`;if(b&&y.shadow||!b){let e=r.querySelector(".swiper-slide-shadow");if(!e&&y.shadow&&(e=function(e,t){let i=`swiper-slide-shadow${e?` swiper-slide-shadow-${e}`:""}`,a=(0,s.g)(t),r=a.querySelector(`.${i.split(" ").join(".")}`);return r||(r=(0,s.c)("div",i.split(" ")),a.append(r)),r}("creative",r)),e){let t=o.shadowPerProgress?p*(1/o.limitProgress):p;e.style.opacity=Math.min(Math.max(Math.abs(t),0),1)}}let _=(0,h.e)(o,r);_.style.transform=j,_.style.opacity=k,y.origin&&(_.style.transformOrigin=y.origin)}},setTransition:t=>{let i=e.slides.map(e=>(0,s.g)(e));i.forEach(e=>{e.style.transitionDuration=`${t}ms`,e.querySelectorAll(".swiper-slide-shadow").forEach(e=>{e.style.transitionDuration=`${t}ms`})}),(0,g.e)({swiper:e,duration:t,transformElements:i,allSlides:!0})},perspective:()=>e.params.creativeEffect.perspective,overwriteParams:()=>({watchSlidesProgress:!0,virtualTranslate:!e.params.cssMode})})}var b=e.i(760814),y=e.i(32118),v=e.i(341949),x=e.i(32178),w=e.i(188564),k=e.i(915597),j=e.i(97984),_=e.i(198311);let $=b.default.section.withConfig({shouldForwardProp:e=>"config"!==e}).withConfig({displayName:"hero.styled__HeroSwiperContainer",componentId:"sc-b48ab127-0"})`
+  background-color: var(--fill-brand);
+  ${({banner:e=!1,config:t})=>{let i=`
+      --offset: calc(var(--nav-height) ${e?"+ var(--banner-height)":""});
+      height: min(calc(100vh - var(--offset)), 900px);
+      margin-top: calc(var(--offset) * -1);
+    `;return t?.height?`
+        height: ${t.height};
+        ${t.mobileHeight?`
+          @media (max-width: 768px) {
+            height: ${t.mobileHeight};
+          }
+        `:""}
+      `:t?.mobileHeight?`
+        ${i}
+        @media (max-width: 768px) {
+          height: ${t.mobileHeight};
+        }
+      `:i}}
+
+  .pause-play-white {
+    path {
+      stroke: var(--fill-primary);
+      color: var(--fill-primary);
+      fill: var(--fill-primary);
+    }
+    margin-right: 6px;
+    margin-left: 6px;
+  }
+
+  .swiper {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    border-radius: 0 0 var(--bdrs-l) var(--bdrs-l);
+  }
+
+  .swiper-slide {
+    width: 100%;
+    height: 100% !important;
+  }
+
+  .swiper-pagination-bullet {
+    --swiper-pagination-bullet-inactive-color: var(--fill-primary);
+    transition: all 0.25s ease-in-out;
+  }
+
+  .swiper-pagination-bullet-active {
+    background-color: #fff;
+    border-radius: 99em;
+    height: 16px;
+  }
+
+  .swiper-vertical > .swiper-pagination-bullets,
+  .swiper-pagination-vertical.swiper-pagination-bullets {
+    bottom: 0;
+    right: 50%;
+    top: auto;
+  }
+
+  &:has(.swiper-pagination) .content {
+    @media ${v.mqMediumMax} {
+      padding-block-end: var(--space-fixed-5);
+    }
+  }
+`,C=b.default.div.withConfig({displayName:"hero.styled__SlideContent",componentId:"sc-b48ab127-1"})`
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  padding-inline: var(--space-fixed-2);
+  padding-block-start: var(--offset, var(--space-fixed-2));
+  padding-block-end: calc(var(--offset) + var(--space-4));
+  width: 100%;
+
+  @media ${v.mqLargeMin} {
+    // needs to change
+    padding-inline: var(--space-fixed-6);
+    padding-bottom: 0px;
+  }
+
+  ${({position:e})=>"center"===e&&`
+      @media ${v.mqMediumMax} {
+        align-items: flex-end;
+      }
+    `}
+
+  &:before {
+    content: '';
+    ${({$hideFilter:e})=>!e&&`
+      background: linear-gradient(
+        0deg,
+        rgba(0, 0, 0, 0.2) 0%,
+        rgba(0, 0, 0, 0.2) 100%
+      );
+    `}
+    inset: 0;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: 2;
+  }
+
+  &:after {
+    @media ${v.mqLargeMax} {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 30%;
+      z-index: 2;
+      ${({$hideFilter:e})=>e?"":k.GlassEffectBottom}
+      ${({$hideFilter:e})=>!e&&`
+        background: rgba(0, 0, 0, 0.06);
+        backdrop-filter: blur(15px);
+        -webkit-backdrop-filter: blur(15px);
+      `}
+    }
+  }
+
+  ${({alignment:e})=>"left"==e&&`
+      justify-content: start;
+    `}
+
+  ${({position:e})=>"top"==e&&`
+      align-items: start;
+    `}
+
+  ${({position:e})=>"bottom"==e&&`
+      align-items: end;
+    `}
+
+  ${({$desktopVerticalCenter:e})=>!e&&`
+      @media ${v.mqLargeMin} {
+        padding-block-end: var(--space-fixed-2);
+      }
+    `}
+
+  ${({$mobilePosition:e})=>e&&`
+      @media ${v.mqMediumMax} {
+        align-items: ${"top"===e?"flex-start":"bottom"===e?"flex-end":"center"};
+      }
+    `}
+`,S=b.default.div.withConfig({displayName:"hero.styled__SlideText",componentId:"sc-b48ab127-2"})`
+  ${({alignment:e})=>"center"==e&&`
+        text-align: center;
+        margin-inline: auto;
+  `}
+  color: #fff;
+  position: relative;
+  max-width: ${(0,y.pxToRem)(750)};
+  z-index: 5;
+`,M=b.default.div.withConfig({displayName:"hero.styled__SlideTextContainer",componentId:"sc-b48ab127-3"})`
+  @media (${v.mqXXLargeMin}) {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: var(--maw);
+    ${({position:e,$desktopVerticalCenter:t})=>"center"===e&&`
+        ${!t?"margin-top: auto;":""}
+      `}
+  }
+  @media (min-width: 1550px) {
+    padding-inline: 2em;
+  }
+
+  ${({position:e,$titleVariant:t})=>"top"===e&&`
+      @media ${v.mqLargeMax} {
+        margin-top: ${"catalog"===t?"102px":"227px"};
+      }
+      margin-top: 0px;
+    `}
+
+  ${({position:e})=>"midtop"===e&&`
+      margin-top: -219px;
+    `}
+
+  ${({$mobilePosition:e})=>"top"===e&&`
+      @media ${v.mqLargeMax} {
+        margin-top: 40px;
+      }
+    `}
+
+  ${({$mobilePosition:e})=>e&&"top"!==e&&`
+      @media ${v.mqLargeMax} {
+        margin-top: 0;
+      }
+    `}
+`,I=(0,b.default)(_.motion.img).withConfig({displayName:"hero.styled__SlideImage",componentId:"sc-b48ab127-4"})`
+  height: 100%;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+
+  @media ${v.mqLargeMax} {
+    ${({$mobileImageFit:e,$mobileBackgroundColor:t})=>"contain"===e&&`
+      object-fit: contain;
+      object-position: center center;
+      background-color: ${t||"transparent"};
+    `}
+  }
+
+  @media ${v.mqLargeMin} {
+    ${({$desktopImageFit:e,$desktopBackgroundColor:t})=>"contain"===e&&`
+      object-fit: contain;
+      object-position: center center;
+      background-color: ${t||"transparent"};
+    `}
+  }
+`,z=(0,b.default)(_.motion.div).withConfig({displayName:"hero.styled__SlideVideo",componentId:"sc-b48ab127-5"})`
+  height: 100%;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+`,N=b.default.div.withConfig({displayName:"hero.styled__HeroHead",componentId:"sc-b48ab127-6"})`
+  ${w.StackSmall}
+
+  ${({alignment:e})=>"center"==e&&`
+        text-align: center;
+        p {
+          margin-inline: auto;
+        }
+  `}
+`,T=(0,b.default)(j.TypeHeadingPrimary).withConfig({displayName:"hero.styled__HeroTitle",componentId:"sc-b48ab127-7"})`
+  margin-top: ${({$desktopMarginTop:e})=>e||"var(--space-fixed-2-5)"};
+  @media ${v.mqMediumMax} {
+    margin-top: var(--space-fixed-2);
+    margin-bottom: var(--space-fixed-2);
+    ${({$titleMobileFontSize:e})=>e&&`font-size: ${e};`}
+  }
+
+  &[data-pill]:before {
+    content: attr(data-pill);
+    color: var(--fill-primary);
+    font-family: var(--ff);
+    font-size: ${x.fontSizes["14px"]};
+    font-weight: 500;
+    height: ${(0,y.pxToRem)(30)};
+    text-transform: uppercase;
+    border-radius: var(--bdrs-pill);
+    border: 1.5px solid currentColor;
+    padding-inline: ${(0,y.pxToRem)(12)};
+    vertical-align: middle;
+    display: inline-flex;
+    align-items: center;
+    margin-right: var(--space-fixed-1);
+    margin-bottom: var(--space-fixed-1);
+  }
+`,q=(0,b.default)(j.TypeBody).withConfig({displayName:"hero.styled__HeroSubhead",componentId:"sc-b48ab127-8"})`
+  max-width: ${(0,y.pxToRem)(426)};
+`,L=b.default.div.withConfig({displayName:"hero.styled__HeroActions",componentId:"sc-b48ab127-9"})`
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  gap: var(--space-fixed-2);
+  margin-top: var(--space-fixed-3);
+  @media ${v.mqLargeMin} {
+    margin-top: var(--space-fixed-3-5);
+  }
+
+  ${({alignment:e,position:t})=>"center"==e&&"bottom"==t&&`
+        @media ${v.mqMediumMax} {
+            flex-direction: column;
+        }
+  `}
+
+  ${({alignment:e})=>"left"==e&&`
+        justify-content: start;
+  `}
+
+  ${({position:e})=>"bottom"==e&&`
+        @media ${v.mqMediumMax} {
+            margin-bottom: ${(0,y.pxToRem)(56)};
+        }
+  `}
+
+  ${({$mobilePosition:e})=>"bottom"===e&&`
+      @media ${v.mqMediumMax} {
+        margin-bottom: ${(0,y.pxToRem)(56)};
+      }
+    `}
+`,E=b.default.div.withConfig({displayName:"hero.styled__HeroPauseButtonContainer",componentId:"sc-b48ab127-10"})`
+  position: absolute;
+  bottom: var(--space-fixed-2);
+  left: 0;
+  right: 0;
+  z-index: 10;
+  display: flex;
+  justify-content: flex-end;
+  max-width: var(--maw);
+  margin: 0 auto;
+  @media ${v.mqXXLargeMax} {
+    padding-right: var(--space-fixed-2);
+  }
+`;b.default.div.withConfig({displayName:"hero.styled__HeroPauseButton",componentId:"sc-b48ab127-11"})`
+  /* No positioning needed - flexbox handles it */
+`;var P=e.i(715367),B=e.i(114307),D=e.i(725198),F=e.i(440884);let H={animate:{scale:1,transition:{duration:.8,ease:"easeOut"}}},R={animate:{scale:1,transition:{duration:.8,ease:"easeOut"}}};e.s(["default",0,({slides:e,banner:s=!1,imageAnimationControls:c,config:u,label:h,pillAndTitle:g})=>{let b=(0,a.default)(960),[y,v]=(0,i.useState)(""),x=(0,i.useRef)([]),w=(0,i.useRef)([]),[k,j]=(0,i.useState)(!0),_=()=>{w.current&&(k?(w.current[0]?.pause(),j(!1),(0,P.buttonEventHandler)("Pause video","Hero")):(w.current[0]?.play(),j(!0),(0,P.buttonEventHandler)("Play video","Hero")))};return(0,i.useEffect)(()=>{let e=window.pageYOffset,t=!1,i=()=>{let i=window.pageYOffset;if(0>Math.abs(i-e)){t=!1;return}v(i>e?"down":"up"),e=i>0?i:0,t=!1},a=()=>{t||(window.requestAnimationFrame(i),t=!0)};return window.addEventListener("scroll",a),()=>window.removeEventListener("scroll",a)},[]),(0,t.jsx)($,{banner:s,config:u,children:(0,t.jsx)(r.Swiper,{effect:"creative",creativeEffect:{prev:{translate:[0,"-20%",-1]},next:{translate:[0,"100%",0]}},speed:400,parallax:!0,direction:"vertical",slidesPerView:1,pagination:{clickable:!0},mousewheel:{forceToAxis:!0,sensitivity:1,releaseOnEdges:!0},touchReleaseOnEdges:!0,threshold:5,modules:[f,d,p,m.Pagination],children:e.map((e,a)=>{let s=b?e.backgroundMobile:e.backgroundDesktop,d=b?e.videoMobile:e.videoDesktop,p=d?.playbackId,m=b&&e.mobileAlignment?e.mobileAlignment:e.alignment,f=b&&e.mobileTitle?e.mobileTitle:e.title;return(0,t.jsx)(r.SwiperSlide,{children:(0,t.jsxs)(C,{id:`slide-content-${a}`,"data-swiper-parallax":"5%",position:e.position,$mobilePosition:e.mobilePosition,alignment:m,className:"content",$hideFilter:e.hideFilter,$desktopVerticalCenter:e.desktopVerticalCenter,children:[(0,t.jsx)(M,{id:"slide-text-container",position:e.position,$mobilePosition:e.mobilePosition,$desktopVerticalCenter:e.desktopVerticalCenter,$titleVariant:e.titleVariant,children:(0,t.jsxs)(S,{"data-swiper-parallax-y":"-168","data-swiper-parallax-x":"0","data-swiper-parallax-duration":"700",alignment:m,children:[h&&(0,t.jsx)(B.default,{size:"small",children:h}),g&&g,(0,t.jsxs)(N,{alignment:m,children:[(0,t.jsxs)(T,{color:e?.textColor==="seedgreen"?"primary":"inverse-primary",as:"h2","data-pill":e?.pill,$titleMobileFontSize:e?.titleMobileFontSize,$desktopMarginTop:e?.desktopMarginTop,children:[f.split("<br />").map((e,a)=>(0,t.jsxs)(i.default.Fragment,{children:[e,a<f.split("<br />").length-1&&(0,t.jsx)("br",{})]},a)),(0,t.jsx)("br",{})]}),e?.subhead&&(0,t.jsx)(q,{color:e?.textColor==="seedgreen"?"primary":"inverse-primary",children:(0,F.formatTrademarks)(e?.subhead)})]}),(e?.primaryButton||e?.secondaryButton)&&(0,t.jsxs)(L,{alignment:m,position:e.position,$mobilePosition:e.mobilePosition,children:[e?.primaryButton&&(0,t.jsx)(o.default,{animated:!0,color:e?.primaryButton?.color||"snowwhite",url:e.primaryButton.url,onClick:()=>(0,P.buttonEventHandler)(e?.primaryButton?.label,"Hero"),children:(0,F.formatTrademarks)(e?.primaryButton?.label??"",!1,"0.1rem")}),e?.secondaryButton&&(0,t.jsx)(l.default,{color:e?.textColor||"snowwhite",label:e?.secondaryButton?.label,url:e.secondaryButton.url,underline:!0,transform:"lower",hideArrow:e?.secondaryButton?.hideArrow,onClick:()=>(0,P.buttonEventHandler)(e?.secondaryButton?.label,"Hero")})]})]})}),d&&p?(0,t.jsx)(E,{children:(0,t.jsx)("div",{children:(0,t.jsx)(o.default,{color:"frostedglass",size:"small",onClick:_,children:k?(0,t.jsx)(D.Pause,{customClass:"pause-play-white"}):(0,t.jsx)(D.Play,{customClass:"pause-play-white"})})})}):null,d&&p?(0,t.jsx)(z,{ref:e=>{e&&(x.current[a]=e)},"data-swiper-parallax-y":"-20%","data-swiper-parallax-x":"0","data-swiper-parallax-duration":"400",animate:"down"==y||"up"==y?"animate":c,variants:"down"==y?H:"up"==y?R:void 0,initial:{scale:1.2},children:(0,t.jsx)(n.default,{playbackId:p,autoPlay:!0,muted:!0,videoRefs:w,isManuallyControlled:!1,loop:!0,index:0,lazy:!1,height:"100%",style:{"--controls":"none","--media-object-fit":"cover","--media-object-position":"center"}})}):(0,t.jsx)(I,{src:s.src,ref:e=>{e&&(x.current[a]=e)},"data-swiper-parallax-y":"-20%","data-swiper-parallax-x":"0","data-swiper-parallax-duration":"400",animate:"down"==y||"up"==y?"animate":c,variants:"down"==y?H:"up"==y?R:void 0,initial:{scale:u?.imageScale||1},$mobileImageFit:e.mobileImageFit,$mobileBackgroundColor:e.mobileBackgroundColor,$desktopImageFit:e.desktopImageFit,$desktopBackgroundColor:e.desktopBackgroundColor})]})},a)})})})}],679480);var V=e.i(391424),A=e.i(83026),X=e.i(388905),Y=e.i(344063),W=e.i(262448);function G(e,t){let i,a=()=>{let{currentTime:a}=t,r=(null===a?0:a.value)/100;i!==r&&e(r),i=r};return W.frame.preUpdate(a,!0),()=>(0,W.cancelFrame)(a)}function O(e){return!("u"<typeof window)&&(e?(0,V.supportsViewTimeline)():(0,V.supportsScrollTimeline)())}var U=e.i(922098),Z=e.i(661064),J=e.i(350833);let K=()=>({current:0,offset:[],progress:0,scrollLength:0,targetOffset:0,targetLength:0,containerLength:0,velocity:0}),Q={x:{length:"Width",position:"Left"},y:{length:"Height",position:"Top"}};function ee(e,t,i,a){let r=i[t],{length:o,position:l}=Q[t],n=r.current,s=i.time;r.current=Math.abs(e[`scroll${l}`]),r.scrollLength=e[`scroll${o}`]-e[`client${o}`],r.offset.length=0,r.offset[0]=0,r.offset[1]=r.scrollLength,r.progress=(0,Z.progress)(0,r.scrollLength,r.current);let d=a-s;r.velocity=d>50?0:(0,J.velocityPerSecond)(r.current-n,d)}var et=e.i(354833),ei=e.i(195129),ea=e.i(371955),er=e.i(251723);let eo={start:0,center:.5,end:1};function el(e,t,i=0){let a=0;if(e in eo&&(e=eo[e]),"string"==typeof e){let t=parseFloat(e);e.endsWith("px")?a=t:e.endsWith("%")?e=t/100:e.endsWith("vw")?a=t/100*document.documentElement.clientWidth:e.endsWith("vh")?a=t/100*document.documentElement.clientHeight:e=t}return"number"==typeof e&&(a=t*e),i+a}let en=[0,0],es=[[0,0],[1,1]],ed={x:0,y:0},ec=new WeakMap,ep=new WeakMap,em=new WeakMap,eu=new WeakMap,eh=new WeakMap,eg=e=>e===document.scrollingElement?window:e;function ef(e,{container:t=document.scrollingElement,trackContentSize:i=!1,...a}={}){if(!t)return Y.noop;let r=em.get(t);r||(r=new Set,em.set(t,r));let o=function(e,t,i,a={}){return{measure:t=>{!function(e,t=e,i){if(i.x.targetOffset=0,i.y.targetOffset=0,t!==e){let a=t;for(;a&&a!==e;)i.x.targetOffset+=a.offsetLeft,i.y.targetOffset+=a.offsetTop,a=a.offsetParent}i.x.targetLength=t===e?t.scrollWidth:t.clientWidth,i.y.targetLength=t===e?t.scrollHeight:t.clientHeight,i.x.containerLength=e.clientWidth,i.y.containerLength=e.clientHeight}(e,a.target,i),ee(e,"x",i,t),ee(e,"y",i,t),i.time=t,(a.offset||a.target)&&function(e,t,i){let{offset:a=es}=i,{target:r=e,axis:o="y"}=i,l="y"===o?"height":"width",n=r!==e?function(e,t){let i={x:0,y:0},a=e;for(;a&&a!==t;)if((0,er.isHTMLElement)(a))i.x+=a.offsetLeft,i.y+=a.offsetTop,a=a.offsetParent;else if("svg"===a.tagName){let e=a.getBoundingClientRect(),t=(a=a.parentElement).getBoundingClientRect();i.x+=e.left-t.left,i.y+=e.top-t.top}else if(a instanceof SVGGraphicsElement){let{x:e,y:t}=a.getBBox();i.x+=e,i.y+=t;let r=null,o=a.parentNode;for(;!r;)"svg"===o.tagName&&(r=o),o=a.parentNode;a=r}else break;return i}(r,e):ed,s=r===e?{width:e.scrollWidth,height:e.scrollHeight}:"getBBox"in r&&"svg"!==r.tagName?r.getBBox():{width:r.clientWidth,height:r.clientHeight},d={width:e.clientWidth,height:e.clientHeight};t[o].offset.length=0;let c=!t[o].interpolate,p=a.length;for(let e=0;e<p;e++){let i=function(e,t,i,a){let r=Array.isArray(e)?e:en,o=0;return"number"==typeof e?r=[e,e]:"string"==typeof e&&(r=(e=e.trim()).includes(" ")?e.split(" "):[e,eo[e]?e:"0"]),(o=el(r[0],i,a))-el(r[1],t)}(a[e],d[l],s[l],n[o]);c||i===t[o].interpolatorOffsets[e]||(c=!0),t[o].offset[e]=i}c&&(t[o].interpolate=(0,et.interpolate)(t[o].offset,(0,ei.defaultOffset)(a),{clamp:!1}),t[o].interpolatorOffsets=[...t[o].offset]),t[o].progress=(0,ea.clamp)(0,1,t[o].interpolate(t[o].current))}(e,i,a)},notify:()=>t(i)}}(t,e,{time:0,x:K(),y:K()},a);if(r.add(o),!ec.has(t)){let e=()=>{for(let e of r)e.measure(W.frameData.timestamp);W.frame.preUpdate(i)},i=()=>{for(let e of r)e.notify()},a=()=>W.frame.read(e);ec.set(t,a);let o=eg(t);window.addEventListener("resize",a),t!==document.documentElement&&ep.set(t,(0,U.resize)(t,a)),o.addEventListener("scroll",a),a()}if(i&&!eh.has(t)){let e=ec.get(t),i={width:t.scrollWidth,height:t.scrollHeight};eu.set(t,i);let a=W.frame.read(()=>{let a=t.scrollWidth,r=t.scrollHeight;(i.width!==a||i.height!==r)&&(e(),i.width=a,i.height=r)},!0);eh.set(t,a)}let l=ec.get(t);return W.frame.read(l,!1,!0),()=>{(0,W.cancelFrame)(l);let e=em.get(t);if(!e||(e.delete(o),e.size))return;let i=ec.get(t);ec.delete(t),i&&(eg(t).removeEventListener("scroll",i),ep.get(t)?.(),window.removeEventListener("resize",i));let a=eh.get(t);a&&((0,W.cancelFrame)(a),eh.delete(t)),eu.delete(t)}}let eb=[[[[0,1],[1,1]],"entry"],[[[0,0],[1,0]],"exit"],[[[1,0],[0,1]],"cover"],[es,"contain"]],ey={start:0,end:1};function ev(e){if(!e)return{rangeStart:"contain 0%",rangeEnd:"contain 100%"};for(let[t,i]of eb)if(function(e,t){let i=function(e){if(2!==e.length)return;let t=[];for(let i of e)if(Array.isArray(i))t.push(i);else{if("string"!=typeof i)return;let e=function(e){let t=e.trim().split(/\s+/);if(2!==t.length)return;let i=ey[t[0]],a=ey[t[1]];if(void 0!==i&&void 0!==a)return[i,a]}(i);if(!e)return;t.push(e)}return t}(e);if(!i)return!1;for(let e=0;e<2;e++){let a=i[e],r=t[e];if(a[0]!==r[0]||a[1]!==r[1])return!1}return!0}(e,t))return{rangeStart:`${i} 0%`,rangeEnd:`${i} 100%`}}let ex=new Map;function ew(e){let t={value:0},i=ef(i=>{t.value=100*i[e.axis].progress},e);return{currentTime:t,cancel:i}}function ek({source:e,container:t,...i}){let{axis:a}=i;e&&(t=e);let r=ex.get(t);r||(r=new Map,ex.set(t,r));let o=i.target??"self",l=r.get(o);l||(l={},r.set(o,l));let n=a+(i.offset??[]).join(",");return l[n]||(i.target&&O(i.target)?ev(i.offset)?l[n]=new ViewTimeline({subject:i.target,axis:a}):l[n]=ew({container:t,...i}):O()?l[n]=new ScrollTimeline({source:t,axis:a}):l[n]=ew({container:t,...i})),l[n]}function ej(e,{axis:t="y",container:i=document.scrollingElement,...a}={}){var r,o;let l,n,s;if(!i)return Y.noop;let d={axis:t,container:i,...a};return"function"==typeof e?(r=e,o=d,2===r.length?ef(e=>{r(e[o.axis].progress,e)},o):G(r,ek(o))):(l=ek(d),n=d.target?ev(d.offset):void 0,s=d.target?O(d.target)&&!!n:O(),e.attachTimeline({timeline:s?l:void 0,...n&&s&&{rangeStart:n.rangeStart,rangeEnd:n.rangeEnd},observe:e=>(e.pause(),G(t=>{e.time=e.iterationDuration*t},l))}))}var e_=e.i(357126),e$=e.i(39016);let eC=()=>({scrollX:(0,A.motionValue)(0),scrollY:(0,A.motionValue)(0),scrollXProgress:(0,A.motionValue)(0),scrollYProgress:(0,A.motionValue)(0)}),eS=e=>!!e&&!e.current;function eM(e,t,i,a){return{factory:r=>ej(r,{...t,axis:e,container:i?.current||void 0,target:a?.current||void 0}),times:[0,1],keyframes:[0,1],ease:e=>e,duration:1}}function eI({container:e,target:t,...a}={}){var r;let o=(0,e_.useConstant)(eC);r=a.offset,!("u"<typeof window)&&(t?(0,V.supportsViewTimeline)()&&!!ev(r):(0,V.supportsScrollTimeline)())&&(o.scrollXProgress.accelerate=eM("x",a,e,t),o.scrollYProgress.accelerate=eM("y",a,e,t));let l=(0,i.useRef)(null),n=(0,i.useRef)(!1),s=(0,i.useCallback)(()=>(l.current=ej((e,{x:t,y:i})=>{o.scrollX.set(t.current),o.scrollXProgress.set(t.progress),o.scrollY.set(i.current),o.scrollYProgress.set(i.progress)},{...a,container:e?.current||void 0,target:t?.current||void 0}),()=>{l.current?.()}),[e,t,JSON.stringify(a.offset)]);return(0,e$.useIsomorphicLayoutEffect)(()=>{if(n.current=!1,!(eS(e)||eS(t)))return s();n.current=!0},[s]),(0,i.useEffect)(()=>n.current?((0,X.invariant)(!eS(e),"Container ref is defined but not hydrated","use-scroll-ref"),(0,X.invariant)(!eS(t),"Target ref is defined but not hydrated","use-scroll-ref"),s()):void 0,[s]),o}e.s(["useScroll",0,eI],793087);var ez=e.i(798715);let eN={some:0,all:1};function eT(e,{root:t,margin:a,amount:r,once:o=!1,initial:l=!1}={}){let[n,s]=(0,i.useState)(l);return(0,i.useEffect)(()=>{if(!e.current||o&&n)return;let i={root:t&&t.current||void 0,margin:a,amount:r};return function(e,t,{root:i,margin:a,amount:r="some"}={}){let o=(0,ez.resolveElements)(e),l=new WeakMap,n=new IntersectionObserver(e=>{e.forEach(e=>{let i=l.get(e.target);if(!!i!==e.isIntersecting)if(e.isIntersecting){let i=t(e.target,e);"function"==typeof i?l.set(e.target,i):n.unobserve(e.target)}else"function"==typeof i&&(i(e),l.delete(e.target))})},{root:i,rootMargin:a,threshold:"number"==typeof r?r:eN[r]});return o.forEach(e=>n.observe(e)),()=>n.disconnect()}(e.current,()=>(s(!0),o?void 0:()=>s(!1)),i)},[t,e,a,o,r]),n}e.s(["useInView",0,eT],657610);var eq=e.i(126019);let eL=({color:e="#1C3A13"})=>(0,t.jsx)("svg",{xmlns:"http://www.w3.org/2000/svg",width:"16",height:"16",fill:"none",children:(0,t.jsx)("path",{stroke:e,strokeWidth:"1.5",d:"M12 3.99999V8m0-4.00001H8m4 0L8 8m3 2v2H4V5h2"})}),eE=({color:e="#1C3A13"})=>(0,t.jsx)("svg",{xmlns:"http://www.w3.org/2000/svg",width:"16",height:"16",fill:"none",children:(0,t.jsx)("path",{fill:e,d:"M12.4231 8 5.5 12.5v-9L12.4231 8Z"})}),eP=({color:e="#1C3A13"})=>(0,t.jsx)("svg",{xmlns:"http://www.w3.org/2000/svg",width:"16",height:"16",fill:"none",children:(0,t.jsx)("path",{stroke:e,strokeWidth:"1.5",d:"M6 3v10M10 3v10"})}),eB=(0,b.default)(o.default).withConfig({displayName:"scroller.styled__ScrollerButton",componentId:"sc-8dc22021-0"})`
+  background-color: rgba(0, 0, 0, 0.3);
+  position: absolute;
+  top: var(--space-fixed-2);
+  right: var(--space-fixed-2);
+  z-index: 3;
+`,eD=b.default.div.withConfig({displayName:"scroller.styled__Frame",componentId:"sc-8dc22021-1"})`
+  aspect-ratio: var(--ratio);
+  align-items: center;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  transition: width 0.6s cubic-bezier(0.75, 0, 0.25, 1);
+  transition-delay: 0.4s;
+  will-change: width;
+  width: var(--width);
+
+  ${({type:e})=>"double"===e&&`
+          flex-shrink: 0;
+          border-radius: var(--bdrs-m);
+      `}
+
+  ${({shape:e})=>"round"===e&&`
+          border-radius: 100%;
+          grid-row:span 2;
+      `}
+    ${({shape:e})=>"vertical"===e&&`
+          grid-row:span 2;
+      `}
+    ${({shape:e})=>"horizontal-pill"===e&&`
+          border-radius: var(--bdrs-pill);
+          grid-row:span 1;
+      `}
+    ${({shape:e})=>"horizontal"===e&&`
+          grid-row:span 1;
+      `}
+    ${({shape:e})=>("vertical"===e||"horizontal"===e)&&`
+          border-radius: var(--bdrs-m);
+      `}
+
+    & > picture,
+    & img,
+    & > mux-player {
+    block-size: 100%;
+    inline-size: 100%;
+    object-fit: cover;
+    transition: transform 0.6s cubic-bezier(0.75, 0, 0.25, 1);
+    will-change: transform;
+  }
+
+  @media (hover: hover) {
+    &:has(mux-player):hover,
+    &:is(a):hover {
+      cursor: pointer;
+      width: calc(var(--width) * 1.2);
+
+      > picture,
+      > img,
+      > mux-player {
+        transform: scale(1.05);
+      }
+    }
+  }
+`,eF=(0,b.default)(_.motion.div).withConfig({displayName:"scroller.styled__ScrollerWrapper",componentId:"sc-8dc22021-2"})`
+  position: relative;
+  display: flex;
+  white-space: nowrap;
+  gap: var(--space-fixed-2);
+
+  ${({type:e})=>"double"===e&&`
+        &:nth-child(1) {
+          align-items: end;
+        }
+        &:nth-child(2) {
+          align-items: start;
+        }
+    `}
+
+  ${({type:e})=>"simple"===e&&`
+          display: inline-grid;
+          grid-auto-flow: column;
+          grid-template-rows: 1fr 1fr;
+          gap: var(--space-fixed-2);
+          align-items: center;
+      `}
+`,eH=({items:e,type:a})=>{let[r,o]=(0,i.useState)({}),l=(0,i.useRef)([]),[s,d]=(0,i.useState)("");(0,i.useEffect)(()=>{d("9 / 16")},[]);let c=e.map(e=>{switch(e?.shape){case"horizontal":case"horizontal-pill":return"14/9";case"round":return"1/1";default:return"9/14"}}),p=e.map(e=>{switch(e?.ratio){case"14:9":return"270";case"1:1":return"260";default:return"238"}}),m=e.map(e=>{switch(e?.shape){case"round":return"430";case"vertical":return"276";default:return"322"}}),u=e=>{let t=l.current[e];t&&(t.paused?(t.play(),o(t=>({...t,[e]:!0})),(0,P.buttonEventHandler)(`Play video ${e}`,"UGC Scroller")):(t.pause(),o(t=>({...t,[e]:!1})),(0,P.buttonEventHandler)(`Pause video ${e}`,"UGC Scroller")))};return(0,t.jsx)(eF,{type:a,children:e.map((e,i)=>{let o=e?.ratio?e?.ratio.replace(":","/"):c[i],d="simple"==a?m[i]:p[i],h=r[i]||!1;return(0,t.jsxs)(eD,{as:e.url?"a":"div",href:e.url,target:"_blank",style:{"--ratio":o,"--width":`${d}px`},shape:e?.shape,type:a,onClick:()=>{e.url&&(0,P.buttonEventHandler)(`Click link to ${e.url}`,"UGC Scroller")},children:[e.url&&(0,t.jsx)(eB,{children:(0,t.jsx)(eL,{color:"#fcfcf7"})}),e.video&&!e.videoLoop&&(0,t.jsx)(eB,{onClick:()=>u(i),children:h?(0,t.jsx)(eP,{color:"#fcfcf7"}):(0,t.jsx)(eE,{color:"#fcfcf7"})}),e?.video&&(0,t.jsx)("div",{onClick:()=>u(i),children:(0,t.jsx)(n.default,{playbackId:e.video.playbackId,wrapperPosition:"relative",videoRefs:l,onClick:()=>u(i),index:i,isManuallyControlled:!0,lazy:!1,thumbnailTime:0,preload:"metadata",style:{"--controls":"none",...s?{aspectRatio:s}:{}}})}),e.cover&&(0,t.jsx)(eq.default,{src:e.cover.src,width:e.cover.width,height:e.cover.height,alt:e.cover.alt},i)]},i)})})};(0,b.default)(o.default).withConfig({displayName:"Marquee.styled__ScrollerButton",componentId:"sc-e5095893-0"})`
+  background-color: rgba(0, 0, 0, 0.3);
+  position: absolute;
+  top: var(--space-fixed-2);
+  right: var(--space-fixed-2);
+  z-index: 3;
+`,b.default.div.withConfig({displayName:"Marquee.styled__Frame",componentId:"sc-e5095893-1"})`
+  aspect-ratio: var(--ratio);
+  align-items: center;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  transition: width 0.6s cubic-bezier(0.75, 0, 0.25, 1);
+  transition-delay: 0.4s;
+  will-change: width;
+  width: var(--width);
+
+  ${({type:e})=>"double"===e&&`
+          flex-shrink: 0;
+          border-radius: var(--bdrs-m);
+      `}
+
+  ${({shape:e})=>"round"===e&&`
+          border-radius: 100%;
+          grid-row:span 2;
+      `}
+    ${({shape:e})=>"vertical"===e&&`
+          grid-row:span 2;
+      `}
+    ${({shape:e})=>"horizontal-pill"===e&&`
+          border-radius: var(--bdrs-pill);
+          grid-row:span 1;
+      `}
+    ${({shape:e})=>"horizontal"===e&&`
+          grid-row:span 1;
+      `}
+    ${({shape:e})=>("vertical"===e||"horizontal"===e)&&`
+          border-radius: var(--bdrs-m);
+      `}
+
+    & > picture,
+    & img,
+    & > video {
+    block-size: 100%;
+    inline-size: 100%;
+    object-fit: cover;
+    transition: transform 0.6s cubic-bezier(0.75, 0, 0.25, 1);
+    will-change: transform;
+  }
+
+  @media (hover: hover) {
+    &:has(video):hover,
+    &:is(a):hover {
+      cursor: pointer;
+      width: calc(var(--width) * 1.2);
+
+      > picture,
+      > img,
+      > video {
+        transform: scale(1.05);
+      }
+    }
+  }
+`,b.keyframes`
+    from { 
+        transform: translateX(0); 
+    }
+    to { 
+        transform: translateX(-50%);
+    }
+`,b.keyframes`
+    from { 
+        transform: translateX(-50%); 
+    }
+    to { 
+        transform: translateX(0); 
+    }
+`,b.default.div.withConfig({displayName:"Marquee.styled__ItemWrap",componentId:"sc-e5095893-2"})`
+  display: flex;
+  gap: var(--space-fixed-2);
+`,b.default.div.withConfig({displayName:"Marquee.styled__ScrollerWrapper",componentId:"sc-e5095893-3"})`
+  display: flex;
+  gap: var(--space-fixed-2);
+  overflow: hidden;
+  white-space: nowrap;
+  flex-wrap: nowrap;
+
+  ${({type:e})=>"double"===e&&`
+        &:nth-child(1) > :nth-child(1) > * {
+          align-items: end;
+        }
+        &:nth-child(2) > :nth-child(1) > * {
+          align-items: start;
+        }
+    `}
+`,b.default.div.withConfig({displayName:"Marquee.styled__MarqueeWrapper",componentId:"sc-e5095893-4"})`
+  ${({pos:e,speed:t})=>{let i=b.keyframes`
+    from {
+      transform: translateX(${e.from}); 
+    }
+    to { 
+      transform: translateX(${e.to}); 
+    }
+  `;return b.css`
+    animation: ${i} ${t}s linear infinite;
+  `}};
+  display: flex;
+  gap: var(--space-fixed-2);
+
+  &:hover {
+    animation-play-state: paused;
+  }
+`;let eR=b.default.section.withConfig({displayName:"ugc.styled__Wrapper",componentId:"sc-dacb5bb6-0"})`
+  background: var(--fill-primary);
+  padding: var(--space-outer);
+  overflow: scroll;
+  width: 100vw;
+  ${w.StackSmall};
+
+  /* Safari and Webkit browsers */
+  &::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+    -webkit-appearance: none;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: transparent;
+    border-radius: 4px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: transparent;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+    -webkit-transition: all 0.2s ease;
+  }
+
+  /* Firefox */
+  scrollbar-width: none;
+  scrollbar-color: transparent transparent;
+
+  &:has(.marquee) {
+    padding-inline: 0;
+  }
+`;e.s(["UgcScroller",0,({type:e,items:r,headline:o})=>{let l=(0,a.default)(960),n=(0,i.useRef)(null),{scrollYProgress:s}=eI({target:n,offset:["start end","end start"]}),d=0,c=[],p=[];"double"===e&&(d=Math.ceil(r.length/2),c=r.slice(0,d),p=r.slice(d));let m=eT(n),u=(0,i.useRef)(0),h=(0,i.useRef)(void 0);return(0,i.useEffect)(()=>{let e=()=>{h.current&&cancelAnimationFrame(h.current),h.current=requestAnimationFrame(()=>{if(!m||!n.current)return;let e=window.scrollY,t=e-u.current;n.current.scrollLeft+=.5*t,u.current=e})};return u.current=window.scrollY,window.addEventListener("scroll",e,{passive:!0}),()=>{window.removeEventListener("scroll",e),h.current&&cancelAnimationFrame(h.current)}},[m]),(0,i.useEffect)(()=>{l&&n.current&&(n.current.scrollLeft=250)},[l]),"simple"===e?(0,t.jsxs)(t.Fragment,{children:[o&&o,(0,t.jsx)(eR,{ref:n,children:(0,t.jsx)(eH,{items:r,direction:"left",left:l?"-100%":"-10%",progress:s,type:"simple"})})]}):(0,t.jsxs)(t.Fragment,{children:[o&&o,(0,t.jsxs)(eR,{ref:n,children:[(0,t.jsx)(eH,{items:c,direction:"right",left:l?"-100%":"-10%",progress:s,type:"double"}),(0,t.jsx)(eH,{items:p,direction:"left",left:l?"-100%":"-10%",progress:s,type:"double"})]})]})}],326742);var eV=e.i(114168),eA=e.i(851798);let eX=b.default.section.withConfig({displayName:"via-cap.styled__ViaCapSection",componentId:"sc-d417921c-0"})`
+  padding-inline: var(--space-outer);
+  padding-block: var(--space-5);
+  background-size: cover;
+  overflow-x: hidden;
+`,eY=(0,b.default)(_.motion.div).withConfig({displayName:"via-cap.styled__ViaCapContainer",componentId:"sc-d417921c-1"})`
+  border-radius: var(--bdrs-l);
+  background: rgba(87, 94, 85, 0.35);
+  backdrop-filter: blur(37.5px);
+  -webkit-backdrop-filter: blur(37.5px);
+  padding: var(--space-5);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: var(--maw);
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+
+  @media ${v.mqLargeMax} {
+    flex-direction: column;
+    padding: var(--space-fixed-2);
+  }
+
+  /* Desktop: switch to row layout */
+  @media ${v.mqLargeMin} {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+`,eW=(0,b.default)(_.motion.div).withConfig({displayName:"via-cap.styled__ViaCapContent",componentId:"sc-d417921c-2"})`
+  ${w.StackMedium};
+  margin-bottom: var(--space-4);
+
+  @media ${v.mqLargeMin} {
+    flex: 0 0 auto;
+    width: 45%;
+    margin-bottom: 0;
+  }
+`,eG=b.default.div.withConfig({displayName:"via-cap.styled__ViaCapBottomNote",componentId:"sc-d417921c-3"})`
+  ${w.StackMedium};
+
+  max-width: 100%;
+
+  @media ${v.mqLargeMax} {
+    ${w.StackSmall};
+  }
+
+  @media ${v.mqLargeMin} {
+    margin-top: var(--space-4);
+  }
+`,eO=(0,b.default)(_.motion.div).withConfig({displayName:"via-cap.styled__ViaCapNote",componentId:"sc-d417921c-4"})`
+  padding: var(--space-2);
+  border-radius: var(--bdrs-m);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  display: flex;
+  align-items: center;
+  gap: var(--space-fixed-3);
+  max-width: ${(0,y.pxToRem)(380)};
+`,eU=(0,b.default)(j.TypeBodyLarge).withConfig({displayName:"via-cap.styled__NoteTitle",componentId:"sc-d417921c-5"})`
+  --fz: ${x.fontSizes["18px"]};
+  color: var(--fill-primary);
+  width: 190px;
+
+  &[data-pill]:before {
+    content: attr(data-pill);
+    color: var(--fill-primary);
+    font-family: var(--ff);
+    font-size: ${x.fontSizes["12px"]};
+    font-weight: 500;
+    height: ${(0,y.pxToRem)(30)};
+    text-transform: uppercase;
+    border-radius: var(--bdrs-pill);
+    border: 1.5px solid currentColor;
+    padding-inline: ${(0,y.pxToRem)(8)};
+    vertical-align: middle;
+    display: inline-flex;
+    align-items: center;
+    margin-right: var(--space-fixed-1);
+    margin-bottom: ${(0,y.pxToRem)(4)};
+    height: 24px;
+  }
+`,eZ=(0,b.default)(_.motion.p).withConfig({displayName:"via-cap.styled__NotePerf",componentId:"sc-d417921c-6"})`
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  & > * {
+    font-family: ${eA.FontFamily.sans};
+    font-size: ${x.fontSizes["32px"]};
+    font-weight: 300;
+    color: var(--fill-primary);
+  }
+
+  & span > sup {
+    color: var(--fill-primary);
+  }
+`,eJ=(0,b.default)(_.motion.span).withConfig({displayName:"via-cap.styled__NotePerfArrow",componentId:"sc-d417921c-7"})`
+  font-family: ${eA.FontFamily.sans};
+  font-size: ${x.fontSizes["32px"]};
+  font-weight: 300;
+  color: var(--fill-primary);
+  display: inline-block;
+  font-feature-settings: 'ss03' on;
+`,eK=b.default.span.withConfig({displayName:"via-cap.styled__NoteCount",componentId:"sc-d417921c-8"})`
+  color: var(--fill-primary);
+  font-family: ${eA.FontFamily.sans};
+  font-size: ${x.fontSizes["32px"]};
+  font-weight: 300;
+`,eQ=(0,b.default)(_.motion.span).withConfig({displayName:"via-cap.styled__TypeLabelLetter",componentId:"sc-d417921c-9"})`
+  font-family: ${eA.FontFamily.mono};
+  font-size: ${x.fontSizes["12px"]};
+  font-weight: 300;
+  text-transform: uppercase;
+  display: inline-block;
+  color: var(--fill-primary);
+`,e0=b.default.div.withConfig({displayName:"via-cap.styled__ViaCapWrapper",componentId:"sc-d417921c-10"})`
+  display: flex;
+  align-items: center;
+  position: relative;
+  min-height: ${(0,y.pxToRem)(400)};
+  max-width: 100%;
+  flex: 0 0 auto;
+  width: 60%;
+  margin-bottom: 0;
+  padding: var(--space-4) 0;
+  justify-content: space-between;
+`,e1=b.default.div.withConfig({displayName:"via-cap.styled__Spacer",componentId:"sc-d417921c-11"})`
+  width: ${({$width:e})=>e||"100px"};
+  flex-shrink: 0;
+`,e2=b.default.div.withConfig({displayName:"via-cap.styled__ViaCapVideoContainer",componentId:"sc-d417921c-12"})`
+  position: absolute;
+  z-index: 5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  left: 74%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  height: 400px;
+  pointer-events: none;
+`,e8=(0,b.default)(_.motion.div).withConfig({displayName:"via-cap.styled__ViaCapTextColumn",componentId:"sc-d417921c-13"})`
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex: 0 1 auto;
+  position: relative;
+  z-index: 100;
+  order: ${({$order:e})=>e};
+  max-width: 200px;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+
+  ${({$position:e})=>"left"===e&&`
+    align-self: flex-start;
+  `}
+
+  ${({$position:e})=>"right"===e&&`
+    align-self: flex-end;
+    align-items: flex-start;
+    margin-top: 1rem;
+    padding: 0 1rem;
+  `}
+`,e3=b.default.div.withConfig({displayName:"via-cap.styled__ViaCapNestedColumn",componentId:"sc-d417921c-14"})`
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0;
+  flex-shrink: 1;
+  margin-top: -30px;
+  margin-bottom: 6rem;
+
+  ${({$position:e})=>"left"===e&&`
+    align-self: flex-start;
+    justify-content: flex-start;
+  `}
+
+  ${({$position:e})=>"right"===e&&`
+    align-self: flex-end;
+    justify-content: flex-end;
+  `}
+`,e5=b.default.div.withConfig({displayName:"via-cap.styled__ViaCapDottedLine",componentId:"sc-d417921c-15"})`
+  border-top: 1px dashed var(--fill-primary);
+  opacity: 0.8;
+  height: 1px;
+  width: 70px;
+  align-self: ${({$alignSelf:e})=>e};
+
+  z-index: 10;
+  transform: translateY(-50%);
+
+  ${({$position:e})=>"left"===e&&`
+    margin-top: 1rem;
+  `}
+
+  ${({$position:e})=>"right"===e&&`
+    margin-bottom: 5rem;
+  `}
+
+  @media ${v.mqLargeMin} {
+    margin-bottom: 3rem;
+
+    ${({$position:e})=>"left"===e&&`
+      margin-top: 3rem;
+    `}
+
+    ${({$position:e})=>"right"===e&&`
+      transform: translateY(0);
+      margin-top: 2rem;
+    `}
+  }
+`;(0,b.default)(_.motion.div).withConfig({displayName:"via-cap.styled__ViaCapText",componentId:"sc-d417921c-16"})`
+  color: var(--fill-primary);
+  font-family: ${eA.FontFamily.sans};
+  font-size: ${x.fontSizes["12px"]};
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+
+  ${e=>"right"==e.$position&&`
+    align-items: flex-end;
+    text-align: right;
+  `}
+`;let e9=b.default.h3.withConfig({displayName:"via-cap.styled__ViaCapSubhead",componentId:"sc-d417921c-17"})`
+  color: var(--fill-primary);
+  font-size: ${x.fontSizes["12px"]};
+  font-weight: 500;
+  margin-block-end: 4px;
+  text-transform: uppercase;
+`;(0,b.default)(_.motion.div).withConfig({displayName:"via-cap.styled__ViaCapBorder",componentId:"sc-d417921c-18"})`
+  border-top: 1px dashed var(--fill-primary);
+  opacity: 0.5;
+  height: 1px;
+  right: -50px;
+  position: absolute;
+  top: 10%;
+  width: 70px;
+  transform: scaleX(0);
+  transform-origin: right;
+
+  ${({direction:e})=>"right"==e&&`
+    transform-origin: left;
+    top: 15px;
+    left: -65px;
+    width: 50px;
+  `}
+
+  @media ${v.mqLargeMax} {
+    height: 32px;
+    width: 1px;
+    border-left: 1px dashed var(--fill-primary);
+    border-top: none;
+    left: 50px;
+    top: 110%;
+    transform: scaleY(0);
+    transform-origin: top;
+
+    ${({direction:e})=>"right"==e&&`
+        height: 42px;
+        top: -55px;
+        left: 75px;
+        transform-origin: bottom;
+    `}
+  }
+`;let e4=b.css`
+  &:after {
+    content: '';
+    background: transparent;
+    border-radius: 99em 99em 0 0;
+    box-shadow:
+      0 76px 61px 0 rgba(0, 0, 0, 0.07),
+      0 38px 30px 0 rgba(0, 0, 0, 0.05),
+      0 23px 18px 0 rgba(0, 0, 0, 0.05),
+      0 14px 11px 0 rgba(0, 0, 0, 0.04),
+      0 9px 7px 0 rgba(0, 0, 0, 0.04),
+      0 6px 5px 0 rgba(0, 0, 0, 0.03),
+      0 3px 3px 0 rgba(0, 0, 0, 0.02),
+      0 2px 1px 0 rgba(0, 0, 0, 0.02);
+    height: 90%;
+    inset: 5%;
+    position: absolute;
+    width: 90%;
+  }
+`;(0,b.default)(_.motion.div).withConfig({displayName:"via-cap.styled__ViaCapTop",componentId:"sc-d417921c-19"})`
+  position: relative;
+  z-index: 5;
+
+  ${e4};
+
+  @media ${v.mqLargeMax} {
+    &:after {
+      border-radius: 99em 0 0 99em;
+    }
+  }
+`,b.default.div.withConfig({displayName:"via-cap.styled__ViaCapMiddle",componentId:"sc-d417921c-20"})`
+  position: relative;
+  z-index: 1;
+  ${e4};
+
+  &:after {
+    border-radius: 99em;
+  }
+`,(0,b.default)(_.motion.div).withConfig({displayName:"via-cap.styled__ViaCapBottom",componentId:"sc-d417921c-21"})`
+  z-index: 3;
+  ${e4};
+
+  &:after {
+    border-radius: 0 0 99em 99em;
+  }
+
+  @media ${v.mqLargeMax} {
+    &:after {
+      border-radius: 0 99em 99em 0;
+    }
+  }
+`;let e6=b.default.div.withConfig({displayName:"via-cap.styled__MobileContainer",componentId:"sc-d417921c-22"})`
+  display: flex;
+  flex-direction: row;
+  gap: var(--space-4);
+  width: 100%;
+  min-height: 400px;
+`,e7=b.default.div.withConfig({displayName:"via-cap.styled__MobileColumn1",componentId:"sc-d417921c-23"})`
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  flex: 1.5;
+  max-width: 70%;
+  z-index: 10;
+  position: relative;
+  padding-top: 2rem;
+`,te=b.default.div.withConfig({displayName:"via-cap.styled__MobileColumn2",componentId:"sc-d417921c-24"})`
+  flex: 1;
+  max-width: 35%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  min-height: 100%;
+  z-index: 1;
+`,tt=b.default.div.withConfig({displayName:"via-cap.styled__MobileSolidLine",componentId:"sc-d417921c-25"})`
+  height: 2px;
+  background: var(--fill-primary);
+  width: 100%;
+  opacity: 0.8;
+  position: relative;
+
+  &::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 6px;
+    height: 6px;
+    background: var(--fill-primary);
+    border-radius: 50%;
+  }
+`,ti=b.default.div.withConfig({displayName:"via-cap.styled__MobileTextBlock",componentId:"sc-d417921c-26"})`
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+`,ta=()=>{if("u"<typeof navigator)return!1;let e=navigator.userAgent.toLowerCase();return!(e.includes("windows")||e.includes("win32")||e.includes("win64")||e.includes("firefox"))&&(!!(/iphone|ipad|ipod/i.test(e)||e.includes("android")&&e.includes("chrome")||(e.includes("macintosh")||e.includes("mac os x"))&&(e.includes("safari")&&!e.includes("chrome")||e.includes("chrome")))||!1)};e.s(["supportsTransparentMov",0,ta],738496);let tr=({fallbackSrc:e,alt:a,src:r,width:o,height:l,loop:n=!0,muted:s=!0,playsInline:d=!0,...c})=>{let[p,m]=(0,i.useState)(!0);return((0,i.useEffect)(()=>{ta()||m(!1)},[]),p)?(0,t.jsx)("video",{src:r,width:o,height:l,loop:n,muted:s,playsInline:d,...c}):(0,t.jsx)(eq.default,{src:e,alt:a,width:"number"==typeof o?o:parseInt(o||"0"),height:"number"==typeof l?l:parseInt(l||"0"),className:c.className,"data-testid":c["data-testid"]})},to=({src:e,fallbackSrc:a,alt:r,width:o,height:l,loop:n=!0,muted:s=!0,playsInline:d=!0})=>{let c=(0,i.useRef)(null),[p,m]=(0,eV.useInView)();return(0,i.useEffect)(()=>{let e;if(!window.disableAnimations)return m&&(e=setTimeout(()=>{c.current?.play()},1e3)),()=>clearTimeout(e)},[m]),(0,t.jsx)(tr,{ref:e=>{c.current=e,p(e)},src:e,fallbackSrc:a,width:o,height:l,loop:n,muted:s,playsInline:d,"aria-label":r,alt:r,"data-testid":"viacap-video",style:{objectFit:"contain"}})},tl={initial:{y:"20px"},animate:{y:"-10px",transition:{duration:.5,delay:.25,when:"beforeChildren",staggerChildren:1}}},tn={initial:{y:"-20px"},animate:{y:"10px",transition:{duration:.5,delay:.25}}},ts=({capsule:e={media:{src:"",alt:"",width:69,height:48,type:"video"},top:{title:"",body:""},center:{},bottom:{title:"",body:""}}})=>(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e2,{children:(0,t.jsx)(to,{src:e.media.src,fallbackSrc:e.media.fallbackSrc,alt:e.media.alt,width:e.media.width,height:e.media.height})}),(0,t.jsxs)(e0,{children:[(0,t.jsxs)(e3,{$position:"left",children:[(0,t.jsxs)(e8,{$position:"left",variants:tl,initial:"initial",whileInView:"animate",children:[(0,t.jsx)(e9,{children:e.top.title}),(0,t.jsx)(j.TypeDisclaimer,{color:"inverse-primary",children:e.top.body})]}),(0,t.jsx)(e5,{$position:"left",$alignSelf:"flex-start"})]}),(0,t.jsx)(e1,{$width:"100px"}),(0,t.jsxs)(e3,{$position:"right",children:[(0,t.jsx)(e5,{$position:"right",$alignSelf:"center"}),(0,t.jsxs)(e8,{$position:"right",variants:tn,initial:"initial",whileInView:"animate",children:[(0,t.jsx)(e9,{children:e.bottom.title}),(0,t.jsx)(j.TypeDisclaimer,{color:"inverse-primary",children:e.bottom.body})]})]})]})]}),td={initial:{scaleX:0},animate:{scaleX:1,transition:{duration:.8,ease:"easeOut"}}},tc=({capsule:e={media:{src:"",alt:"",width:69,height:48,type:"video"},top:{title:"",body:""},center:{},bottom:{title:"",body:""}}})=>(0,t.jsxs)(e6,{children:[(0,t.jsxs)(e7,{children:[(0,t.jsx)(tt,{as:_.motion.div,variants:td,initial:"initial",whileInView:"animate"}),(0,t.jsxs)(ti,{children:[(0,t.jsx)(e9,{children:e.top.title}),(0,t.jsx)(j.TypeDisclaimer,{color:"inverse-primary",children:e.top.body})]}),(0,t.jsx)(tt,{as:_.motion.div,variants:td,initial:"initial",whileInView:"animate"}),(0,t.jsxs)(ti,{children:[(0,t.jsx)(e9,{children:e.bottom.title}),(0,t.jsx)(j.TypeDisclaimer,{color:"inverse-primary",children:e.bottom.body})]})]}),(0,t.jsx)(te,{children:(0,t.jsx)(to,{src:e.media.src,fallbackSrc:e.media.fallbackSrc,alt:e.media.alt,width:500,height:375})})]}),tp={initial:{transform:"translateY(60px)"},animate:{transform:"translateY(0px)",transition:{duration:.8}}},tm={initial:{transform:"translateY(30px)",opacity:0},animate:{transform:"translateY(0px)",opacity:1,transition:{duration:1}}};e.s(["default",0,({eyebrow:e,description:r,background:o,note:l,footnote:n,capsule:s})=>{let d=(0,a.default)(960),[c,p]=(0,eV.useInView)(),[m,u]=(0,eV.useInView)(),[h,g]=(0,i.useState)(e),[f,b]=(0,i.useState)(0);return(0,i.useEffect)(()=>{if(p){let t,i,a;t=h.split(""),i=0,a=setInterval(()=>{if(i<7)g(t.reduce(([e,t])=>(t.push(...e.splice(Math.random()*e.length|0,1)),[e,t]),[[...t],[]])[1].join("")),i++;else clearInterval(a),g(e)},50),(()=>{let e=5,t=l.performance;if(parseFloat(e.toFixed(2))===t)return;let i=setInterval(()=>{b(parseFloat((e+=1).toFixed(2))),parseFloat(e.toFixed(2))===t&&clearInterval(i)},100)})()}},[p]),(0,t.jsx)(eX,{style:{backgroundImage:`url(${o.src})`},ref:m,children:(0,t.jsxs)(eY,{variants:tp,initial:"initial",animate:u?"animate":void 0,children:[(0,t.jsxs)(eW,{ref:c,children:[(0,t.jsxs)(j.TypeLabel,{color:"inverse-primary",children:["●"," ",h.split("").map((e,i)=>(0,t.jsx)(eQ,{style:{opacity:+!!p,transitionDelay:`${.05*i}s`},children:e},i))]}),(0,t.jsx)(j.TypeHeadingTertiary,{color:"inverse-primary",children:r}),!d&&(0,t.jsxs)(t.Fragment,{children:[(0,t.jsxs)(eO,{children:[(0,t.jsx)(eU,{"data-pill":l.pill,children:l.title}),(0,t.jsxs)(eZ,{children:[(0,t.jsx)(eJ,{variants:tm,initial:"initial",whileInView:"animate",children:"↑"}),(0,t.jsx)(eK,{children:f}),(0,t.jsx)("span",{children:"x"})]})]}),(0,t.jsx)(j.TypeDisclaimer,{color:"inverse-primary",children:n})]})]}),d?(0,t.jsx)(tc,{capsule:s}):(0,t.jsx)(ts,{capsule:s}),d&&(0,t.jsxs)(eG,{children:[(0,t.jsxs)(eO,{children:[(0,t.jsx)(eU,{"data-pill":l.pill,children:l.title}),(0,t.jsxs)(eZ,{children:[(0,t.jsx)(eJ,{variants:tm,initial:"initial",whileInView:"animate",children:"↑"}),(0,t.jsx)(eK,{children:f}),(0,t.jsx)("span",{children:"x"})]})]}),(0,t.jsx)(j.TypeDisclaimer,{color:"inverse-primary",children:n})]})]})})}],855821);var tu=e.i(984727),th=e.i(215349);let tg='<svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"/></svg>';function tf({swiper:e,extendParams:t,on:i,emit:a}){function r(t){let i;return t&&"string"==typeof t&&e.isElement&&(i=e.el.querySelector(t)||e.hostEl.querySelector(t))?i:(t&&("string"==typeof t&&(i=[...document.querySelectorAll(t)]),e.params.uniqueNavElements&&"string"==typeof t&&i&&i.length>1&&1===e.el.querySelectorAll(t).length?i=e.el.querySelector(t):i&&1===i.length&&(i=i[0])),t&&!i)?t:i}function o(t,i){let a=e.params.navigation;(t=(0,s.m)(t)).forEach(t=>{t&&(t.classList[i?"add":"remove"](...a.disabledClass.split(" ")),"BUTTON"===t.tagName&&(t.disabled=i),e.params.watchOverflow&&e.enabled&&t.classList[e.isLocked?"add":"remove"](a.lockClass))})}function l(){let{nextEl:t,prevEl:i}=e.navigation;if(e.params.loop){o(i,!1),o(t,!1);return}o(i,e.isBeginning&&!e.params.rewind),o(t,e.isEnd&&!e.params.rewind)}function n(t){t.preventDefault(),(!e.isBeginning||e.params.loop||e.params.rewind)&&(e.slidePrev(),a("navigationPrev"))}function d(t){t.preventDefault(),(!e.isEnd||e.params.loop||e.params.rewind)&&(e.slideNext(),a("navigationNext"))}function c(){let t=e.params.navigation;if(e.params.navigation=(0,th.c)(e,e.originalParams.navigation,e.params.navigation,{nextEl:"swiper-button-next",prevEl:"swiper-button-prev"}),!(t.nextEl||t.prevEl))return;let i=r(t.nextEl),a=r(t.prevEl);Object.assign(e.navigation,{nextEl:i,prevEl:a}),i=(0,s.m)(i),a=(0,s.m)(a);let o=(i,a)=>{if(i){if(t.addIcons&&i.matches(".swiper-button-next,.swiper-button-prev")&&!i.querySelector("svg")){let e=document.createElement("div");(0,s.s)(e,tg),i.appendChild(e.querySelector("svg")),e.remove()}i.addEventListener("click","next"===a?d:n)}!e.enabled&&i&&i.classList.add(...t.lockClass.split(" "))};i.forEach(e=>o(e,"next")),a.forEach(e=>o(e,"prev"))}function p(){let{nextEl:t,prevEl:i}=e.navigation;t=(0,s.m)(t),i=(0,s.m)(i);let a=(t,i)=>{t.removeEventListener("click","next"===i?d:n),t.classList.remove(...e.params.navigation.disabledClass.split(" "))};t.forEach(e=>a(e,"next")),i.forEach(e=>a(e,"prev"))}t({navigation:{nextEl:null,prevEl:null,addIcons:!0,hideOnClick:!1,disabledClass:"swiper-button-disabled",hiddenClass:"swiper-button-hidden",lockClass:"swiper-button-lock",navigationDisabledClass:"swiper-navigation-disabled"}}),e.navigation={nextEl:null,prevEl:null,arrowSvg:tg},i("init",()=>{!1===e.params.navigation.enabled?m():(c(),l())}),i("toEdge fromEdge lock unlock",()=>{l()}),i("destroy",()=>{p()}),i("enable disable",()=>{let{nextEl:t,prevEl:i}=e.navigation;(t=(0,s.m)(t),i=(0,s.m)(i),e.enabled)?l():[...t,...i].filter(e=>!!e).forEach(t=>t.classList.add(e.params.navigation.lockClass))}),i("click",(t,i)=>{let{nextEl:r,prevEl:o}=e.navigation;r=(0,s.m)(r),o=(0,s.m)(o);let l=i.target,n=o.includes(l)||r.includes(l);if(e.isElement&&!n){let e=i.path||i.composedPath&&i.composedPath();e&&(n=e.find(e=>r.includes(e)||o.includes(e)))}if(e.params.navigation.hideOnClick&&!n){let t;if(e.pagination&&e.params.pagination&&e.params.pagination.clickable&&(e.pagination.el===l||e.pagination.el.contains(l)))return;r.length?t=r[0].classList.contains(e.params.navigation.hiddenClass):o.length&&(t=o[0].classList.contains(e.params.navigation.hiddenClass)),!0===t?a("navigationShow"):a("navigationHide"),[...r,...o].filter(e=>!!e).forEach(t=>t.classList.toggle(e.params.navigation.hiddenClass))}});let m=()=>{e.el.classList.add(...e.params.navigation.navigationDisabledClass.split(" ")),p()};Object.assign(e.navigation,{enable:()=>{e.el.classList.remove(...e.params.navigation.navigationDisabledClass.split(" ")),c(),l()},disable:m,update:l,init:c,destroy:p})}e.s(["Navigation",0,tf],147749);let tb=b.default.section.withConfig({displayName:"review-carousel.styled__Section",componentId:"sc-c32dd239-0"})`
+  background: var(--fill-primary);
+  padding-block: var(--space-6);
+
+  @media (${v.mqLargeMax}) {
+    padding-block: var(--space-5);
+  }
+`,ty=b.default.div.withConfig({displayName:"review-carousel.styled__CarouselContainer",componentId:"sc-c32dd239-1"})`
+  display: grid;
+
+  .swiper {
+    padding-inline: var(--space-outer);
+    max-width: 100%;
+  }
+
+  .swiper-wrapper {
+    padding-block-end: var(--space-fixed-1);
+    width: 100%;
+  }
+
+  .swiper:not(.swiper-backface-hidden) .swiper-slide {
+    transform: none;
+    transition: none;
+    opacity: 0;
+  }
+
+  .swiper-slide:not(.swiper-slide-prev, .swiper-slide-next) {
+    transform: scale(0.95);
+  }
+
+  .swiper-backface-hidden .swiper-slide {
+    transform: scale(0.95) translateZ(0);
+    opacity: 1;
+    transition: transform 0.3s ease-in-out 0.1s;
+  }
+
+  .swiper-backface-hidden .swiper-slide-prev {
+    transform: translateX(-40px) translateZ(0) scale(0.95);
+  }
+
+  .swiper-backface-hidden .swiper-slide-next {
+    transform: translateX(40px) translateZ(0) scale(0.95);
+  }
+
+  .swiper-slide.swiper-slide-active {
+    transform: scale(1) !important;
+  }
+
+  &.in-view .swiper-backface-hidden .swiper-slide.swiper-slide-prev,
+  &.in-view .swiper-backface-hidden .swiper-slide.swiper-slide-next {
+    transform: scale(0.95) translateZ(0) !important;
+  }
+
+  .swiper-backface-hidden .swiper-slide.swiper-slide-active {
+    transform: scale(1) translateZ(0) !important;
+  }
+`,tv=b.default.div.withConfig({displayName:"review-carousel.styled__Pagination",componentId:"sc-c32dd239-2"})`
+  filter: url(#filter);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-inline: auto;
+  width: fit-content;
+`,tx=b.default.div.withConfig({displayName:"review-carousel.styled__Thumbnails",componentId:"sc-c32dd239-3"})`
+  background: #efefea;
+  border-radius: var(--bdrs-pill);
+  padding: 12px;
+  display: flex;
+  align-items: center;
+  gap: var(--space-fixed-2);
+  margin-left: -12px;
+
+  & > div {
+    cursor: pointer;
+  }
+`,tw=b.default.div.withConfig({displayName:"review-carousel.styled__Frame",componentId:"sc-c32dd239-4"})`
+  --ratio: 5 / 6;
+  aspect-ratio: var(--ratio);
+  align-items: center;
+  border-radius: var(--bdrs-m);
+  display: flex;
+  position: relative;
+  overflow: hidden;
+
+  @media ${v.mqLargeMin} {
+    --ratio: 16 / 9;
+  }
+
+  ${({type:e})=>"rounded"===e&&`
+          border-radius: 100%;
+          max-width: 36px;
+      `}
+
+  & > img,
+    & > picture,
+    & > video {
+    block-size: 100%;
+    inline-size: 100%;
+    object-fit: cover;
+  }
+`,tk=b.default.div.withConfig({displayName:"review-carousel.styled__Controls",componentId:"sc-c32dd239-5"})`
+  background: #efefea;
+  border-radius: 50%;
+  padding: 12px;
+  align-items: center;
+  gap: var(--space-fixed-2);
+  display: flex;
+`,tj=b.default.div.withConfig({displayName:"review-carousel.styled__ProgressWrapper",componentId:"sc-c32dd239-6"})`
+  border-radius: var(--bdrs-pill);
+  height: 36px;
+  width: fit-content;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+`,t_=b.default.div.withConfig({displayName:"review-carousel.styled__ProgressBuffer",componentId:"sc-c32dd239-7"})`
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+`,t$=b.default.div.withConfig({displayName:"review-carousel.styled__ProgressBar",componentId:"sc-c32dd239-8"})`
+  background-color: rgba(0, 0, 0, 0.1);
+  height: 100%;
+  width: 100%;
+  inset: 0;
+  transform-origin: left;
+  position: absolute;
+  pointer-events: none;
+  transform: scaleX(0);
+  z-index: 3;
+`,tC=b.default.button.withConfig({displayName:"review-carousel.styled__ProgressButton",componentId:"sc-c32dd239-9"})`
+  --focus-color: var(--fill-brand);
+  --focus-offset: -1ch;
+  color: var(--fill-brand);
+  font-family: ${eA.FontFamily.sans};
+  font-size: ${x.fontSizes["14px"]};
+  font-weight: 350;
+  cursor: pointer;
+  appearance: none;
+  background-color: var(--fill-primary);
+  border: none;
+  display: flex;
+  gap: var(--space-fixed-1);
+  align-items: center;
+  padding: 10px;
+  overflow: hidden;
+  z-index: 2;
+`,tS=b.default.button.withConfig({displayName:"review-carousel.styled__FullscreenButton",componentId:"sc-c32dd239-10"})`
+  --focus-color: var(--fill-primary);
+  position: absolute;
+  background: var(--color-neutral-frosted-glass-35, rgba(73, 73, 73, 0.7));
+  color: var(--fill-primary);
+  top: var(--space-fixed-2);
+  right: var(--space-fixed-2);
+  border: none;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 6px 12px;
+  border-radius: var(--bdrs-pill);
+  transform: scale(0);
+  transition: transform 0.2s;
+  transition-delay: 0.3s;
+  z-index: 10;
+
+  > svg > path {
+    color: var(--fill-primary);
+    transition: 0.2s;
+  }
+
+  &:hover {
+    > .fullscreen {
+      :nth-child(2) {
+        transform: translate(-3px, -3px);
+      }
+      :nth-child(3) {
+        transform: translate(-3px, 3px);
+      }
+      :nth-child(4) {
+        transform: translate(3px, -3px);
+      }
+      :nth-child(5) {
+        transform: translate(3px, 3px);
+      }
+    }
+  }
+
+  &.is-active {
+    transform: none;
+  }
+`,tM="opacity 0.5s cubic-bezier(0.75, 0, 0.25, 1) 0.3s",tI=b.default.div.withConfig({displayName:"review-carousel.styled__Review",componentId:"sc-c32dd239-11"})`
+  color: var(--fill-primary);
+  font-family: ${eA.FontFamily.sans};
+  font-size: ${x.fontSizes["24px"]};
+  font-weight: 350;
+  text-align: left;
+  position: absolute;
+  bottom: var(--space-fixed-3);
+  left: var(--space-fixed-3);
+  max-width: ${(0,y.pxToRem)(300)};
+  width: 100%;
+  opacity: 0;
+  transition: ${tM};
+  &.is-active {
+    opacity: 1;
+  }
+`,tz=b.default.div.withConfig({displayName:"review-carousel.styled__Member",componentId:"sc-c32dd239-12"})`
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-inline: var(--space-fixed-3);
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translate3D(0, -50%, 0);
+  width: 100%;
+  opacity: 0;
+  transition: ${tM};
+  &.is-active {
+    opacity: 1;
+  }
+
+  @media ${v.mqLargeMin} {
+    padding-inline: var(--space-4);
+  }
+`,tN=b.default.span.withConfig({displayName:"review-carousel.styled__MemberPill",componentId:"sc-c32dd239-13"})`
+  color: var(--fill-primary);
+  font-family: ${eA.FontFamily.sansMedium};
+  font-size: ${x.fontSizes["14px"]};
+  font-weight: 500;
+  line-height: 110%;
+  letter-spacing: 0.56px;
+  text-transform: uppercase;
+  border-radius: var(--bdrs-pill);
+  border: 1.5px solid currentColor;
+  padding-block: ${(0,y.pxToRem)(4)};
+  padding-inline: ${(0,y.pxToRem)(8)};
+  vertical-align: middle;
+  display: inline-block;
+`;e.s(["default",0,({videos:e,headline:l})=>{let s=(0,i.useRef)(null),d=(0,i.useRef)(null),c=(0,i.useRef)([]),p=(0,i.useRef)(null),[m,u]=(0,i.useState)(0),[h,g]=(0,i.useState)(!1),[f,b]=(0,i.useState)(!1),[y,v]=(0,i.useState)(!1),[x,w]=(0,i.useState)(!1),[k,_]=(0,i.useState)({}),$=(0,a.default)(959),C=eT(d,{initial:!1,amount:.2}),S=eT(d,{initial:!1,amount:.5}),M=(0,i.useRef)(null),I=(0,i.useRef)(null),z=e=>{e.preventDefault(),h?(c.current[m]?.pause(),g(!1),w(!1),(0,P.buttonEventHandler)(`Pause video at index ${m}`,"Reviews Carousel")):(c.current[m]?.play(),x&&w(!1),g(!0),(0,P.buttonEventHandler)(`Play video at index ${m}`,"Reviews Carousel"))},N=()=>{let e=c.current[m];if(!e.buffered||0===e.buffered.length)return;let t=e.buffered.end(e.buffered.length-1),i=e.duration;I&&i>0&&(I.current.style.transform=`scaleX(${t/i*100}%)`)},T=()=>{w(!1);let e=c.current[m],t=e.duration,i=e.currentTime;_(e=>({...e,[m]:{progress:i/t*100,currentTime:i}})),M&&t>0&&(M.current.style.transform=`scaleX(${i/t*100}%)`)};return(0,i.useEffect)(()=>{let e=()=>{v(!!(document.fullscreenElement||document.webkitFullscreenElement))};return document.addEventListener("fullscreenchange",e),()=>{document.removeEventListener("fullscreenchange",e)}},[]),(0,i.useEffect)(()=>{if(!c.current)return;let e=c.current[m];if(!e)return;let t=k[m];return t?(e.currentTime=t.currentTime,M.current&&(M.current.style.transform=`scaleX(${t.progress}%)`)):(M.current&&(M.current.style.transform="scaleX(0)"),I.current&&(I.current.style.transform="scaleX(0)")),e.addEventListener("progress",N),e.addEventListener("timeupdate",T),()=>{e.removeEventListener("progress",N),e.removeEventListener("timeupdate",T)}},[m]),(0,t.jsxs)(tb,{children:[l&&l,(0,t.jsxs)(ty,{ref:d,className:C?"in-view":void 0,children:[(0,t.jsx)(r.Swiper,{modules:[tf],spaceBetween:12,slidesPerView:1.1,speed:800,breakpoints:{960:{slidesPerView:1.5}},centeredSlides:!0,initialSlide:e.length>2?e.length/2:0,grabCursor:!0,onSwiper:e=>s.current=e,onSlideChange:e=>{u(e.realIndex),h&&(c.current[m]?.pause(),g(!1)),M.current&&(M.current.style.transform="scaleX(0)")},children:e.map((e,i)=>{let a;return(0,t.jsx)(r.SwiperSlide,{children:(0,t.jsxs)(tw,{ref:m==i?p:void 0,className:`${y?"video-frame is-fullscreen":"video-frame"}`,onClick:e=>z(e),children:[(0,t.jsx)(tS,{onClick:e=>{if(e.stopPropagation(),y)document.exitFullscreen?document.exitFullscreen():document.webkitExitFullscreen&&document.webkitExitFullscreen(),(0,P.buttonEventHandler)("Exit fullscreen","Reviews Carousel");else{let e=c.current[m];e&&(e.requestFullscreen?e.requestFullscreen():e.webkitEnterFullscreen&&e.webkitEnterFullscreen(),(0,P.buttonEventHandler)("Enter fullscreen","Reviews Carousel"))}},className:m==i?"is-active":void 0,children:y?(0,t.jsx)(D.Close,{customClass:"close"}):(0,t.jsx)(D.Fullscreen,{customClass:"fullscreen"})}),e.review&&(0,t.jsxs)(tI,{className:m==i&&C?"is-active":void 0,children:['"',e.review,'"']}),e.name&&e.memberFrom&&(0,t.jsxs)(tz,{className:m==i&&S?"is-active":void 0,children:[(0,t.jsxs)(j.TypeBodyLarge,{color:"inverse-primary",children:["● ",e.name]}),(0,t.jsxs)(j.TypeBodyLarge,{color:"inverse-primary",children:["Member for ",(0,t.jsx)(tN,{children:e.memberFrom})]})]}),(0,t.jsx)(n.default,{playbackId:$?e.mobilePlaybackId:e.playbackId,isManuallyControlled:!0,onPause:()=>{g(!1)},onPlay:()=>{g(!0)},videoRefs:c,muted:f,height:"100%",width:"100%",index:i,posterTime:e.posterTime,lazy:!1,thumbnailTime:e.posterTime,style:(a={"--controls":"none"},$?{...a,"--media-object-fit":"cover"}:{...a})})]})},i)})}),(0,t.jsx)(tu.Container,{children:(0,t.jsxs)(tv,{className:"video-pagination",children:[(0,t.jsx)("svg",{style:{display:"none"},children:(0,t.jsx)("defs",{children:(0,t.jsxs)("filter",{id:"filter",children:[(0,t.jsx)("feGaussianBlur",{in:"SourceGraphic",stdDeviation:"7",result:"blur"}),(0,t.jsx)("feColorMatrix",{in:"blur",mode:"matrix",values:"1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 19 -11",result:"filter"}),(0,t.jsx)("feComposite",{in:"SourceGraphic",in2:"filter"})]})})}),(0,t.jsx)(tk,{children:(0,t.jsx)(o.default,{onClick:()=>{let e=f?"Unmute":"Mute";(0,P.buttonEventHandler)(`${e} video`,"Reviews Carousel"),b(!f)},size:"small",color:"seedgreen",children:f?(0,t.jsx)(D.Muted,{}):(0,t.jsx)(D.Sound,{})})}),(0,t.jsx)(tx,{children:e.map((i,a)=>a==m?(0,t.jsxs)(tj,{children:[(0,t.jsx)(t_,{ref:I}),(0,t.jsx)(t$,{ref:M}),(0,t.jsxs)(tC,{onClick:e=>z(e),children:[h?(0,t.jsx)(D.Pause,{}):(0,t.jsx)(D.Play,{}),e[m].title]})]},a):(0,t.jsx)(tw,{style:{"--ratio":"1 / 1"},type:"rounded",children:(0,t.jsx)("img",{src:i.thumb,alt:`Thumbnail ${a}`,onClick:()=>{s.current&&(h&&(c.current[m]?.pause(),g(!1)),s.current.slideToLoop(a),(0,P.buttonEventHandler)(`Thumbnail click at index ${a}`,"Reviews Carousel"))}})},a))})]})})]})]})}],27296)},630452,846198,64523,310373,e=>{"use strict";e.i(350461);var t=e.i(391398),i=e.i(191788),a=e.i(285003),r=e.i(426609),o=e.i(484398),l=e.i(725198),n=e.i(760814),s=e.i(198311),d=e.i(32118),c=e.i(341949),p=e.i(32178),m=e.i(851798),u=e.i(97984),h=e.i(188564),g=e.i(915597),f=e.i(926405);let b=n.default.section.withConfig({displayName:"micro-biome.styled__MicrobiomeContainer",componentId:"sc-ac1e3246-0"})``,y=(0,n.default)(u.TypeBody).withConfig({displayName:"micro-biome.styled__FlexContainer",componentId:"sc-ac1e3246-1"})`
+  display: flex;
+  align-items: center;
+  gap: var(--space-fixed-1);
+`,v=(0,n.default)(y).withConfig({displayName:"micro-biome.styled__BookContainer",componentId:"sc-ac1e3246-2"})`
+  ${g.GlassEffectDark}
+  border-radius: var(--bdrs-pill);
+  padding: 10px var(--space-fixed-2);
+
+  && svg * {
+    color: var(--fill-primary);
+  }
+`,x=(0,n.default)(s.motion.header).withConfig({displayName:"micro-biome.styled__MicrobiomeHeader",componentId:"sc-ac1e3246-3"})`
+  color: var(--fill-primary);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: var(--space-fixed-2);
+  z-index: 10;
+`,w=n.default.button.withConfig({displayName:"micro-biome.styled__FullscreenButton",componentId:"sc-ac1e3246-4"})`
+  ${g.GlassEffectDark}
+  border: none;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 10px var(--space-fixed-2);
+  border-radius: var(--bdrs-pill);
+
+  svg {
+    height: 16px;
+    width: 16px;
+  }
+
+  && svg * {
+    color: var(--fill-primary);
+  }
+`,k=(0,n.default)(s.motion.div).withConfig({displayName:"micro-biome.styled__ControlsContainer",componentId:"sc-ac1e3246-5"})`
+  ${h.StackXSmall}
+  background-color: var(--scrim-glass-light-20);
+  backdrop-filter: blur(25px);
+  -webkit-backdrop-filter: blur(25px);
+  border-radius: var(--bdrs-m);
+  position: absolute;
+  bottom: var(--space-fixed-2);
+  left: var(--space-fixed-2);
+  right: var(--space-fixed-2);
+  padding: var(--space-fixed-2);
+  z-index: 10;
+  @media ${c.mqLargeMin} {
+    width: 416px;
+  }
+`,j=(0,n.default)(s.motion.div).withConfig({displayName:"micro-biome.styled__Controls",componentId:"sc-ac1e3246-6"})`
+  align-items: center;
+  display: flex;
+  gap: var(--space-fixed-1);
+  flex: 1;
+  width: 100%;
+`,_=(0,n.default)(s.motion.div).withConfig({displayName:"micro-biome.styled__ProgressWrapper",componentId:"sc-ac1e3246-7"})`
+  border-radius: var(--bdrs-pill);
+  height: 36px;
+  width: fit-content;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+`,$=n.default.div.withConfig({displayName:"micro-biome.styled__ProgressBuffer",componentId:"sc-ac1e3246-8"})`
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+`,C=n.default.div.withConfig({displayName:"micro-biome.styled__ProgressBar",componentId:"sc-ac1e3246-9"})`
+  background-color: rgba(0, 0, 0, 0.1);
+  height: 100%;
+  width: 100%;
+  inset: 0;
+  transform-origin: left;
+  position: absolute;
+  pointer-events: none;
+  transform: scaleX(0);
+  z-index: 3;
+`,S=(0,n.default)(s.motion.button).withConfig({displayName:"micro-biome.styled__ProgressButton",componentId:"sc-ac1e3246-10"})`
+  color: var(--fill-brand);
+  font-family: ${m.FontFamily.sans};
+  font-size: ${p.fontSizes["14px"]};
+  font-weight: 350;
+  cursor: pointer;
+  appearance: none;
+  background-color: var(--fill-primary);
+  border: none;
+  display: flex;
+  gap: var(--space-fixed-1);
+  align-items: center;
+  padding: 10px;
+  z-index: 2;
+`,M=n.default.video.withConfig({displayName:"micro-biome.styled__BiomeMedia",componentId:"sc-ac1e3246-11"})`
+  border-radius: var(--bdrs-l);
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+
+  @media ${c.mqLargeMax} {
+    border-radius: 0;
+  }
+`,I=n.default.button.withConfig({displayName:"micro-biome.styled__ChapterButton",componentId:"sc-ac1e3246-12"})`
+  background-color: var(--fill-brand);
+  border: 0;
+  border-radius: 50%;
+  cursor: pointer;
+  height: 12px;
+  width: 12px;
+`,z=n.default.div.withConfig({displayName:"micro-biome.styled__ChapterConnector",componentId:"sc-ac1e3246-13"})`
+  background-color: var(--fill-brand);
+  opacity: 0.2;
+  height: 2px;
+  align-self: center;
+  flex: 1;
+  min-width: 8px;
+  max-width: 40px;
+
+  @media ${c.mqLargeMax} {
+    min-width: 4px;
+    max-width: 20px;
+  }
+
+  @media (max-width: 400px) {
+    min-width: 2px;
+    max-width: 12px;
+  }
+`,N=n.default.div.withConfig({displayName:"micro-biome.styled__CarouselContainer",componentId:"sc-ac1e3246-14"})`
+  aspect-ratio: 1440 / 760;
+  display: grid;
+  margin-inline: auto;
+  max-width: var(--maw);
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  .swiper {
+    border-radius: var(--bdrs-l);
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .swiper-wrapper {
+    width: 100%;
+  }
+
+  @media ${c.mqLargeMax} {
+    aspect-ratio: 9/16;
+    .swiper {
+      border-radius: 0;
+    }
+  }
+`,T=n.default.section.withConfig({displayName:"micro-biome.styled__MicrobioSection",componentId:"sc-ac1e3246-15"})`
+  background: rgba(252, 252, 247, 1);
+  padding-inline: var(--space-outer);
+
+  @media ${c.mqLargeMax} {
+    padding-block: ${(0,d.pxToRem)(46)};
+  }
+`,q=(0,n.default)(f.Grid).withConfig({displayName:"micro-biome.styled__MicrobiomeIntro",componentId:"sc-ac1e3246-16"})`
+  place-items: center;
+  margin-inline: auto;
+  max-width: var(--maw);
+  width: 100%;
+
+  @media ${c.mqLargeMin} {
+    position: relative;
+    min-height: 760px;
+  }
+`,L=n.default.div.withConfig({displayName:"micro-biome.styled__MicrobiomeIntroBook",componentId:"sc-ac1e3246-17"})`
+  grid-column: 1 / span 2;
+  justify-self: start;
+  color: var(--fill-brand);
+  font-variant-numeric: slashed-zero;
+  font-family: var(--ff-sans, 'Seed Sans');
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 350;
+  line-height: 90%; /* 18px */
+  letter-spacing: -0.6px;
+`,E=n.default.div.withConfig({displayName:"micro-biome.styled__MicrobiomeIntroContent",componentId:"sc-ac1e3246-18"})`
+  ${h.StackLarge}
+  grid-column: 1 / span 5;
+
+  @media ${c.mqLargeMax} {
+    grid-column: 1 / -1;
+  }
+`,P=(0,n.default)(s.motion.figure).withConfig({displayName:"micro-biome.styled__MicrobiomeIntroImage",componentId:"sc-ac1e3246-19"})`
+  --padding: calc(100% - var(--maw));
+  background-color: rgba(238, 238, 233, 1);
+  aspect-ratio: 1 / 1;
+  border-radius: var(--bdrs-l);
+  overflow: hidden;
+
+  @media ${c.mqLargeMax} {
+    grid-column: 1 / -1;
+    order: 2;
+    width: 100% !important;
+    position: relative;
+  }
+
+  @media ${c.mqLargeMin} {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translate3d(0, -50%, 0);
+    transform-origin: left;
+    ${n.css`
+  width: calc(
+    ${5} * var(--grid-col-width) + (${5} - 1) * var(--space-gutter)
+  );
+`};
+  }
+
+  & > picture,
+  & img,
+  & > video {
+    block-size: 100%;
+    inline-size: 100%;
+    object-fit: cover;
+  }
+`,B=n.default.div.withConfig({displayName:"micro-biome.styled__MicrobiomeFooter",componentId:"sc-ac1e3246-20"})`
+  grid-column: 1 / span 3;
+  align-self: end;
+  justify-self: start;
+  padding-block: ${(0,d.pxToRem)(46)};
+  color: var(--fill-brand);
+
+  @media ${c.mqLargeMax} {
+    display: none; // Hide on mobile
+  }
+`,D=n.default.span.withConfig({displayName:"micro-biome.styled__MicrobiomeFooterLabel",componentId:"sc-ac1e3246-21"})`
+  letter-spacing: 0.24px;
+  font-family: var(--ff-sans-mono, ${m.FontFamily.mono});
+  text-transform: uppercase;
+`,F=n.default.span.withConfig({displayName:"micro-biome.styled__MicrobiomeFooterTitle",componentId:"sc-ac1e3246-22"})`
+  font-weight: 500;
+  letter-spacing: -0.12px;
+  margin-left: var(--space-fixed-1);
+`;(0,n.default)(s.motion.div).withConfig({displayName:"micro-biome.styled__Panel",componentId:"sc-ac1e3246-23"})`
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-fixed-2);
+  max-width: 416px;
+`;let H=(0,n.default)(u.TypeBodyLarge).withConfig({displayName:"micro-biome.styled__PanelTitle",componentId:"sc-ac1e3246-24"})`
+  color: var(--fill-brand);
+  font-weight: 500;
+`,R=(0,n.default)(a.default).withConfig({displayName:"micro-biome.styled__DiscoverButton",componentId:"sc-ac1e3246-25"})`
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 34px;
+  gap: 18px;
+`,V=(0,n.default)(a.default).withConfig({displayName:"micro-biome.styled__DiscoverButtonSmall",componentId:"sc-ac1e3246-26"})`
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 34px;
+  gap: 18px;
+`;var A=e.i(24297),X=e.i(147749),Y=e.i(498817),W=e.i(919954),G=e.i(715367),O=e.i(39727),U=e.i(4912);let Z={initial:{opacity:0,transition:{ease:W.ease,duration:.25}},exit:{opacity:0,transition:{ease:W.ease,duration:.25}},visible:{background:"rgba(252, 252, 247, 1)",opacity:1,paddingLeft:0,paddingRight:0,paddingTop:(0,d.pxToEm)(46),transition:{ease:W.ease,duration:.6}}},J={initial:{opacity:0,transition:{ease:W.ease,duration:.25}},exit:{opacity:0,transition:{ease:W.ease,duration:.25}},visible:{background:"rgba(252, 252, 247, 1)",opacity:1,padding:"24px",transition:{ease:W.ease,duration:.6}}},K={initial:{opacity:0,scale:.8,transition:{ease:W.ease,duration:.6}},exit:{opacity:0,scale:.8,transition:{ease:W.ease,duration:.6}},visible:{opacity:1,scale:1,transition:{ease:W.ease,duration:.6}}},Q={initial:{opacity:0,transition:{delay:.5,ease:W.ease,duration:.6}},exit:{opacity:0,transition:{delay:.5,ease:W.ease,duration:.6}},visible:{opacity:1,transition:{delay:.5,ease:W.ease,duration:.6}}},ee={initial:{background:"rgba(238, 238, 233, 1)",height:"auto",width:"calc(6 * var(--grid-col-width) + 5 * var(--space-gutter))",opacity:1,transition:{ease:W.ease,duration:.6}},exit:{background:"rgba(252, 252, 247, 1)",height:"760px",width:"100%",opacity:0,transition:{ease:W.ease,duration:.6,background:{delay:.3},opacity:{delay:.6}}}},et={initial:{y:-100},visible:{y:0,transition:{delay:.3,ease:W.ease,duration:1}}},ei=({onDiscoverClick:e})=>{let a=(0,o.default)(960),n=(0,r.useAnimation)(),s=(0,i.useRef)([]),d=()=>{(0,G.buttonEventHandler)("Discover More","Microbiome"),a||n.start("exit")};return(0,t.jsx)(T,{children:(0,t.jsxs)(q,{children:[a?(0,t.jsx)("span",{style:{justifySelf:"start"},children:(0,t.jsx)(l.Book,{})}):(0,t.jsx)(t.Fragment,{children:(0,t.jsxs)(L,{children:["Seed【 ",(0,t.jsx)(l.Book,{})," 】"]})}),(0,t.jsxs)(E,{children:[(0,t.jsx)(u.TypeHeadingSecondary,{as:"h2",color:"primary",children:"You are more than human."}),(0,t.jsx)(u.TypeBody,{color:"primary",children:"Your body isn't yours alone—it's home to 38 trillion microbes that power your digestion, immunity and more. Take a few minutes to learn how their health impacts your health—and how to maximize both."}),a?null:(0,t.jsxs)(R,{animated:!1,onClick:()=>{d(),setTimeout(()=>{e(!0)},600)},children:["Discover ",(0,t.jsx)(l.PlayLarge,{})]})]}),(0,t.jsxs)(B,{children:[(0,t.jsx)(D,{children:"SCIENCE /"}),(0,t.jsx)(F,{children:"Microbiome 101"})]}),(0,t.jsxs)(P,{animate:n,initial:"initial",variants:ee,children:[(0,t.jsx)(U.default,{wrapperPosition:"relative",playbackId:a?"f93ezdDcsqOn02W018Of4DyqRyAk01Zcc800c900Td5NTGEc":"87tnV011w6GkwNzl7dxntQSNhpcVSJNgSQaqlj3iLTK00",style:{"--controls":"none","--media-object-fit":"cover",aspectRatio:"1"},muted:!0,autoPlay:!0,loop:!0,videoRefs:s,index:0}),a&&(0,t.jsxs)(V,{animated:!1,onClick:()=>{d(),setTimeout(()=>{e(!0)},600)},children:["Discover ",(0,t.jsx)(l.PlayLarge,{})]})]})]})})},ea=({chapters:e,onDiscoverClick:r})=>{let n=(0,i.useRef)(null),d=(0,o.default)(960),c=(0,i.useRef)(null),[m,h]=(0,i.useState)(1),[g,f]=(0,i.useState)(!1),[T,q]=(0,i.useState)(!1),[L,E]=(0,i.useState)(!1),[P,B]=(0,i.useState)(0),D=(0,i.useRef)(null),F=(0,i.useRef)(null),R=(0,i.useRef)([]),V=(0,i.useRef)(null),[W,Z]=(0,i.useState)(!1),J=()=>{g?(R.current[0]?.pause(),f(!1),Z(!1),(0,G.buttonEventHandler)(`Pause Video at index ${P}`,"Microbiome")):(R.current[0]?.play(),W&&Z(!1),f(!0),(0,G.buttonEventHandler)(`Play Video at index ${P}`,"Microbiome"))};(0,i.useEffect)(()=>{let t,i=()=>{let a=R.current[0];if(a&&D.current){let t=e[P]?.duration,i=e[P]?.startTime||0,r=a.currentTime,o=0;e[P]?.type==="video"&&"number"==typeof t&&t>0?o=(r-i)/t:a.duration>0&&(o=r/a.duration),e[P]?.type==="image"&&(o=0),D.current.style.transform=`scaleX(${Math.max(0,Math.min(1,o))})`}t=requestAnimationFrame(i)};return i(),()=>cancelAnimationFrame(t)},[P,e]);let[ee,ei]=(0,i.useState)("");return(0,i.useEffect)(()=>{let t=R.current[0];if(!t)return;let i=Array.from(t.textTracks).find(e=>{let t=e.kind;return"subtitles"===t||"captions"===t});if(!i)return;i.mode="hidden";let a=()=>{let a=i.activeCues?.[0];if(ei(a?a.text:""),e&&e.length&&e[P]?.type==="video"){let i=t.currentTime,a=0;for(let t=0;t<e.length;t++)"video"===e[t].type&&"number"==typeof e[t].startTime&&i>=e[t].startTime&&(a=t);a!==P&&(B(a),h(e[a].chapter??null))}};return t.addEventListener("timeupdate",a),()=>{t.removeEventListener("timeupdate",a)}},[g,P]),(0,i.useEffect)(()=>{c.current&&(document.querySelector("header").style.display="none",requestAnimationFrame(()=>{c.current?.scrollIntoView({behavior:"smooth",block:"center",inline:"center"})}))},[]),(0,i.useEffect)(()=>{let e;return e=setInterval(function(){let t=R.current[0];if(!t)return;let i=Array.from(t.textTracks).find(e=>{let t=e.kind;return"subtitles"===t||"captions"===t});i&&(i.mode="hidden",t.play(),f(!0),e&&clearInterval(e))},100),()=>{e&&clearInterval(e)}},[]),(0,t.jsx)(b,{ref:c,children:(0,t.jsxs)(N,{ref:V,children:[(0,t.jsxs)(x,{initial:"initial",animate:"visible",exit:"exit",variants:et,children:[(0,t.jsxs)(v,{as:"h2",color:"inverse-primary",children:[(0,t.jsx)(l.Book,{})," ",m?`Chapter ${m}`:""]}),(0,t.jsxs)(y,{children:[d?null:(0,t.jsx)(w,{onClick:()=>{L?(document.exitFullscreen(),(0,G.buttonEventHandler)("Exit Fullscreen","Microbiome")):(V.current?.requestFullscreen(),(0,G.buttonEventHandler)("Enter Fullscreen","Microbiome")),E(!L)},children:(0,t.jsx)(l.Fullscreen,{})}),(0,t.jsx)(w,{onClick:()=>{(0,G.buttonEventHandler)("Exit video player","Microbiome"),r(!1),document.querySelector("header").style.display="block"},children:(0,t.jsx)(l.Close,{})})]})]}),(0,t.jsx)(A.Swiper,{modules:[X.Navigation],slidesPerView:1,grabCursor:!0,onSwiper:e=>n.current=e,children:[O.microbiomeVideo,O.microbiomeImageSlide].map((i,a)=>(0,t.jsx)(A.SwiperSlide,{onClick:J,children:"video"===i.type?(0,t.jsx)(U.default,{"data-microbiome-player":!0,playbackId:d?i.mobilePlaybackId:i.playbackId,videoRefs:R,lazy:!1,style:{"--controls":"none","--media-object-fit":"cover",borderRadius:"var(--bdrs-l)"},muted:T,onPause:()=>f(!1),isManuallyControlled:!0,index:a,onEnded:t=>{var i;return i=t.target,void(n.current?.slideNext(300,!1),i&&i.load(),B(e.length-1),h(e[e.length-1]?.chapter),g&&(R.current[0]?.pause(),f(!1)),D.current&&(D.current.style.transform="scaleX(0)"))}}):(0,t.jsx)(M,{as:"img",src:i.src,alt:i.title})},a))}),(0,t.jsxs)(k,{layout:!0,children:[(0,t.jsx)(Y.AnimatePresence,{children:"video"===e[P].type?(0,t.jsx)(s.motion.div,{layout:"position",variants:Q,initial:"initial",animate:"visible",exit:"exit",children:(0,t.jsx)(u.TypeCaption,{color:"primary",children:ee})}):(0,t.jsxs)(s.motion.div,{layout:"position",variants:Q,initial:"initial",animate:"visible",exit:"exit",children:[(0,t.jsx)(H,{as:"h3",color:"primary",children:e[P].heading}),(0,t.jsx)(u.TypeBody,{color:"primary",children:e[P].description})]})},e[P].title),(0,t.jsxs)(j,{layout:!0,style:{borderRadius:"16px"},transition:{default:{ease:"linear"}},children:[(0,t.jsx)(a.default,{onClick:()=>{let e=T?"Unmute":"Mute";(0,G.buttonEventHandler)(`${e} video`,"Microbiome"),q(!T)},size:"small",color:"seedgreen",children:T?(0,t.jsx)(l.Muted,{}):(0,t.jsx)(l.Sound,{})}),(0,t.jsx)(Y.AnimatePresence,{children:[...e].map((a,r)=>{let o=[];return r>0&&o.push((0,t.jsx)(z,{},`connector-${r}`)),r!==P?o.push((0,t.jsx)(I,{type:"button",onClick:()=>{n.current&&((0,G.buttonEventHandler)(`Micronav navigate to index ${r}`,"Microbiome"),"image"===e[r].type&&(R.current[0]?.pause(),f(!1),n.current?.slideToLoop(r,300,!1)),"video"===e[r].type&&(n.current?.slideToLoop(0,300,!1),R.current[0].pause(),R.current[0]&&(R.current[0].currentTime=e[r].startTime)),B(r),h(e[r].chapter??null),D.current&&(D.current.style.transform="scaleX(0)"),setTimeout(()=>{R.current[0]&&"video"===e[r].type&&(R.current[0]?.play(),f(!0))},100))},"aria-label":a.title},`button-${r}`)):o.push((0,t.jsxs)(_,{layout:!0,initial:"initial",animate:"visible",exit:"exit",variants:K,children:[(0,t.jsx)($,{ref:F}),(0,t.jsx)(C,{ref:D}),(0,t.jsx)(S,{onClick:"image"!==e[P].type?J:null,layout:!0,children:(0,t.jsxs)(s.motion.span,{layout:"position",variants:Q,initial:"initial",animate:"visible",exit:"exit",style:{display:"inline-flex",alignItems:"center",gap:"4px",fontSize:p.fontSizes["13px"],letterSpacing:"-0.42px"},children:["image"!==e[P].type&&(g?(0,t.jsx)(l.Pause,{}):(0,t.jsx)(l.Play,{})),e[P].title]},`${r}-${e[P].title}`)})]},`progress-${r}`)),(0,t.jsx)(i.default.Fragment,{children:o},`fragment-${r}`)})},"microbiome-controls-progress")]})]})]})})};e.s(["default",0,({chapters:e})=>{let[a,r]=(0,i.useState)(!1),l=(0,o.default)(960),n=e=>{r(e)};return(0,t.jsx)(t.Fragment,{children:a?(0,t.jsx)(Y.AnimatePresence,{children:(0,t.jsx)(s.motion.div,{initial:"initial",animate:"visible",exit:"exit",variants:l?Z:J,children:(0,t.jsx)(ea,{chapters:e,onDiscoverClick:n})})},"microbiome-player"):(0,t.jsx)(Y.AnimatePresence,{children:(0,t.jsx)(ei,{onDiscoverClick:n})},"microbiome-intro")})}],630452);var er=e.i(630051);let eo=({button:e,color:i})=>(0,t.jsx)(er.default,{id:"carousel-button-link",label:e.label,url:e.url,underline:!0,small:!0,transform:"lower",color:"seedgreen"===i?"snowwhite":"seedgreen",onClick:()=>{(0,G.buttonEventHandler)(e.label??"","Product Carousel")}});e.s(["default",0,eo],846198);var el=e.i(984727);let en=(0,n.default)(el.Container).withConfig({displayName:"carousel-elements.styled__ProductAction",componentId:"sc-61a9fa7f-0"})`
+  --padding: calc(100% - var(--maw));
+  align-items: center;
+  display: flex;
+  justify-content: end;
+  gap: var(--space-fixed-1);
+  padding-inline: var(--space-outer);
+  width: calc(100% - var(--space-outer) * 2);
+
+  @media ${c.mqLargeMax} {
+    justify-content: ${({justify:e})=>"end"===e?"flex-end":"space-between"};
+    width: calc(100% - var(--space-outer) * 2);
+  }
+
+  @media ${c.mqXXLargeMin} {
+    padding-inline: calc(var(--padding) / 2);
+  }
+`;n.default.div.withConfig({displayName:"carousel-elements.styled__CardGroup",componentId:"sc-61a9fa7f-1"})`
+  display: flex;
+  gap: var(--space-fixed-2);
+`;let es=n.default.div.withConfig({displayName:"carousel-elements.styled__DotsPagination",componentId:"sc-61a9fa7f-2"})`
+  display: flex;
+  margin-left: auto;
+  gap: var(--space-fixed-1);
+`,ed=(0,n.default)(s.motion.span).withConfig({displayName:"carousel-elements.styled__Dot",componentId:"sc-61a9fa7f-3"})`
+  border-radius: var(--bdrs-pill);
+  background: ${e=>"seedgreen"===e.$color?"var(--fill-primary)":"var(--fill-brand)"};
+  display: block;
+  height: 8px;
+`,ec=n.default.div.withConfig({displayName:"carousel-elements.styled__ReviewWrapper",componentId:"sc-61a9fa7f-4"})`
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: var(--scrim-glass-dark-08, rgba(87, 94, 85, 0.08));
+  border-radius: var(--bdrs-pill);
+  padding-inline: ${(0,d.pxToRem)(12)} ${(0,d.pxToRem)(24)};
+  padding-block: ${(0,d.pxToRem)(12)};
+  min-width: ${(0,d.pxToRem)(220)};
+
+  @media ${c.mqLargeMin} {
+    margin-inline: auto;
+    min-width: 33%;
+  }
+`,ep=n.default.figure.withConfig({displayName:"carousel-elements.styled__ReviewThumb",componentId:"sc-61a9fa7f-5"})`
+  aspect-ratio: 1 / 1;
+  align-items: center;
+  border-radius: 100%;
+  display: flex;
+  overflow: hidden;
+  max-width: ${(0,d.pxToRem)(30)};
+
+  & > img,
+  & > picture,
+  & > video {
+    block-size: 100%;
+    inline-size: 100%;
+    object-fit: cover;
+  }
+`,em=n.default.div.withConfig({displayName:"carousel-elements.styled__ReviewThumbsWrapper",componentId:"sc-61a9fa7f-6"})`
+  display: flex;
+`;e.s(["Dot",0,ed,"DotsPagination",0,es,"ProductAction",0,en,"ReviewThumb",0,ep,"ReviewThumbsWrapper",0,em,"ReviewWrapper",0,ec],64523),e.s(["default",0,({button:e,items:i,reviews:a,activeIndex:r,showDot:l=!0,justify:n,visibleItems:s=[],color:d})=>{let c=(0,o.default)(960);return(0,t.jsxs)(en,{justify:n??"space-between",children:[a&&(0,t.jsxs)(ec,{children:[(0,t.jsx)(em,{children:a.videos.map((e,i)=>(0,t.jsx)(ep,{style:{marginLeft:`-${5*i}px`},children:(0,t.jsx)("img",{src:e.thumb,alt:e.title})},i))}),(0,t.jsxs)(u.TypeBody,{color:"primary",children:[a.videos.length," Reviews"]})]}),e&&!a&&(0,t.jsx)(eo,{button:e,color:d}),(c||i.length>4)&&i&&l&&(0,t.jsx)(es,{children:i.map((e,i)=>(0,t.jsx)(ed,{$color:d,animate:s.includes(i)&&r==i?{width:"16px",borderRadius:"99em",opacity:1}:{width:"8px",borderRadius:"50%",opacity:.2},className:s.includes(i)?"active":void 0},i))})]})}],310373)},544005,605645,e=>{"use strict";e.s(["handleVideoFocus",0,(e,t,i)=>{e.current&&(void 0!==t&&e.current[t]?.play(),-1!==i&&e.current[i]&&(e.current[i]?.pause(),e.current[i].currentTime=0))}],544005);var t=e.i(760814),i=e.i(32118),a=e.i(32178),r=e.i(198311),o=e.i(341949);let l=t.default.section.withConfig({displayName:"product-carousel.styled__ProductSection",componentId:"sc-609c66ab-0"})`
+  background-color: ${e=>"seedgreen"===e.$color?"var(--fill-brand)":"var(--fill-primary)"};
+  padding-block: var(--space-fixed-6);
+`,n=t.default.div.withConfig({displayName:"product-carousel.styled__CarouselContainer",componentId:"sc-609c66ab-1"})`
+  --padding: calc(100% - var(--maw));
+
+  display: flex;
+  margin-block-end: var(--space-fixed-2);
+  flex-wrap: nowrap;
+  gap: var(--space-fixed-2);
+  padding-inline: var(--space-outer);
+  position: relative;
+  // believe me i tried to tokenize this with 24px but it caused vertical overflow
+  padding-block: ${(0,i.pxToRem)(26)};
+
+  && .card {
+    min-width: 70%;
+
+    @media ${o.mqLargeMin} {
+      min-width: ${(0,i.pxToRem)(320)};
+    }
+  }
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+
+  & .card {
+    cursor: pointer;
+    flex: 1;
+  }
+
+  @media ${o.mqLargeMin} {
+    ${e=>e.total>4?"justify-content: flex-start;":"justify-content: center;"}
+  }
+  @media ${o.mqLargeMax} {
+    overflow-x: scroll;
+  }
+
+  @media (min-width: 1441px) {
+    padding-inline: calc(var(--padding) / 2);
+  }
+
+  ${e=>e.total>2&&`
+    overflow-x: scroll;
+
+    & .card {
+      min-width: ${(0,i.pxToRem)(220)};
+
+      @media ${o.mqLargeMin} {
+        min-width: ${(0,i.pxToRem)(320)};
+      }
+    }
+  `}
+
+  ${e=>e.total<=3&&`
+    & .card {
+      min-width: ${(0,i.pxToRem)(220)};
+    }
+  `}
+`,s=t.default.div.withConfig({displayName:"product-carousel.styled__ProductGridContainer",componentId:"sc-609c66ab-2"})`
+  --padding: calc(100% - var(--maw));
+  display: grid;
+  gap: var(--space-fixed-2);
+  grid-template-columns: repeat(2, minmax(10px, 1fr));
+  margin-block-end: var(--space-fixed-2);
+  padding-inline: var(--space-outer);
+
+  @media ${o.mqLargeMin} {
+    grid-template-columns: repeat(4, minmax(10px, 1fr));
+    padding-top: 24px;
+  }
+
+  @media ${o.mqXXLargeMin} {
+    padding-inline: calc(var(--padding) / 2);
+  }
+`,d=t.default.div.withConfig({displayName:"product-carousel.styled__MicroNavInner",componentId:"sc-609c66ab-3"})`
+  display: flex;
+  background: ${e=>"seedgreen"===e.$color?"var(--scrim-glass-dark-35)":"#efefea"};
+  border-radius: var(--bdrs-pill);
+  padding: ${(0,i.pxToRem)(12)};
+  position: relative;
+  margin-inline: auto;
+  overflow-x: scroll;
+  width: fit-content;
+  max-width: 100%;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+
+  &.mobile {
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+  }
+`,c=t.default.div.withConfig({displayName:"product-carousel.styled__MicroNav",componentId:"sc-609c66ab-4"})`
+  margin-block-end: var(--space-fixed-5);
+  overflow: hidden;
+
+  @media ${o.mqLargeMax} {
+    padding-inline: var(--space-outer);
+  }
+`,p=t.default.div.withConfig({displayName:"product-carousel.styled__MicroNavWrapper",componentId:"sc-609c66ab-5"})`
+  position: relative;
+  border-radius: var(--bdrs-pill);
+`,m=t.default.button.withConfig({displayName:"product-carousel.styled__MicroNavButton",componentId:"sc-609c66ab-6"})`
+  background: transparent;
+  border: none;
+  padding: ${(0,i.pxToRem)(10)};
+  color: ${e=>"seedgreen"===e.$color?"var(--text-inverse-primary)":"var(--text-primary)"};
+  cursor: pointer;
+  font-family: var(--ff, 'Seed Sans');
+  font-size: ${a.fontSizes["14px"]};
+  font-weight: 350;
+  position: relative;
+  align-items: center;
+  display: flex;
+  z-index: 1;
+  gap: var(--space-fixed-1);
+  white-space: nowrap;
+
+  @media ${o.mqLargeMin} {
+    padding: ${(0,i.pxToRem)(10)} ${(0,i.pxToRem)(18)};
+  }
+`,u=(0,t.default)(r.motion.div).withConfig({displayName:"product-carousel.styled__MicroNavBlobWrapper",componentId:"sc-609c66ab-7"})`
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  filter: url(#gooey);
+  display: flex;
+  overflow-x: scroll;
+  padding: ${(0,i.pxToRem)(12)};
+  width: 100%;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+
+  @media ${o.mqLargeMin} {
+    width: fit-content;
+  }
+
+  &.mobile {
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+  }
+`,h=t.keyframes`
+  10% {
+    transform: scale(1.1);
+  }
+  20% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(0);
+  }
+`,g=t.default.div.withConfig({displayName:"product-carousel.styled__MicroNavBlob",componentId:"sc-609c66ab-8"})`
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  > span {
+    aspect-ratio: 1;
+    background-color: var(--products-dm-02-dark);
+    border-radius: 50%;
+    transform: scale(0);
+    transition: transform 0.5s;
+    width: 32px;
+  }
+
+  &.is-visible {
+    > span {
+      animation: ${h} 2s cubic-bezier(0.75, 0, 0.25, 1);
+    }
+  }
+`,f=t.default.div.withConfig({displayName:"product-carousel.styled__MicroNavBg",componentId:"sc-609c66ab-9"})`
+  position: absolute;
+  top: 12px;
+  left: 0;
+  width: var(--bg-width);
+  height: calc(100% - 24px);
+  border-radius: var(--bdrs-pill);
+  background-color: ${e=>"seedgreen"===e.$color?"var(--products-dm-02-dark)":"var(--fill-primary)"};
+  transition: all 0.8s;
+`,b=(0,t.default)(r.motion.div).withConfig({displayName:"product-carousel.styled__MicroNavBgMobile",componentId:"sc-609c66ab-10"})`
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: var(--bdrs-pill);
+  background-color: ${e=>"seedgreen"===e.$color?"var(--fill-brand)":"var(--fill-primary)"};
+`;e.s(["CarouselContainer",0,n,"MicroNav",0,c,"MicroNavBg",0,f,"MicroNavBgMobile",0,b,"MicroNavBlob",0,g,"MicroNavBlobWrapper",0,u,"MicroNavButton",0,m,"MicroNavInner",0,d,"MicroNavWrapper",0,p,"ProductGridContainer",0,s,"ProductSection",0,l],605645)},569392,384775,e=>{"use strict";var t=e.i(391398),i=e.i(191788),a=e.i(657610),r=e.i(484398),o=e.i(285003);e.i(462691);var l=e.i(361695),n=e.i(97984),s=e.i(760814),d=e.i(114307),c=e.i(188564),p=e.i(341949),m=e.i(32178);let u=s.default.div.withConfig({displayName:"card.styled__CardFrame",componentId:"sc-b0c4b80b-0"})`
+  background-color: transparent;
+  border-radius: var(--bdrs-m);
+  padding: var(--space-fixed-6) var(--space-fixed-2) var(--space-fixed-2)
+    var(--space-fixed-2);
+  @media ${p.mqLargeMin} {
+    padding: var(--space-fixed-5);
+  }
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: var(--fill-brand);
+
+  & img {
+    aspect-ratio: 5 / 6;
+    height: auto;
+    transform: scale(1);
+    transition: transform 0.3s linear;
+  }
+
+  & video {
+    transform: scale(1);
+    transition: transform 0.3s linear;
+  }
+
+  &:before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scaleY(0.9);
+    width: 100%;
+    // i'm not a fan of this either but needs to be done for the short term
+    height: calc(100% + 40px);
+    @media ${p.mqLargeMin} {
+      height: calc(100% + 50px);
+    }
+    transform-origin: center;
+    transition: transform 0.3s;
+    background-color: rgba(87, 94, 85, 0.08);
+    background-color: ${({$color:e})=>"snowwhite"===e?"rgba(229, 240, 226, 0.08)":"var(--fill-brand-subtle)"};
+    border-radius: var(--bdrs-m);
+  }
+
+  &.in-view {
+    position: relative;
+
+    &:before {
+      transform: translate(-50%, -50%) scaleY(1);
+    }
+
+    & img {
+      transform: scale(1.25);
+    }
+
+    & video {
+      transform: scale(1.25);
+    }
+
+    & > span {
+      top: calc(var(--space-fixed-2) * -1);
+    }
+
+    & > .block-top {
+      transform: translateY(-20px);
+    }
+
+    & > .block-bottom {
+      transform: translateY(20px);
+    }
+  }
+
+  &:hover .video-overlay {
+    opacity: 1 !important;
+  }
+
+  // design wants the buttons to behave as if hovered when the card is active
+  ${({$active:e,$color:t})=>e&&`
+    button {
+      background: ${"seedgreen"===t?"var(--fill-primary)":"var(--fill-brand)"} !important;
+      color: ${"seedgreen"===t?"var(--fill-brand)":"var(--fill-primary)"} !important;
+    }
+  `}
+`,h=s.default.div.withConfig({displayName:"card.styled__CardBlock",componentId:"sc-b0c4b80b-1"})`
+  z-index: 1;
+  text-align: center;
+  transition: transform 0.3s;
+  ${({stackSize:e})=>"xSmall"===e?c.StackXSmall:c.StackSmall};
+  p,
+  span {
+    *:hover & {
+      color: var(${({hoverColor:e})=>`--text-${e}`});
+    }
+  }
+`,g=s.default.div.withConfig({displayName:"card.styled__CardPills",componentId:"sc-b0c4b80b-2"})`
+  display: flex;
+  justify-content: center;
+  gap: var(--space-fixed-2);
+`,f=(0,s.default)(d.default).withConfig({displayName:"card.styled__CardLabel",componentId:"sc-b0c4b80b-3"})`
+  position: absolute;
+  top: var(--space-fixed-1);
+  left: var(--space-fixed-1);
+  transition: all 0.3s;
+`,b=(0,s.default)(n.TypeCaption).withConfig({displayName:"card.styled__CardCaption",componentId:"sc-b0c4b80b-4"})`
+  opacity: 0.7;
+  // i have to override this one prop from typecaption
+  @media ${p.mqMediumMin} {
+    --fz: ${m.fontSizes["12px"]};
+    --lh: ${m.fontSizes["8px"]};
+  }
+`,y=s.default.div.withConfig({displayName:"card.styled__MediaContainer",componentId:"sc-b0c4b80b-5"})`
+  width: 157px;
+  height: 157px;
+  @media ${p.mqLargeMin} {
+    width: 264px;
+    height: 264px;
+  }
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+
+  // prevents a rough transition from poster to video
+  & video {
+    background-image: ${({$posterUrl:e})=>e?`url(${e})`:"none"};
+    background-size: cover;
+    background-position: center;
+  }
+`;var v=e.i(715367),x=e.i(738496),w=e.i(41158),k=e.i(440884),j=e.i(126019);let _=({title:e,label:a,labelColor:s="seedgreen",pills:d,media:c,primaryButton:p,note:m,desktopNote:_,ref:$,onClick:C,onMouseEnter:S,className:M,videoRefs:I,index:z,active:N,color:T,buttonProps:q={}})=>{let L=(0,r.default)(960),E=(0,r.default)(450),P="seedgreen"===T?"inverse-primary":"primary",[B,D]=(0,i.useState)(c.videoSrc),F=(0,x.supportsTransparentMov)();return(0,i.useEffect)(()=>{!F&&c.webmVideoSrc?D(c.webmVideoSrc):D(c.videoSrc)},[c.webmVideoSrc]),(0,t.jsxs)(u,{as:p.url?w.default:"div",href:p.url,className:`card ${M||""}`,ref:$,onClick:C,onMouseEnter:S,$color:T,$active:N,children:[a&&(0,t.jsx)(f,{size:"small",color:s,children:a}),(0,t.jsxs)(h,{className:"block-top",hoverColor:P,stackSize:"xSmall",children:[(0,t.jsx)(g,{children:d?d.map((e,i)=>(0,t.jsx)(l.Pill,{color:P,size:L?"extra-small":"small",lineHeight:L?"7px":"8px",fontWeight:350,children:(0,k.formatTrademarks)(e,!0)},i)):(0,t.jsx)(l.Pill,{visibility:"hidden",color:P,size:L?"extra-small":"small",lineHeight:L?"7px":"8px",fontWeight:350,children:""},z)}),L?null:(0,t.jsx)(n.TypePageSubhead,{color:P,children:e}),L&&!E?(0,t.jsx)(n.TypeBodyLarge,{color:P,children:e}):E?(0,t.jsx)(n.TypeBody,{color:P,children:e}):null]}),(0,t.jsx)(y,{$posterUrl:c.src,children:B?(0,t.jsx)("video",{src:B,poster:c.src,width:"100%",muted:!0,playsInline:!0,loop:!0,onClick:C,ref:e=>{I?.current&&(I.current[z]=e)}}):c.src?(0,t.jsx)(j.default,{alt:c.alt,width:c.width,height:c.height,src:c.src||"",style:{width:c.width,height:"100%",objectFit:"contain"}}):null}),(0,t.jsxs)(h,{hoverColor:P,className:"block-bottom",children:[(0,t.jsx)(o.default,{label:p.label,showArrow:N,size:L?"medium":"large",hoverColor:"seedgreen"===T?"snowwhite":"seedgreen",onClick:()=>(0,v.buttonEventHandler)(e+p.label,"Card"),...q}),m&&(0,t.jsx)(b,{color:P,children:!L&&_?_:m})]})]})};e.s(["default",0,_],384775),e.s(["default",0,({item:e,index:r,color:o,activeIndex:l,containerRef:n,isSmall:s,setVisibleItems:d,onHover:c,onClick:p,itemRefs:m={current:[]},videoRefs:u})=>{m.current||(m.current=[]);let h=(0,i.useRef)(null),g=(0,a.useInView)(h,{initial:!1,root:n,amount:s?.8:1});return(0,i.useEffect)(()=>{d&&(g?d(e=>e.includes(r)?e:[...e,r].sort((e,t)=>e-t)):d(e=>e.filter(e=>e!==r)))},[g,r]),(0,t.jsx)(_,{index:r,color:o,active:l===r,ref:e=>{e&&(m.current[r]=e,h.current=e)},onMouseEnter:()=>c(r),onClick:()=>p(r,e.label??""),videoRefs:u,title:e.title,label:e.label,pills:e.pills,media:e.media,labelColor:e.labelColor,primaryButton:e.primaryButton,note:e.note,desktopNote:e.desktopNote,className:l===r?"in-view":"",buttonProps:{animated:!0}},r)}],569392)},761843,986843,890272,136537,e=>{"use strict";var t=e.i(391398),i=e.i(191788),a=e.i(310373),r=e.i(484398),o=e.i(544005),l=e.i(605645),n=e.i(569392),s=e.i(715367),d=e.i(760814),c=e.i(97984),p=e.i(984727),m=e.i(188564),u=e.i(32118),h=e.i(341949);let g=d.default.div.withConfig({displayName:"product-headline__ProductHeadline",componentId:"sc-444724fe-0"})`
+  margin-bottom: var(--space-fixed-5);
+  ${m.StackMedium};
+
+  @media ${h.mqXXLargeMax} {
+    padding-inline: var(--space-outer);
+  }
+
+  & .body {
+    max-width: ${(0,u.pxToRem)(540)};
+  }
+
+  ${e=>"center"==e.align&&`
+    text-align: center;
+
+    & .body {
+        margin-inline: auto;
+    }
+  `}
+
+  ${e=>"left"==e.align&&`
+    max-width: ${(0,u.pxToRem)(650)};
+  `}
+`,f=(0,d.default)(p.Container).withConfig({displayName:"product-headline__ProductCarouselDesktopHeader",componentId:"sc-444724fe-1"})`
+  padding: 0 var(--space-fixed-2) var(--space-fixed-6) var(--space-fixed-2);
+  align-items: end;
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-fixed-1);
+  padding-inline: var(--space-outer);
+  width: calc(100% - var(--space-outer) * 2);
+`,b=d.default.div.withConfig({displayName:"product-headline__TitleContainer",componentId:"sc-444724fe-2"})`
+  width: 570px;
+`,y=d.default.div.withConfig({displayName:"product-headline__SubtitleContainer",componentId:"sc-444724fe-3"})`
+  width: 450px;
+`,v=({title:e,body:i,textColor:a,align:o,primaryButton:l})=>(0,r.default)(960)?(0,t.jsx)(p.Container,{children:(0,t.jsxs)(g,{align:o,children:[(0,t.jsx)(c.TypeHeadingSecondary,{color:a,children:e}),(0,t.jsx)(c.TypeBody,{color:a,className:"body",children:i})]})}):(0,t.jsxs)(f,{children:[(0,t.jsx)(b,{children:(0,t.jsx)(c.TypeHeadingSecondary,{color:a,children:e})}),(0,t.jsx)(y,{children:(0,t.jsx)(c.TypeBody,{color:a,className:"body",children:i})}),l||null]});e.s(["ProductHeadline",0,g,"default",0,v],986843);var x=e.i(846198);e.s(["default",0,({id:e,title:d,body:c,items:p,primaryButton:m,align:u="left",color:h="seedgreen"})=>{let g=(0,i.useRef)([]),[f,b]=(0,i.useState)(void 0),[y,w]=(0,i.useState)(-1),k=(0,r.default)(960),j=e=>{e===f||k||(w(f??0),b(e))},_=(e,t)=>{j(e),(0,s.buttonEventHandler)(t,"Product Carousel")};(0,i.useEffect)(()=>{(0,o.handleVideoFocus)(g,f,y)},[f,y]),(0,i.useEffect)(()=>{k&&(g.current.forEach(e=>e?.load()),b(void 0))},[k]);let $="seedgreen"===h?"inverse-primary":"primary",C=m?(0,t.jsx)(x.default,{button:m,color:h}):void 0;return(0,t.jsxs)(l.ProductSection,{id:e,$color:h,children:[(0,t.jsx)(v,{title:d,body:c,textColor:$,color:h,align:u,primaryButton:C}),(0,t.jsx)(l.ProductGridContainer,{children:p.map((e,i)=>(0,t.jsx)(n.default,{item:e,index:i,color:h,activeIndex:f,isSmall:k,onHover:j,onClick:_,videoRefs:g},i))}),k&&(m||p)&&(0,t.jsx)(a.default,{color:h,button:m,items:p,showDot:!1,justify:"end"})]})}],761843);var w=e.i(198311),k=e.i(793087),j=e.i(63120),_=e.i(285003),$=e.i(926405),C=e.i(32178);let S=d.default.div.withConfig({displayName:"highlight.styled__HighlightBackground",componentId:"sc-763dec93-0"})`
+  background: var(--fill-brand);
+`,M=d.default.section.withConfig({displayName:"highlight.styled__HighlightSection",componentId:"sc-763dec93-1"})`
+  background: var(--fill-primary);
+  padding-inline: var(--space-outer);
+  padding-block: var(--space-5);
+  @media (${h.mqLargeMax}) {
+    padding-block: var(--space-2) var(--space-5);
+  }
+  border-radius: ${({borderRadius:e})=>e??"0"};
+`,I=(0,d.default)(c.TypeSubhead).withConfig({displayName:"highlight.styled__HighlightFrameTitle",componentId:"sc-763dec93-2"})`
+  left: var(--space-fixed-2);
+  max-width: 18ch;
+  position: absolute;
+  top: var(--space-fixed-2);
+  z-index: 2;
+
+  @media ${h.mqMediumMin} {
+    left: var(--space-fixed-5);
+    top: var(--space-fixed-5);
+  }
+
+  &[data-pill]:before {
+    content: attr(data-pill);
+    color: var(--fill-brand);
+    font-family: var(--ff);
+    font-size: ${C.fontSizes["14px"]};
+    font-weight: 500;
+    height: ${(0,u.pxToRem)(30)};
+    text-transform: uppercase;
+    border-radius: var(--bdrs-pill);
+    border: 1.5px solid currentColor;
+    padding-inline: ${(0,u.pxToRem)(12)};
+    display: inline-flex;
+    vertical-align: middle;
+    align-items: center;
+    margin-right: var(--space-fixed-1);
+    margin-bottom: var(--space-fixed-1);
+  }
+`,z=d.default.div.withConfig({displayName:"highlight.styled__HighlightFrame",componentId:"sc-763dec93-3"})`
+  border-radius: var(--bdrs-m);
+  aspect-ratio: auto;
+  align-items: center;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+
+  & > picture,
+  & img,
+  & > video {
+    block-size: ${({blockSize:e})=>e??"120%"};
+    inline-size: 120%;
+    object-fit: cover;
+    object-position: top center;
+  }
+`,N=d.default.div.withConfig({displayName:"highlight.styled__HighlightHeadline",componentId:"sc-763dec93-4"})`
+  align-self: center;
+  grid-column: 1 / -1;
+  margin-bottom: ${(0,u.pxToRem)(38)};
+  ${m.StackMedium};
+
+  @media ${h.mqLargeMin} {
+    margin-bottom: ${(0,u.pxToRem)(56)};
+  }
+
+  ${({variant:e})=>"left"===e&&`
+        @media ${h.mqLargeMin} {
+            grid-column: 8 / span 5;
+          }
+  `}
+
+  ${({variant:e})=>"right"===e&&`
+        @media ${h.mqLargeMin} {
+            grid-column: auto / span 6;
+            max-width: 608px;            
+          }
+  `}
+
+  ${({variant:e})=>("below"===e||"below-2"===e||"below-3"===e)&&`
+      max-width: 656px;
+    `}
+`,T=d.default.div.withConfig({displayName:"highlight.styled__HighlightWrapper",componentId:"sc-763dec93-5"})`
+  grid-column: 1 / -1;
+
+  ${({variant:e})=>"left"===e&&`
+          @media ${h.mqLargeMin} {
+              grid-column: auto / span 6;
+              grid-row: 1;
+            }
+    `}
+
+  ${({variant:e})=>"right"===e&&`
+          @media ${h.mqLargeMin} {
+              grid-column: 7 / span 6;
+              grid-row: 1;
+            }
+    `}
+`,q=d.default.div.withConfig({displayName:"highlight.styled__HighlightGrid",componentId:"sc-763dec93-6"})`
+  --columns: 2;
+  --span: ${({total:e})=>4==e?"2":"3"};
+  display: grid;
+  grid-template-columns: repeat(var(--columns), minmax(10px, 1fr));
+  gap: var(--space-fixed-2);
+
+  ${({total:e,variant:t})=>4==e&&("left"===t||"right"===t)&&`
+        @media ${h.mqLargeMax} {
+          --span: 3;
+          & .card:last-child {
+            display: none;
+          }
+        }
+
+  `}
+
+  ${({variant:e})=>("left"===e||"right"===e)&&`
+        --columns: 6;
+
+        & .card {
+            aspect-ratio: 1 / 1;
+            @media ${h.mqLargeMin} {
+              aspect-ratio: 16 / 14;
+            }
+            grid-column: auto / span var(--span);
+        }
+
+        & .card:nth-child(1) {
+            aspect-ratio: 16 / 9;
+            grid-column: 1 / -1;
+        }
+  `}
+
+  ${({variant:e})=>"below"===e&&`
+        --columns: 1;
+
+          & .card {
+              aspect-ratio: 1 / 1;
+              grid-column: 1 / -1;
+              grid-row: 1 / -1;
+              justify-content: end;
+
+              @media ${h.mqLargeMin} {
+                aspect-ratio: 16 / 7;
+              }
+          }
+    `}
+
+  ${({variant:e})=>"below-2"===e&&`
+        & .card:nth-child(1),
+        & .card:nth-child(2) {
+            grid-column: 1 / -1;
+
+            @media ${h.mqLargeMin} {
+              aspect-ratio: 16 / 11;
+              grid-column: auto / span 1;
+            }
+        }
+  `}
+
+  ${({variant:e})=>"below-3"===e&&`
+        --columns: 6;
+        aspect-ratio: 1 / 1;
+
+        @media ${h.mqLargeMin} {
+          aspect-ratio: 16 / 6;
+        }
+
+        & .card:nth-child(1) {
+            grid-column: 1 / -1;
+
+            @media ${h.mqLargeMin} {
+              grid-row: 1 / span 2;
+              grid-column: 1 / span 5;
+            }
+        }
+
+        & .card:nth-child(2),
+        & .card:nth-child(3) {
+            grid-column: auto / span 3;
+
+            @media ${h.mqLargeMin} {
+              grid-column: 6 / span 1;
+            }
+        }
+
+        & .card:nth-child(2) {
+          @media ${h.mqLargeMin} {
+            grid-row: 1 / span 1;
+          }
+        }
+
+        & .card:nth-child(3) {
+          @media ${h.mqLargeMin} {
+            grid-row: auto / span 1;
+          }
+        }
+  `}
+`;e.s(["HighlightBackground",0,S,"HighlightFrame",0,z,"HighlightFrameTitle",0,I,"HighlightGrid",0,q,"HighlightHeadline",0,N,"HighlightSection",0,M,"HighlightWrapper",0,T],890272);var L=e.i(114307);e.s(["default",0,({title:e,body:a,primaryButton:o,variant:l,borderRadius:n,items:s,applyTransform:d=!0,blockSize:m,label:u})=>{let h=(0,i.useRef)(null),{scrollYProgress:g}=(0,k.useScroll)({target:h,offset:["start end","end start"]}),f=(0,r.default)(960),b=(0,j.useTransform)(g,[0,1.2],["8%","-10%"]),y=(0,j.useTransform)(g,[0,1.2],[1,1.2]);return(0,t.jsx)(M,{borderRadius:n,children:(0,t.jsx)(p.Container,{children:(0,t.jsxs)($.Grid,{noRowGap:!0,children:[(0,t.jsxs)(N,{variant:l,children:[u?(0,t.jsx)(L.default,{size:"small",children:u}):null,(0,t.jsx)(c.TypeHeadingTertiary,{children:e}),(0,t.jsx)(c.TypeBody,{children:a}),o&&(0,t.jsx)(_.default,{url:o.url,animated:!0,children:o.label})]}),(0,t.jsx)(T,{variant:l,children:(0,t.jsx)(q,{variant:l,total:s.length,children:s.map((e,i)=>{let a=e.media.src.includes("mp4");return(0,t.jsxs)(z,{className:"card",ref:h,blockSize:m,children:[a?(0,t.jsxs)("video",{muted:!0,autoPlay:!0,playsInline:!0,loop:!0,title:e.media.alt,children:[(0,t.jsx)("source",{src:e.media.src,type:"video/mp4"}),"Your browser does not support the video tag."]}):(0,t.jsx)(w.motion.img,{src:f&&e.media.mobileSrc?e.media.mobileSrc:e.media.src,alt:e.media.alt,style:d?{y:b,scale:y}:{}}),e.title&&(0,t.jsx)(I,{"data-pill":e?.pill,children:e.title})]},i)})})})]})})})}],136537)},759606,e=>{"use strict";e.s(["below",0,{items:[{media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887666/library/highlight/product-full.png",alt:"Product image"}}]},"below2",0,{items:[{media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887666/library/highlight/product-full.png",alt:"Product image"}},{media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887666/library/highlight/product-full.png",alt:"Product image"}}]},"below3",0,{items:[{media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887666/library/highlight/product-full.png",alt:"Product image"}},{media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887664/library/highlight/pills.jpg",alt:"Product image"}},{media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887659/library/highlight/portrait.png",alt:"Product image"}}]},"dsDuoItems",0,[{media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1758127083/library/highlight/Frame_1739333908_2.png",alt:"A jar of DS-10 and a jar of DM-02"}},{media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1758117791/library/highlight/1de23b9c19a1b7098203106cb8647453916e1416.png",alt:"Taking pill out of DM-02 jar"}},{media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1758117774/library/highlight/2_1.png",alt:"Unboxing products"}},{media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1758053476/library/highlight/cd4fcd333d2d2c517ca600e6ee9efbbaf896fded.png",alt:"A jar of DS-10 and a jar of DM-02 with plant behind them"}}],"headline",0,{title:"Clinically validated to support whole-body health.",body:"Every formula is rigorously tested—not just to meet industry standards, but to exceed them. Better health starts with better science.",primaryButton:{label:"Shop now",url:"#"}},"leftRight",0,{items:[{media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887589/library/highlight/bacteria.jpg",alt:"Product image"},title:"Lectus gravida mauris quisque, sem lectus",pill:"DS-01®"},{media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887666/library/highlight/product-full.png",alt:"Product image"}},{media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887664/library/highlight/pills.jpg",alt:"Product image"}},{media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887659/library/highlight/portrait.png",alt:"Product image"}}]},"video",0,{items:[{media:{src:"https://res.cloudinary.com/dljz0lko8/video/upload/f_auto,q_auto/v1748887700/library/highlight/video-placeholder.mp4",alt:"Product image"},title:"Lectus gravida mauris quisque, sem lectus",pill:"DS-01®"},{media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887666/library/highlight/product-full.png",alt:"Product image"}},{media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887664/library/highlight/pills.jpg",alt:"Product image"}},{media:{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1748887659/library/highlight/portrait.png",alt:"Product image"}}]}])}]);
+
+//# debugId=b1409b32-ed77-b804-5436-4c6cc51305ca
+//# sourceMappingURL=0wu3dejet8zd2.js.map

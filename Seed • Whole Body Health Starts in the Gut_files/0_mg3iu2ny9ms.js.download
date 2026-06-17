@@ -1,0 +1,398 @@
+;!function(){try { var e="undefined"!=typeof globalThis?globalThis:"undefined"!=typeof global?global:"undefined"!=typeof window?window:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&((e._debugIds|| (e._debugIds={}))[n]="428c0c4b-2602-de82-e728-fecb7b5f63d6")}catch(e){}}();
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,109587,e=>{"use strict";var t=e.i(391398);e.s(["getMetadataTags",0,function({pageTitle:e,pageDescription:r,canonicalUrl:i,imageUrl:n,ogImageAlt:a}){return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)("meta",{name:"description",content:r},"desc"),(0,t.jsx)("link",{rel:"canonical",href:i},"canonical"),(0,t.jsx)("meta",{property:"og:locale",content:"en_US"},"og:locale"),(0,t.jsx)("meta",{property:"og:site_name",content:"Seed"},"og:site_name"),(0,t.jsx)("meta",{property:"og:title",content:e},"og:title"),(0,t.jsx)("meta",{property:"og:description",content:r},"og:desc"),(0,t.jsx)("meta",{property:"og:url",content:i},"og:url"),(0,t.jsx)("meta",{property:"og:type",content:"website"},"og:type"),(0,t.jsx)("meta",{property:"og:image",content:n},"og:image"),(0,t.jsx)("meta",{property:"og:image:type",content:"image/png"},"og:image:type"),(0,t.jsx)("meta",{property:"og:image:width",content:"2400"},"og:image:width"),(0,t.jsx)("meta",{property:"og:image:height",content:"1260"},"og:image:height"),(0,t.jsx)("meta",{property:"og:image:alt",content:a||e},"og:image:alt"),(0,t.jsx)("meta",{name:"twitter:title",content:e},"twitter:title"),(0,t.jsx)("meta",{name:"twitter:description",content:r},"twitter:desc"),(0,t.jsx)("meta",{name:"twitter:url",content:i},"twitter:url"),(0,t.jsx)("meta",{name:"twitter:card",content:"summary_large_image"},"twitter:card"),(0,t.jsx)("meta",{name:"twitter:site",content:"@seedhealth"},"twitter:site"),(0,t.jsx)("meta",{name:"twitter:image",content:n},"twitter:image"),(0,t.jsx)("meta",{name:"twitter:image:alt",content:a||e},"twitter:image:alt")]})}])},718690,e=>{"use strict";var t=e.i(391398),r=e.i(191788),i=e.i(760814),n=e.i(341949),a=e.i(114168),o=e.i(911118),l=e.i(869436);let s=i.default.div.withConfig({displayName:"nutrient-cycles__CyclesContainer",componentId:"sc-63f6e08c-0"})`
+  position: relative;
+  margin: 1.5rem auto 0;
+  border-radius: 100px;
+  padding: 0.5rem;
+  width: fit-content;
+  display: flex;
+  justify-content: center;
+  background-color: var(--color-neutral-frosted-glass-t8);
+`,c=i.default.button.withConfig({displayName:"nutrient-cycles__CyclesButton",componentId:"sc-63f6e08c-1"})`
+  position: relative;
+  appearance: none;
+  border: 0;
+  padding: 0.625rem 1.125rem;
+  width: 5.75rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: transparent;
+  z-index: 2;
+`,d=i.default.span.withConfig({displayName:"nutrient-cycles__CyclesButtonOverlay",componentId:"sc-63f6e08c-2"})`
+  position: absolute;
+  top: 0.5rem;
+  bottom: 0.5rem;
+  left: 0;
+  border-radius: 100px;
+  width: 5.75rem;
+  transform: translateX(0.5rem);
+  background-color: white;
+  transition: left 0.2s;
+`,m=({allCycles:e,selectedTile:r,goToNewVideo:i})=>{let n=null!=r,a=n?Math.max(0,Math.min(r,Object.values(e).length-1)):0;return(0,t.jsxs)(s,{children:[Object.values(e).map((e,n)=>(0,t.jsxs)(c,{onClick:()=>{i(e.cardIndex),l.default.trackEvent("Button Clicked",{buttonName:"Day/Night selector: "+e.label,location:"PDP"})},"cycle-selected":n===r?"selected":"",children:[(0,t.jsx)("img",{src:e.icon.url,alt:`Icon for ${e.label} cycle`}),(0,t.jsx)("span",{children:e.label})]},`nutrient-cycle-${e.label}`)),(0,t.jsx)(d,{style:{opacity:+!!n,left:`calc(5.75rem * ${a})`}})]})},u=i.default.div.withConfig({displayName:"product-nutrients__ProductNutrientsContainer",componentId:"sc-2131d166-0"})`
+  padding-bottom: 3.5rem;
+  background-color: var(--fill-secondary);
+
+  @media ${n.mqLargeMin} {
+    padding-bottom: 5rem;
+  }
+
+  * {
+    color: var(--text-primary);
+  }
+
+  @media ${n.mqLargeMin} {
+    &.nutrients--compact .nutrients__content {
+      margin-left: auto;
+    }
+  }
+`,p=i.default.div.withConfig({displayName:"product-nutrients__CardWrapper",componentId:"sc-2131d166-1"})`
+  padding: 0.75rem 1rem 0;
+  display: flex;
+  align-items: center;
+  overflow: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-scroll-snap-type: x mandatory;
+  overflow-x: auto;
+  gap: 1rem;
+  scrollbar-width: none;
+
+  @media ${n.mqLargeMin} {
+    margin-left: 0;
+    padding: 0.5rem 1rem 0.5rem calc((100vw - 1280px) / 2);
+    scroll-snap-type: none;
+    -webkit-scroll-snap-type: none;
+    cursor: grab;
+
+    &.mini {
+      margin: auto;
+      padding: 0 5rem;
+      max-width: 80rem;
+      width: 100%;
+      box-sizing: content-box;
+    }
+  }
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+
+  &.is-dragging {
+    cursor: grabbing;
+
+    * {
+      user-select: none;
+    }
+  }
+`,g=i.default.div.withConfig({displayName:"product-nutrients__NutrientCard",componentId:"sc-2131d166-2"})`
+  position: relative;
+  backdrop-filter: blur(10.85301399230957px);
+  border-radius: 1.5rem;
+  border: 1px solid var(--outline-primary-10);
+  padding: 1rem 1.5rem;
+  width: 20rem;
+  flex-shrink: 0;
+  height: 21.1875rem;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--fill-primary);
+  box-sizing: content-box;
+  transition: padding 0.05s 0.05s;
+
+  &.selected {
+    padding: 1.5rem;
+    transition: padding 0.05s;
+  }
+
+  @media ${n.mqLargeMin} {
+    scroll-snap-align: start;
+    -webkit-scroll-snap-align: start;
+  }
+`,h=i.default.p.withConfig({displayName:"product-nutrients__NutrientInfo",componentId:"sc-2131d166-3"})`
+  font-size: 14px;
+  font-weight: 350;
+  line-height: 140%;
+  letter-spacing: -0.07px;
+`,f=i.default.h3.withConfig({displayName:"product-nutrients__CardTitle",componentId:"sc-2131d166-4"})`
+  margin-bottom: 0.5rem;
+  font-size: 24px;
+  font-weight: 350;
+  line-height: 120%;
+  letter-spacing: -0.36px;
+
+  &.mini {
+    font-size: 16px;
+  }
+`,b=i.default.p.withConfig({displayName:"product-nutrients__CardSubtitle",componentId:"sc-2131d166-5"})`
+  margin-bottom: 1rem;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 110%;
+  text-transform: uppercase;
+`,x=i.default.video.withConfig({displayName:"product-nutrients__NutrientVideo",componentId:"sc-2131d166-6"})`
+  margin: auto;
+  width: 100%;
+  max-height: 10rem;
+  flex-grow: 1;
+  object-fit: cover;
+`,y=i.default.div.withConfig({displayName:"product-nutrients__ContentsWrapper",componentId:"sc-2131d166-7"})`
+  margin: auto;
+  padding: 3.5rem 1rem 2.5rem;
+  max-width: 1280px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  flex-wrap: wrap;
+  gap: 2.5rem;
+  box-sizing: content-box;
+
+  @media ${n.mqLargeMin} {
+    padding: 5rem;
+  }
+
+  @media (${n.mqXLargeMin}) {
+    flex-wrap: nowrap;
+  }
+`,j=i.default.h2.withConfig({displayName:"product-nutrients__NutrientsTitle",componentId:"sc-2131d166-8"})`
+  max-width: 37.5rem;
+  font-size: 32px;
+  font-weight: 350;
+  line-height: 110%;
+  text-wrap: unset;
+  letter-spacing: -0.96px;
+
+  @media ${n.mqLargeMin} {
+    font-size: 48px;
+  }
+`,v=i.default.p.withConfig({displayName:"product-nutrients__NutrientsContent",componentId:"sc-2131d166-9"})`
+  max-width: 26.875rem;
+`,w=i.default.div.withConfig({displayName:"product-nutrients__ExclusiveTag",componentId:"sc-2131d166-10"})`
+  position: absolute;
+  left: 1.5rem;
+  top: 0;
+  transform: translateY(-50%);
+  border-radius: 1rem;
+  padding: 0 8px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%;
+  background-color: var(--guidance-primary);
+`,_=i.default.div.withConfig({displayName:"product-nutrients__CardColorTag",componentId:"sc-2131d166-11"})`
+  margin-bottom: 0.5rem;
+  flex-shrink: 0;
+  width: 1rem;
+  height: 0rem;
+  opacity: 0;
+  transition: all 0.1s;
+
+  &.tag-visible {
+    height: 1rem;
+    opacity: 1;
+  }
+`,I=i.default.div.withConfig({displayName:"product-nutrients__ChartImageWrapper",componentId:"sc-2131d166-12"})`
+  margin: 2.625rem auto 0;
+  max-width: 80rem;
+  padding: 1rem;
+`,k=i.default.div.withConfig({displayName:"product-nutrients__CardIndicatorWrapper",componentId:"sc-2131d166-13"})`
+  margin-top: 2rem;
+  padding: 0 1.5rem;
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5rem;
+
+  @media ${n.mqLargeMin} {
+    display: none;
+  }
+`,C=i.default.div.withConfig({displayName:"product-nutrients__CardIndicator",componentId:"sc-2131d166-14"})`
+  border-radius: 0.5rem;
+  width: 0.5rem;
+  height: 0.5rem;
+  background-color: var(--fill-secondary);
+  transition: all 0.2s;
+
+  &.selected {
+    width: 1rem;
+    background-color: var(--fill-brand);
+  }
+`;e.s(["default",0,({productInfo:e,nutrients:i})=>{let n=(0,r.useMemo)(()=>{if(!e)return null;let t=e.nutrientsModuleOverviewChart?.reference;return t?.image?.url?{url:t.image.url,altText:t.image.altText??t.alt??""}:t?.url?{url:t.url,altText:t.alt??""}:null},[e]),[l,s]=(0,r.useState)(()=>null!=n?null:0),[c,d]=(0,r.useState)(()=>i?.metaObjects?.[0]?(0,o.metaObjectItem)(i.metaObjects[0],"chart_image"):null),[O,N]=(0,r.useState)(!1),M=(0,r.useRef)(null),P=(0,r.useRef)({active:!1,startX:0,startScrollLeft:0,hasDragged:!1});(0,r.useEffect)(()=>{if(null===l||!i?.metaObjects?.[l])return;let e=(0,o.metaObjectItem)(i.metaObjects[l],"chart_image");e&&d(e)},[l,i]),(0,r.useEffect)(()=>{if(n||null===l)return;let e=document.querySelector(`[nutrient-card="${l}"]`);e?.querySelector("video")?.play()},[n,l]);let S=(e,t=!1)=>{let r=null!==l?document.querySelector(`[nutrient-card="${l}"]`):null,i=document.querySelector(`[nutrient-card="${e}"]`);r?.querySelector("video")?.pause(),i?.querySelector("video")?.play(),t&&i?.scrollIntoView({inline:"center",behavior:"smooth",block:"nearest"}),s(e)},$=()=>{n&&!P.current.active&&s(e=>(null!==e&&document.querySelector(`[nutrient-card="${e}"]`)?.querySelector("video")?.pause(),null))},T=()=>{let e=document.querySelectorAll(".visible[nutrient-card]");if(1===e.length){let t=e[0].getAttribute("nutrient-card");if(null===t)return;S(parseInt(t,10))}},q=(0,r.useRef)(T);q.current=T;let L=(0,r.useCallback)(e=>{if(0!==e.button)return;let t=M.current;if(!t)return;P.current={active:!0,startX:e.pageX,startScrollLeft:t.scrollLeft,hasDragged:!1},N(!0),t.style.scrollSnapType="none",t.style.setProperty("-webkit-scroll-snap-type","none");let r=e=>{let r=P.current;if(!r.active)return;let i=e.pageX-r.startX;Math.abs(i)>5&&(r.hasDragged=!0),t.scrollLeft=r.startScrollLeft-i},i=()=>{window.removeEventListener("mousemove",r),window.removeEventListener("mouseup",i),P.current.active=!1,N(!1),t.style.scrollSnapType="",t.style.removeProperty("-webkit-scroll-snap-type"),q.current(),P.current.hasDragged=!1};window.addEventListener("mousemove",r),window.addEventListener("mouseup",i)},[]);if((0,r.useLayoutEffect)(()=>{if(!i||!e)return;let t=M.current;if(!t)return;let r=()=>q.current();return t.addEventListener("scrollend",r),()=>t.removeEventListener("scrollend",r)},[i,e]),!i||!e)return null;let E=i.metaObjects.reduce((e,t,r)=>((0,o.metaObjectItem)(t,"cycle")&&(e[(0,o.metaObjectItem)(t,"cycle")]={label:(0,o.metaObjectItem)(t,"cycle"),icon:(0,o.metaObjectMedia)(i,(0,o.metaObjectItem)(t,"cycle_icon")),cardIndex:r}),e),{}),z=n&&null===l||c?(0,t.jsx)(I,{children:(0,t.jsx)("img",{src:n&&null===l?n.url:(0,o.metaObjectMedia)(i,c).url,alt:n&&null===l?n.altText:(0,o.metaObjectMedia)(i,c).altText})}):null;return(0,t.jsx)(u,{className:`${i.metaObjects.length<4?"nutrients--compact":""}`,children:(0,t.jsxs)(t.Fragment,{children:[(0,t.jsxs)(y,{children:[(0,t.jsx)(j,{children:e.nutrientsTitle.value}),(0,t.jsx)(v,{className:"nutrients__content",children:e.nutrientsContent.value})]}),(0,t.jsx)(p,{ref:M,onMouseDown:L,onMouseLeave:n?$:void 0,onBlur:n?e=>{if(!n||P.current.active)return;let t=e.relatedTarget;t&&e.currentTarget.contains(t)||$()}:void 0,onTouchEnd:T,className:`${i.metaObjects.length<=4?"mini":""} ${O?"is-dragging":""}`,children:i.metaObjects.map((r,n)=>(0,t.jsx)(a.InView,{threshold:.5,children:({inView:a,ref:s})=>(0,t.jsxs)(g,{className:`${l===n?"selected":""} ${a?"visible":"not-visible"}`,"nutrient-card":n,onMouseEnter:()=>{P.current.active||S(n)},onFocus:()=>S(n),ref:s,tabIndex:0,children:["true"===(0,o.metaObjectItem)(r,"is_exclusive")&&(0,t.jsxs)(w,{children:[e.shortTitle," Exclusive"]}),"true"!==(0,o.metaObjectItem)(r,"is_exclusive")&&(0,o.metaObjectItem)(r,"selected_card_tag_color")&&(0,t.jsx)(_,{style:{backgroundColor:(0,o.metaObjectItem)(r,"selected_card_tag_color")},className:l===n?"tag-visible":""}),(0,t.jsx)(f,{className:`${(0,o.metaObjectItem)(r,"title").length>40?"mini":""}`,children:(0,o.metaObjectItem)(r,"title")}),(0,t.jsx)(h,{children:(0,o.metaObjectItem)(r,"description")}),(0,t.jsx)(x,{loop:!0,muted:!0,playsInline:!0,children:((0,o.metaObjectMedia)(i,(0,o.metaObjectItem)(r,"video"))?.sources||[]).map(e=>(0,t.jsx)("source",{src:e.url},`nutrient-${r.id}-source-${e.url}`))}),(0,t.jsx)(b,{children:(0,o.metaObjectItem)(r,"subtitle")}),(0,t.jsx)(h,{children:(0,o.metaObjectItem)(r,"subcontent")})]})},`nutrient-card-${r.id}`))}),(0,t.jsx)(k,{children:i.metaObjects.map((e,r)=>(0,t.jsx)(C,{className:`${l===r?"selected":""}`},`nutrient-indicator-${e.id}`))}),Object.values(E).length>0&&(0,t.jsx)(m,{allCycles:E,selectedTile:l,goToNewVideo:S}),z]})})}],718690)},916891,e=>{"use strict";var t=e.i(391398),r=e.i(191788),i=e.i(760814),n=e.i(833874),a=e.i(341949),o=e.i(114168),l=e.i(911118),s=e.i(190431),c=e.i(233267),d=e.i(869436);let m=i.default.div.withConfig({displayName:"product-bundle__BundleWrapper",componentId:"sc-164bce1b-0"})`
+  margin: 0.5rem;
+  border-radius: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  background-color: var(--fill-brand);
+  overflow: hidden;
+  transition:
+    margin 0.5s,
+    border-radius 0.5s;
+
+  &.visible {
+    margin: 0;
+    border-radius: 0;
+  }
+
+  @media ${a.mqLargeMin} {
+    margin: 2rem;
+
+    &.visible {
+      margin: 0;
+    }
+  }
+
+  * {
+    color: white;
+  }
+`,u=i.default.div.withConfig({displayName:"product-bundle__BundleContent",componentId:"sc-164bce1b-1"})`
+  padding: 2rem 0;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  align-items: flex-start;
+
+  @media ${a.mqLargeMin} {
+    padding: 8.125rem 3.5rem 3.5rem;
+    flex-direction: row;
+  }
+`,p=i.default.div.withConfig({displayName:"product-bundle__BundleTextWrapper",componentId:"sc-164bce1b-2"})`
+  max-width: 32.5rem;
+  padding: 0 1.5rem;
+
+  @media ${a.mqLargeMin} {
+    padding: 0;
+    margin-top: 2rem;
+  }
+
+  p {
+    margin-bottom: 0.75rem;
+  }
+`,g=i.default.h2.withConfig({displayName:"product-bundle__BundleContentTitle",componentId:"sc-164bce1b-3"})`
+  margin-bottom: 1.5rem;
+  font-size: 32px;
+  font-weight: 350;
+  letter-spacing: -0.64px;
+  text-wrap: auto;
+`,h=(0,i.default)(c.default).withConfig({displayName:"product-bundle__AddBundleToCart",componentId:"sc-164bce1b-4"})`
+  appearance: none;
+  margin-bottom: 7.25rem;
+  margin-top: 1.5rem;
+  border: 0;
+  border-radius: 6.25rem;
+  padding: 1rem 1.5rem;
+  height: 3rem;
+  display: inline-flex;
+  align-items: center;
+  background-color: var(--fill-primary);
+  color: var(--text-primary);
+  cursor: pointer;
+  text-decoration: none;
+
+  @media ${a.mqLargeMin} {
+    margin-bottom: 0;
+  }
+`,f=i.default.div.withConfig({displayName:"product-bundle__BundleImageWrapper",componentId:"sc-164bce1b-5"})`
+  position: relative;
+`,b=i.default.span.withConfig({displayName:"product-bundle__BundleLabel",componentId:"sc-164bce1b-6"})`
+  position: absolute;
+  top: -4rem;
+  left: 32%;
+  transform: translateX(-50%);
+  text-align: center;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 110%;
+  letter-spacing: 0.24px;
+  text-transform: uppercase;
+  opacity: 0;
+  transition:
+    opacity 0.5s 0.5s,
+    top 0.5s 0.5s;
+
+  .visible & {
+    top: -3rem;
+    opacity: 1;
+  }
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 150%;
+    left: 50%;
+    height: 2rem;
+    border-left: 1px dotted var(--outline-neutral);
+
+    @media ${a.mqLargeMin} {
+      height: 2.5rem;
+    }
+  }
+
+  &::after {
+    content: '';
+    position: absolute;
+    top: calc(150% + 2rem);
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 100%;
+    width: 5px;
+    height: 5px;
+    background: var(--fill-primary);
+
+    @media ${a.mqLargeMin} {
+      top: calc(150% + 2.5rem);
+    }
+  }
+
+  &:nth-of-type(2) {
+    top: -2.5rem;
+    left: 69%;
+    transition:
+      opacity 0.5s 1s,
+      top 0.5s 1s;
+
+    .visible & {
+      top: -2rem;
+    }
+
+    @media ${a.mqLargeMin} {
+      top: -0.5rem;
+
+      .visible & {
+        top: 0.5rem;
+      }
+    }
+  }
+`;e.s(["default",0,function({productInfo:e,bundleModule:i,product:a}){let{getProductByGID:c}=(0,r.useContext)(n.ProductsContext),x=(0,r.useMemo)(()=>e?.upsellProduct?.value?c(e.upsellProduct.value):null,[e]),{ref:y,inView:j}=(0,o.useInView)({threshold:.5,triggerOnce:!1}),v=(0,l.metaObjectMedia)(i,(0,l.metaObjectItem)(i.metaObject,"bundle_image")),w=(0,s.default)({mediaItem:v,mediaSize:"large"});return x?(0,t.jsx)(m,{ref:y,className:j?"visible":"",children:(0,t.jsxs)(u,{children:[(0,t.jsxs)(f,{children:[(0,t.jsx)(b,{children:(0,l.metaObjectItem)(i.metaObject,"image_product_one_text")}),(0,t.jsx)(b,{children:(0,l.metaObjectItem)(i.metaObject,"image_product_two_text")}),(0,t.jsx)("img",{src:w.src,ref:w.ref,style:w.blurStyles,alt:v.altText})]}),(0,t.jsxs)(p,{children:[(0,t.jsx)(g,{children:(0,l.metaObjectItem)(i.metaObject,"title")}),(0,t.jsxs)("p",{children:[(0,t.jsx)("b",{children:e.title}),":"," ",(0,l.metaObjectItem)(i.metaObject,"product_text")]}),(0,t.jsxs)("p",{children:[(0,t.jsx)("b",{children:x.name}),":"," ",(0,l.metaObjectItem)(i.metaObject,"bundle_product_text")]}),(0,t.jsx)(h,{href:`/cart?cart=${a.productSku},${x.productSku}`,onClick:()=>{d.default.trackButtonClicked("Product Bundle CTA",window.location.pathname,{})},children:"Add Bundle - Save 25%"})]})]})}):null}])},700198,e=>{"use strict";var t=e.i(391398),r=e.i(341949),i=e.i(760814),n=e.i(720291),a=e.i(104656),o=e.i(3527),l=e.i(824789),s=e.i(910654),c=e.i(714863),d=e.i(718690),m=e.i(860267),u=e.i(728858),p=e.i(916891),g=e.i(628085),h=e.i(661050);e.i(462691);var f=e.i(981198),b=e.i(399057),x=e.i(433540),y=e.i(207203);let j=i.createGlobalStyle`
+  .site-content {
+    background-color: var(--fill-primary);
+  
+    @media ${r.mqLargeMin}{
+      padding: 0;
+    }
+    #srp0-sticky {
+      z-index: 100;
+      transform: translateY(0);
+    }
+    #add-to-cart-new {
+      display: none;
+    }
+  }
+  .optly-hero-text {
+    top: 20% !important;
+    @media ${r.mqXXLargeMin} {
+      top: 25% !important;
+    }
+  }
+
+  #add-to-cart-cta:focus {
+    background-color: var(--fill-brand) !important;
+  }
+
+  ${n.PageTypePdp}
+`;e.s(["__N_SSG",0,!0,"default",0,({yotpoAverageScore:e,yotpoTotalReviews:r,siteBuy:i,productInfo:n,essentialsModule:v,benefitModule:w,nutrientsModule:_,chartModule:I,chartRows:k,testingModule:C,bundleModule:O,products:N})=>{let{selectedSku:M,product:P,setSelectedSku:S}=(0,x.usePdpProductViewed)({products:N,sku:"dm-wk"}),$=(0,b.usePdpStickyBar)(M,i),T=[];return n?.media?.nodes?.forEach(e=>{"IMAGE"===e.mediaContentType&&T.push(e.previewImage.url)}),(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(j,{}),(0,t.jsx)(a.YotpoReviewScript,{}),(0,t.jsx)(g.default,{productName:n.name,productImages:T,productDescription:n.description,productSku:"dm-wk",productGtin:"850058995168",canonicalUrl:"https://seed.com/daily-multivitamin",productPrice:n?.priceRange?.minVariantPrice?.amount,pageTitle:"Seed • DM-02™ Daily Multivitamin | 20 Essential Vitamins + Minerals",ogImageUrl:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1759517366/structured-data/og-dm.png",ogImageAlt:"DM-02® Daily Multivitamin | Best Price Available",yotpoAverageScore:e,yotpoTotalReviews:r}),(0,t.jsxs)("div",{className:"container",children:[(0,t.jsx)(o.InternationalCurrencyModal,{location:"Daily Synbiotic PDP"}),P&&n&&(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(l.default,{siteBuy:i,useCartContext:!0,selectedSku:M,setSelectedSku:S,productInfo:n,yotpoAverageScore:e,yotpoTotalReviews:r}),v&&(0,t.jsx)(s.default,{productInfo:n,essentials:v}),w&&(0,t.jsx)(c.default,{benefits:w}),_&&(0,t.jsx)(d.default,{nutrients:_,productInfo:n}),I&&k&&(0,t.jsx)(m.default,{chartRows:k,chartModule:I,productInfo:n}),C&&(0,t.jsx)(u.default,{testingModule:C,productInfo:n}),O&&(0,t.jsx)(p.default,{productInfo:n,bundleModule:O,product:P}),(0,t.jsx)(f.StickyBar,{...$,imageSrc:y.PRODUCT_IMAGE_DM02,buttonEventName:"DM start now"}),(0,t.jsx)(h.ReviewsDisplay,{imageUrl:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1759517366/structured-data/og-dm.png",product:P,url:"/daily-multivitamin"})]})]})]})}])},66065,(e,t,r)=>{let i="/pdp/daily-multivitamin";(window.__NEXT_P=window.__NEXT_P||[]).push([i,()=>e.r(700198)]),t.hot&&t.hot.dispose(function(){window.__NEXT_P.push([i])})},648761,e=>{e.v(t=>Promise.all(["static/chunks/0w-k5gkqz-f~m.js"].map(t=>e.l(t))).then(()=>t(493594)))},828805,e=>{e.v(t=>Promise.all(["static/chunks/0ol1pnpd9uivv.js"].map(t=>e.l(t))).then(()=>t(879466)))},950678,e=>{e.v(t=>Promise.all(["static/chunks/0pgxb3aczchco.js"].map(t=>e.l(t))).then(()=>t(668026)))},711055,e=>{e.v(e=>Promise.resolve().then(()=>e(672091)))},412210,e=>{e.v(t=>Promise.all(["static/chunks/0pglam5yn~7-l.js"].map(t=>e.l(t))).then(()=>t(80511)))},458547,e=>{e.v(t=>Promise.all(["static/chunks/0f7f30z816p.q.js"].map(t=>e.l(t))).then(()=>t(89987)))},555819,e=>{e.v(t=>Promise.all(["static/chunks/0t-x5lfsld.ff.js"].map(t=>e.l(t))).then(()=>t(875941)))},327703,e=>{e.v(t=>Promise.all(["static/chunks/0aky5tcpupqw5.js"].map(t=>e.l(t))).then(()=>t(579812)))},134746,e=>{e.v(t=>Promise.all(["static/chunks/0.sd1b~.nrpt-.js"].map(t=>e.l(t))).then(()=>t(788778)))},523721,e=>{e.v(t=>Promise.all(["static/chunks/09r305142kcds.js"].map(t=>e.l(t))).then(()=>t(97491)))},241222,e=>{e.v(t=>Promise.all(["static/chunks/01d~5p_.q30-q.js"].map(t=>e.l(t))).then(()=>t(677965)))},376594,e=>{e.v(t=>Promise.all(["static/chunks/035p_bm-ugy~9.js"].map(t=>e.l(t))).then(()=>t(132571)))},16214,e=>{e.v(t=>Promise.all(["static/chunks/0pyvnka9bliil.js","static/chunks/04yt~55mml-yk.js"].map(t=>e.l(t))).then(()=>t(187646)))},974911,e=>{e.v(t=>Promise.all(["static/chunks/14vntooq-tl0m.js"].map(t=>e.l(t))).then(()=>t(956178)))},884178,e=>{e.v(t=>Promise.all(["static/chunks/0mmih~65z_goa.js"].map(t=>e.l(t))).then(()=>t(373549)))},555482,e=>{e.v(t=>Promise.all(["static/chunks/0t3fbg48jstv9.js"].map(t=>e.l(t))).then(()=>t(481953)))}]);
+
+//# debugId=428c0c4b-2602-de82-e728-fecb7b5f63d6
+//# sourceMappingURL=0941_didrk7ed.js.map

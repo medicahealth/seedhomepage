@@ -1,0 +1,795 @@
+;!function(){try { var e="undefined"!=typeof globalThis?globalThis:"undefined"!=typeof global?global:"undefined"!=typeof window?window:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&((e._debugIds|| (e._debugIds={}))[n]="f4b12c08-c89f-738b-ab60-b1f3e0a33d65")}catch(e){}}();
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,545370,e=>{"use strict";var t=e.i(391398),i=e.i(604785),o=e.i(74706),a=e.i(191788),n=e.i(203828),r=e.i(207203),d=e.i(958678),l=e.i(126019),s=e.i(198311),c=e.i(91956),p=e.i(63120);e.i(83026);var u=e.i(464669),f=e.i(665907),m=e.i(262448);function h(e){return"number"==typeof e?e:parseFloat(e)}var g=e.i(112600),x=e.i(109587),y=e.i(760814),w=e.i(341949);let b=y.default.div.withConfig({displayName:"styles__Header",componentId:"sc-45a0f5cd-0"})`
+  position: relative;
+  width: 100%;
+  height: 285px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+
+  @media ${w.mqLargeMin} {
+    height: 325px;
+  }
+`,v=y.default.div.withConfig({displayName:"styles__ImageWrapper",componentId:"sc-45a0f5cd-1"})`
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  border-bottom-left-radius: var(--radius--large, 32px);
+  border-bottom-right-radius: var(--radius--large, 32px);
+`,C={width:"100%",height:"100%",objectFit:"cover",transformOrigin:"top",willChange:"transform"},k=y.default.div.withConfig({displayName:"styles__Overlay",componentId:"sc-45a0f5cd-2"})`
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.1) 0%,
+    rgba(0, 0, 0, 0.5) 100%
+  );
+  border-bottom-left-radius: var(--radius--large, 32px);
+  border-bottom-right-radius: var(--radius--large, 32px);
+  z-index: 1;
+`,_=y.default.div.withConfig({displayName:"styles__Content",componentId:"sc-45a0f5cd-3"})`
+  position: relative;
+  z-index: 2;
+  display: flex;
+  align-items: flex-end;
+  padding: 0 0 32px 16px;
+  max-width: 1344px;
+  width: 100%;
+  height: 100%;
+
+  @media ${w.mqLargeMin} {
+    padding: 0 0 56px 32px;
+  }
+`,j=y.default.h1.withConfig({displayName:"styles__Title",componentId:"sc-45a0f5cd-4"})`
+  font-size: 32px;
+  font-weight: 350;
+  line-height: 110%;
+  letter-spacing: -0.64px;
+  color: var(--text-inverse-primary, #fcfcf7);
+
+  @media ${w.mqLargeMin} {
+    font-size: 48px;
+    letter-spacing: -0.96px;
+  }
+`,P="#1 Daily Probiotic, Multivitamin, Sleep + Energy Supplements",$={pageTitle:P,pageDescription:"Explore Seed's range of daily supplements designed for your gut microbiome and overall health.",canonicalUrl:"https://seed.com/products",imageUrl:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1759517364/structured-data/og-products.png",ogImageAlt:P},S=(0,s.motion)(l.default),N=()=>{let e=(0,c.useMotionValue)(0),i=function(e,t={}){return function(e,t={}){let{isStatic:i}=(0,a.useContext)(g.MotionConfigContext),o=()=>(0,f.isMotionValue)(e)?e.get():e;if(i)return(0,p.useTransform)(o);let n=(0,c.useMotionValue)(o());return(0,a.useInsertionEffect)(()=>(function(e,t,i={}){let o,a=e.get(),n=null,r=a,d="string"==typeof a?a.replace(/[\d.-]/g,""):void 0,l=()=>{n&&(n.stop(),n=null),e.animation=void 0},s=()=>{(()=>{let t=h(e.get()),a=h(r);if(t===a)return l();let d=n?n.getGeneratorVelocity():e.getVelocity();l(),n=new u.JSAnimation({keyframes:[t,a],velocity:d,type:"spring",restDelta:.001,restSpeed:.01,...i,onUpdate:o})})(),e.animation=n??void 0,e.events.animationStart?.notify(),n?.then(()=>{e.animation=void 0,e.events.animationComplete?.notify()})};if(e.attach((e,t)=>{r=e,o=e=>{var i,o;return t((i=e,(o=d)?i+o:i))},m.frame.postRender(s)},l),(0,f.isMotionValue)(t)){let o=!0===i.skipInitialAnimation,a=t.on("change",t=>{var i,a,n,r;o?(o=!1,e.jump((i=t,(a=d)?i+a:i),!1)):e.set((n=t,(r=d)?n+r:n))}),n=e.on("destroy",a);return()=>{a(),n()}}return l})(n,e,t),[n,JSON.stringify(t)]),n}(e,{type:"spring",...t})}((0,p.useTransform)(e,[0,300],[1.15,1]),{stiffness:80,damping:20,mass:1});return(0,a.useEffect)(()=>{let t=()=>{e.set(window.scrollY)};return window.addEventListener("scroll",t,{passive:!0}),()=>window.removeEventListener("scroll",t)},[e]),(0,t.jsxs)(t.Fragment,{children:[(0,t.jsxs)(d.default,{children:[(0,t.jsx)("title",{children:P}),(0,x.getMetadataTags)({...$})]}),(0,t.jsxs)(b,{children:[(0,t.jsx)(v,{children:(0,t.jsx)(S,{src:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1758040846/npd/86cf1e11f3d5472b8b0635a056a5f1ed88459968.png",alt:"three people running in a green field",style:{...C,scale:i},fill:!0,priority:!0})}),(0,t.jsx)(k,{}),(0,t.jsx)(_,{children:(0,t.jsxs)(j,{children:["Whole Body Health, Made",(0,t.jsx)("br",{})," Possible by Your Microbiome"]})})]})]})},I=y.default.div.withConfig({displayName:"parent.styles__Container",componentId:"sc-94688d77-0"})`
+  margin: 16px 16px 24px;
+  display: flex;
+  justify-content: center;
+`,D=y.default.div.withConfig({displayName:"parent.styles__Body",componentId:"sc-94688d77-1"})`
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  max-width: 620px;
+
+  @media ${w.mqLargeMin} {
+    height: 400px;
+    max-width: 1404px;
+    flex-direction: row;
+  }
+
+  @media ${w.mqXLargeMin} {
+    height: 450px;
+  }
+`;var z=e.i(41158);let M="https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1758034462/npd/1772635ea6ffdfde99cfe2a35498de31e0480971.png",T=y.default.div.withConfig({displayName:"quiz.styles__Parent",componentId:"sc-b9d2e619-0"})`
+  margin-top: -108px; // 92 height + 16 padding;
+  padding: 0 var(--radius--medium, 16px);
+  position: relative;
+
+  @media ${w.mqLargeMin} {
+    margin-top: 0;
+    padding: 0;
+    min-width: 300px;
+  }
+
+  @media ${w.mqXLargeMin} {
+    min-width: 340px;
+  }
+`,L=y.default.div.withConfig({displayName:"quiz.styles__Body",componentId:"sc-b9d2e619-1"})`
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 92px;
+  border-radius: var(--radius--medium, 16px);
+  background: var(--fill-brand);
+  padding: var(--radius--small, 8px);
+
+  @media ${w.mqLargeMin} {
+    max-width: 360px;
+    height: 100%;
+    background-image: url(${M});
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: var(--radius--large, 32px);
+    padding: var(--radius--medium, 16px);
+    margin: 0;
+    justify-content: center;
+    align-items: flex-end;
+  }
+`,F=(0,y.default)(l.default).withConfig({displayName:"quiz.styles__MobileImage",componentId:"sc-b9d2e619-2"})`
+  position: relative !important; // styled values take backseat to intrinsic next js values
+  width: 116px !important;
+  height: 100%;
+  object-fit: cover;
+  border-radius: var(--radius--small, 8px);
+
+  @media ${w.mqLargeMin} {
+    display: none;
+  }
+`,A=y.default.div.withConfig({displayName:"quiz.styles__Text",componentId:"sc-b9d2e619-3"})`
+  padding: var(--radius--small, 8px);
+  border-radius: var(--radius--medium, 16px);
+  background-color: var(--fill-brand);
+  color: var(--fill-primary);
+
+  @media ${w.mqLargeMin} {
+    border-radius: var(--radius--medium, 16px);
+    background: var(--color-primary-snow-white-20, rgba(252, 252, 247, 0.2));
+    backdrop-filter: blur(19px);
+    padding: var(--radius--medium, 16px);
+  }
+`,q=(0,y.default)(z.default).withConfig({displayName:"quiz.styles__Link",componentId:"sc-b9d2e619-4"})`
+  color: var(--fill-primary);
+  font-weight: 500;
+  line-height: 140%;
+  letter-spacing: -0.16px;
+
+  &:hover,
+  &:focus {
+    color: var(--fill-primary);
+  }
+`,B=y.default.div.withConfig({displayName:"styles__PillBase",componentId:"sc-a9f8dce9-0"})`
+  border-radius: 16px;
+  padding: 4px 8px;
+  width: fit-content;
+  text-align: center;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%;
+`,H=(0,y.default)(z.default).withConfig({displayName:"styles__LearnMoreBase",componentId:"sc-a9f8dce9-1"})`
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  padding: var(--spacing--x2, 16px) var(--spacing--x3, 24px);
+  border-radius: 100px;
+`,O=(0,y.default)(z.default).withConfig({displayName:"styles__AddToCartBase",componentId:"sc-a9f8dce9-2"})`
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid;
+  padding-bottom: 4px;
+  width: fit-content;
+  margin-left: 16px;
+  font-weight: 500;
+
+  &:hover,
+  &:focus {
+    color: inherit;
+  }
+
+  @media ${w.mqLargeMin} {
+    margin-left: 24px;
+  }
+`,G=y.default.div.withConfig({displayName:"styles__ProductsSection",componentId:"sc-a9f8dce9-3"})`
+  background-color: var(--fill-bright);
+  border-radius: var(--bdrs-l);
+  margin: 0 auto;
+  display: flow-root;
+`,U=y.default.div.withConfig({displayName:"styles__ProductsGrid",componentId:"sc-a9f8dce9-4"})`
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--space-fixed-2);
+  margin: 0 auto 24px auto;
+  height: fit-content;
+  padding: var(--space-fixed-2);
+  max-width: var(--maw);
+
+  .product-pill {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 350;
+    line-height: 100%; /* 12px */
+    letter-spacing: -0.24px;
+    height: 20px;
+  }
+
+  /* Each product card takes up exactly half the width */
+  > * {
+    width: 100%;
+    height: auto; /* Let flexbox handle height naturally */
+    min-width: 0;
+  }
+
+  .product-card-content-container {
+    padding-right: 2rem;
+  }
+
+  /* Grid product card height controls */
+  .grid-product {
+    #product-price-container {
+      gap: 4px !important;
+    }
+
+    @media (max-width: 400px) {
+      .product-card-image-container {
+        flex-basis: 30%;
+      }
+    }
+
+    @media ${w.mqSmallMax} {
+      height: 245px;
+    }
+
+    @media ${w.mqXSmallMax} {
+      height: auto;
+    }
+
+    @media (min-width: 481px) and (max-width: 770px) {
+      height: clamp(245px, 35vw, 320px); /* Grows from 245px to 320px */
+    }
+
+    @media (min-width: 771px) and (max-width: 1024px) {
+      height: clamp(320px, 40vw, 360px); /* Grows from 320px to 360px */
+    }
+
+    @media (min-width: 1025px) {
+      height: 375px;
+
+      #product-price-container {
+        gap: 8px !important;
+      }
+
+      .product-card-image-container {
+        flex-basis: 50%;
+      }
+    }
+
+    /* Mobile: Custom spacing and padding */
+    @media (max-width: 770px) {
+      .product-card-content-container {
+        gap: 8px;
+        padding: 0;
+      }
+
+      #product-header-container {
+        gap: 0;
+      }
+
+      #product-info-container {
+        gap: 8px;
+      }
+
+      #add-to-cart-button,
+      #digioh-vs-out-of-stock-cta-button {
+        height: 16px;
+
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 350;
+        line-height: normal;
+        letter-spacing: -0.035px;
+      }
+
+      #learn-more-button {
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1;
+        letter-spacing: -0.035px;
+      }
+
+      .product-image-wrapper {
+        max-height: 130px;
+      }
+
+      .product-pill {
+        font-size: 10px;
+        font-style: normal;
+        font-weight: 350 !important;
+        line-height: 100%; /* 10px */
+        letter-spacing: -0.2px;
+        padding: 5px;
+        height: 17px;
+      }
+    }
+
+    /* Tablet: Larger images for 770px to 1024px */
+    @media (min-width: 771px) and (max-width: 1024px) {
+      .product-image-wrapper {
+        max-height: 200px; /* Increased from 130px */
+      }
+    }
+  }
+
+  @media (max-width: 1024px) {
+    grid-template-columns: 1fr;
+  }
+
+  @media (max-width: 1024px) and (min-width: 500px) {
+    max-width: 665px;
+  }
+`;y.createGlobalStyle`
+  html:has(#page-products) {
+    scroll-behavior: smooth;
+  }
+
+  main {
+    background-color: var(--fill-brand);
+    margin-top: -3.5rem; //absolute hack!!!!
+  }
+
+  @media (max-width: 1024px) {
+    #slide-text-container {
+      max-width: 630px;
+      margin: 0 auto;
+    }
+  }
+
+  @media ${w.mqXXLargeMin} {
+    #slide-text-container {
+      max-width: 1380px;
+      margin: 0 auto;
+    }
+  }
+
+  @media ${w.mqXXLargeMax} {
+    #slide-content-0 {
+      padding-inline: var(--space-fixed-4);
+    }
+  }
+  @media ${w.mqLargeMax} {
+    #slide-content-0 {
+      padding-inline: var(--space-fixed-2);
+    }
+  }
+`;let E=y.default.div.withConfig({displayName:"featured.styles__Container",componentId:"sc-f23d3ffd-0"})`
+  border-radius: var(--spacing-32);
+  background: var(--fill-brand-subtle);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: var(--spacing-16);
+  padding-bottom: 132px;
+  position: relative;
+
+  @media ${w.mqLargeMin} {
+    flex-direction: row;
+    margin-right: 16px;
+    width: 100%;
+    max-width: 900px;
+    min-width: 662px; // Last point before the text breaks
+    padding-bottom: 0px;
+  }
+
+  @media ${w.mqXLargeMin} {
+    max-width: 1050px;
+  }
+`,X=(0,y.default)(B).withConfig({displayName:"featured.styles__Pill",componentId:"sc-f23d3ffd-1"})`
+  background: #d3fa99;
+  color: var(--fill-brand);
+  position: absolute;
+  top: 0;
+  margin-top: var(--spacing-16);
+`,R=(0,y.default)(l.default).withConfig({displayName:"featured.styles__FeaturedImage",componentId:"sc-f23d3ffd-2"})`
+  position: relative !important; // styled values take backseat to intrinsic next js values
+  height: 320px !important;
+  object-fit: contain;
+  margin-top: var(--spacing-32);
+
+  @media ${w.mqLargeMin} {
+    max-width: 350px;
+  }
+  @media ${w.mqXLargeMin} {
+    margin-top: var(--spacing-48);
+    max-width: 400px;
+  }
+`,W=y.default.div.withConfig({displayName:"featured.styles__Body",componentId:"sc-f23d3ffd-3"})`
+  color: var(--fill-primary);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+`,V=y.default.div.withConfig({displayName:"featured.styles__InnerText",componentId:"sc-f23d3ffd-4"})`
+  display: flex;
+  color: inherit;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: var(--spacing-24);
+`,J=y.default.div.withConfig({displayName:"featured.styles__CodePill",componentId:"sc-f23d3ffd-5"})`
+  border-radius: 576.652px;
+  border: 1.73px solid var(--fill-primary);
+  width: fit-content;
+  padding: 0 8px;
+  color: inherit;
+  margin-bottom: var(--spacing-8);
+`,K=y.default.div.withConfig({displayName:"featured.styles__Name",componentId:"sc-f23d3ffd-6"})`
+  color: inherit;
+  font-size: 24px;
+  font-weight: 350;
+  line-height: 120%;
+  letter-spacing: -0.64px;
+
+  @media ${w.mqLargeMin} {
+    font-size: 32px;
+    line-height: 110%;
+    letter-spacing: -0.36px;
+  }
+`,Y=y.default.div.withConfig({displayName:"featured.styles__Desc",componentId:"sc-f23d3ffd-7"})`
+  color: inherit;
+  font-size: 16px;
+  font-weight: 350;
+  line-height: 140%; /* 22.4px */
+  letter-spacing: -0.16px;
+`,Q=y.default.div.withConfig({displayName:"featured.styles__PriceBase",componentId:"sc-f23d3ffd-8"})`
+  color: inherit;
+  font-size: 20px;
+  line-height: 130%; /* 26px */
+  letter-spacing: -0.2px;
+`,Z=(0,y.default)(Q).withConfig({displayName:"featured.styles__DesktopPrice",componentId:"sc-f23d3ffd-9"})`
+  display: none;
+  padding-top: 24px;
+
+  @media ${w.mqLargeMin} {
+    display: inline;
+  }
+`,ee=(0,y.default)(Q).withConfig({displayName:"featured.styles__MobilePrice",componentId:"sc-f23d3ffd-10"})`
+  @media ${w.mqLargeMin} {
+    display: none;
+  }
+`,et=y.default.div.withConfig({displayName:"featured.styles__CTA",componentId:"sc-f23d3ffd-11"})`
+  color: inherit;
+  display: flex;
+  align-items: center;
+  padding: var(--spacing-24) 0;
+  justify-content: space-between;
+
+  @media ${w.mqLargeMin} {
+    justify-content: start;
+    padding-top: var(--spacing-24);
+    padding-bottom: 0;
+  }
+`,ei=(0,y.default)(H).withConfig({displayName:"featured.styles__LearnMore",componentId:"sc-f23d3ffd-12"})`
+  width: 180px;
+  color: var(--fill-brand);
+  background: var(--fill-primary);
+
+  @media ${w.mqLargeMin} {
+    width: 200px;
+  }
+`,eo=(0,y.default)(O).withConfig({displayName:"featured.styles__AddToCart",componentId:"sc-f23d3ffd-13"})`
+  color: inherit;
+`,ea=["am-wk","pm-wk","dm-wk"],en={"syn-wk":{order:1,isFeatured:!0,numberOneProbioticImage:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1766174359/npd/numberone.png",numberOneProbioticAltText:"#1 Digestive Health Probiotic",numberOneProbioticDisclaimer:"<sup>‡</sup>Source: SPINS, Combined Amazon + Target Sales data.&nbsp;Last 12 weeks ending in November 2025.",numberOneProbioticDisclaimerMobile:"<sup>‡</sup>Source: SPINS, Combined Amazon + Target Sales data.<br>Last 12 weeks ending in November 2025.",displayName:"Daily Synbiotic",description:"Eases bloating, improves regularity, and supports digestive health with 24 targeted probiotic strains + a novel prebiotic.*",alphaCode:"DS-01®",pillColor:"var(--products-dm-02-dark)",image:"https://res.cloudinary.com/dljz0lko8/image/upload/v1757357918/npd/npd-ds-7b2ef1785bb33020b81fe0e5d8ef787c9fd3f58c.png",showDiscountPill:!1,pillPosition:"top-left",imageConfig:{objectFit:"contain",containerHeight:"250px"}},"pds-wk":{order:5,isFeatured:!1,displayName:"Pediatric Synbiotic",description:"Supports healthy regularity, skin, and respiratory health for kids and teens (ages 3-17) with 9 probiotic strains + a prebiotic.*",mobileDescription:"Supports kids' gut and whole body health.*",alphaCode:"PDS-08®",pillColor:"var(--products-dm-02-dark)",image:"https://res.cloudinary.com/dljz0lko8/image/upload/v1757955677/npd/484bcfe52cad8fa63d1c023a5b15bcdd938d195a_1.png",showDiscountPill:!1,imageConfig:{objectFit:"contain",containerHeight:"250px"}},"vs-wk":{order:6,isFeatured:!1,displayName:"Vaginal Synbiotic",description:(0,t.jsxs)(t.Fragment,{children:["Rapidly establishes a healthy vaginal microbiome dominated by"," ",(0,t.jsx)("i",{children:"L. crispatus"}),"—the vagina's most protective bacteria.*"]}),mobileDescription:"Rapidly establishes a healthy vaginal microbiome.*",alphaCode:"VS-01™",pillColor:"var(--products-dm-02-dark)",image:"https://res.cloudinary.com/dljz0lko8/image/upload/v1757955665/npd/3edb1a43e25a44ba430d5e5d3245108e83c61753_1.png",showDiscountPill:!1,imageConfig:{objectFit:"contain",containerHeight:"250px"}},"am-wk":{order:3,isFeatured:!1,displayName:"Focus + Energy",description:"Delivers steady, caffeine-free energy to enhance focus, sharpen attention, and help fight mental fatigue.*",mobileDescription:"Sharpen attention, fight fatigue.*",alphaCode:"AM-02™",pillColor:"var(--products-am-02-dark)",image:"https://res.cloudinary.com/dljz0lko8/image/upload/v1757360129/npd/npd-am-c2391a6819effb5bc5dd96153dd97f37ef171204.png",showDiscountPill:!1,pillPosition:"top-left",imageConfig:{objectFit:"contain",containerHeight:"250px"}},"pm-wk":{order:4,isFeatured:!1,displayName:"Sleep + Restore",description:"Provides non-habit forming support for deep, restorative sleep and refreshed mornings.*",mobileDescription:"Fall asleep faster, wake up refreshed.*",alphaCode:"PM-02™",pillColor:"var(--products-pm-02-dark)",image:"https://res.cloudinary.com/dljz0lko8/image/upload/v1757360129/npd/5c30859afe8c5e93f33ff5afad0bca175fa37ca5.png",showDiscountPill:!1,pillPosition:"top-left",imageConfig:{objectFit:"contain",containerHeight:"250px"}},"dm-wk":{order:1,isFeatured:!1,displayName:"Daily Multivitamin",description:"Helps cover daily nutrient gaps for your body and microbiome with 100% daily value of 20 essential vitamins and minerals.*",mobileDescription:"100% daily value of 20 essential nutrients.*",alphaCode:"DM-02™",pillColor:"var(--products-dm-02-dark)",image:"https://res.cloudinary.com/dljz0lko8/image/upload/v1757360128/npd/1ed897199978b3f156397db8b70efcfd286565d2.png",showDiscountPill:!1,pillPosition:"top-left",imageConfig:{objectFit:"contain",containerHeight:"250px"}},"ds-duo":{order:2,isFeatured:!0,displayName:"Daily Essentials Duo",description:"Clinically validated probiotic and advanced multivitamin duo for daily health.*",mobileDescription:"Daily support for gut health and covering nutrient gaps.*",alphaCode:void 0,pillColor:"var(--products-dm-02-dark)",image:"https://res.cloudinary.com/dljz0lko8/image/upload/v1757943559/npd/Daily%20Essentials%20Duo.png",showDiscountPill:!0,discountText:"Bundle + Save 25%",imageConfig:{objectFit:"contain",containerHeight:"250px"}}},er={id:127,name:"Daily Essentials Duo",code:"ds-duo",description:"DS-01 + DM-02 bundled together",price:"89.98",state:"ACTIVE",domesticAttributes:{defaultShippingMethod:"free_shipping",autoCouponCode:null,autoCouponType:null,autoCouponAmount:0,unitPrice:89.98,discountUnitPrice:74.98,billingPeriodLength:30,monthlyUnitPrice:74.98,monthlyDiscountUnitPrice:74.98},internationalAttributes:{defaultShippingMethod:"passport_ddp_all",autoCouponCode:null,autoCouponType:null,autoCouponAmount:0,unitPrice:89.98,discountUnitPrice:74.98,billingPeriodLength:30,monthlyUnitPrice:89.98,monthlyDiscountUnitPrice:74.98},image:"https://res.cloudinary.com/dljz0lko8/image/upload/v1757943559/npd/Daily%20Essentials%20Duo.png",productSku:"ds-duo",isBundle:!0,componentProducts:["syn-wk","dm-wk"],savings:"5.00",order:2,isFeatured:!1};var ed=e.i(869436);let el=()=>(0,t.jsx)(T,{children:(0,t.jsxs)(L,{children:[(0,t.jsxs)(A,{children:["Is DS-01® the right probiotic for you?"," ",(0,t.jsx)(q,{href:"/is-ds01-right-for-you",children:"Take the Quiz"})]}),(0,t.jsx)(F,{src:M,alt:"open hand holding green pills outside",fill:!0,priority:!0})]})}),es=e=>{let i=en[e.productSku];return(0,t.jsxs)(E,{children:[(0,t.jsx)(X,{children:"Bestseller"}),(0,t.jsx)(R,{src:e.image,alt:e.name,fill:!0,priority:!0}),(0,t.jsxs)(W,{children:[(0,t.jsxs)(V,{children:[(0,t.jsxs)("div",{style:{color:"inherit"},children:[(0,t.jsx)(J,{children:i?.alphaCode}),(0,t.jsx)(K,{children:i?.displayName})]}),(0,t.jsxs)(ee,{children:["$",e.price]})]}),(0,t.jsx)(Y,{children:i?.description}),(0,t.jsxs)(Z,{children:["$",e.price]}),(0,t.jsxs)(et,{children:[(0,t.jsx)(ei,{id:"learn-more-button",href:r.default[e.productSku].pdpUrl,onClick:()=>(0,ed.trackButtonClicked)("/products - Learn More",e.productSku),children:"Learn More"}),(0,t.jsx)(eo,{id:"add-to-cart-button",href:r.default[e.productSku].buyUrl,onClick:()=>(0,ed.trackButtonClicked)("/products - Add to Cart",e.productSku),children:"Add To Cart"})]})]})]})};function ec({featured:e}){return(0,t.jsx)(I,{children:(0,t.jsxs)(D,{children:[(0,t.jsx)(es,{...e}),(0,t.jsx)(el,{})]})})}let ep=y.default.div.withConfig({shouldForwardProp:e=>"config"!==e}).withConfig({displayName:"product-card.styles__ProductCardContainer",componentId:"sc-54fc533d-0"})`
+  display: flex;
+  height: ${({config:e})=>e?.height||"375px"};
+  padding: var(--space-fixed-2);
+  /* Container constraints */
+  ${({config:e})=>e?.width&&`width: ${e.width};`}
+  ${({config:e})=>e?.maxWidth&&`max-width: ${e.maxWidth};`}
+  ${({config:e})=>e?.minWidth&&`min-width: ${e.minWidth};`}
+  ${({config:e})=>e?.maxHeight&&`max-height: ${e.maxHeight};`}
+  ${({config:e})=>e?.minHeight&&`min-height: ${e.minHeight};`}
+  ${({config:e})=>e?.overflow&&`overflow: ${e.overflow};`}
+  ${({config:e})=>e?.borderRadius&&`border-radius: ${e.borderRadius};`}
+  ${({config:e})=>e?.padding&&`padding: ${e.padding};`}
+
+  gap: ${({config:e})=>e?.gap||"16px"};
+  align-items: center;
+
+  flex: 1 1 0;
+  border-radius: ${({config:e})=>e?.borderRadius||"var(--bdrs-m)"};
+  background: ${({config:e})=>e?.backgroundColor||"var(--fill-primary)"};
+  flex-direction: ${({config:e})=>e?.flexDirection?e.flexDirection:e?.contentPosition==="left"?"row":e?.contentPosition==="right"?"row-reverse":"row"};
+  color: ${({config:e})=>{let t=e?.textColor;return"snowwhite"===t||"seedgreen"===t?`var(--color--${t})`:t||"inherit"}};
+
+  /* Desktop in-between layout overrides */
+  @media (min-width: 1024px) and (max-width: 1280px) {
+    #add-to-cart-button,
+    #digioh-vs-out-of-stock-cta-button {
+      min-width: unset;
+    }
+  }
+  /* Mobile layout overrides */
+  @media (max-width: 1024px) {
+    flex-direction: ${({config:e})=>e?.mobileLayout==="horizontal"?e?.contentPosition==="left"?"row":"row-reverse":"column"};
+    height: auto;
+    min-height: 200px;
+  }
+
+  @media (max-width: 1024px) and (min-width: 769px) {
+    height: auto;
+    min-height: 360px;
+  }
+
+  @media (min-width: 1025px) and (max-width: 1200px) {
+    height: auto;
+    min-height: 375px;
+  }
+
+  @media (min-width: 1025px) {
+    padding: var(--spacing--x2, 16px);
+    flex-direction: ${({config:e})=>e?.flexDirectionDesktop?e.flexDirectionDesktop:e?.contentPosition==="left"?"row":e?.contentPosition==="right"?"row-reverse":"row"};
+  }
+
+  /* IMPORTANT: These class-specific rules must come LAST to override general rules above */
+
+  /* Grid product heights now controlled by ProductsGrid container */
+
+  /* Featured product cards: let FeaturedSectionContainer control heights */
+  &.featured-product {
+    height: 100%; /* Fill the container height */
+  }
+`;var eu=e.i(114307);let ef=y.default.div.withConfig({shouldForwardProp:e=>!["config"].includes(e)}).withConfig({displayName:"image.styles__ProductImageContainer",componentId:"sc-b92902ba-0"})`
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 100%;
+  height: 100%;
+
+  padding: ${({config:e})=>e?.padding||"0"};
+  background-color: ${({config:e})=>e?.backgroundColor||"transparent"};
+  border-radius: var(--radius--medium, 16px);
+  overflow: hidden;
+
+  flex-grow: ${({config:e})=>e?.flexGrow!==void 0?e.flexGrow:1};
+  flex-shrink: ${({config:e})=>e?.flexShrink!==void 0?e.flexShrink:0};
+  flex-basis: ${({config:e})=>e?.flexBasis||"50%"};
+`,em=y.default.div.withConfig({shouldForwardProp:e=>!["containerHeight"].includes(e)}).withConfig({displayName:"image.styles__ProductImageWrapper",componentId:"sc-b92902ba-1"})`
+  position: relative;
+  width: 100%;
+  height: ${({containerHeight:e})=>e||"100%"};
+  display: flex;
+  align-items: center;
+  justify-content: center;
+`,eh=(0,y.default)(eu.default).withConfig({shouldForwardProp:e=>!["pillColor","spacing","fontColor","position"].includes(e)}).withConfig({displayName:"image.styles__ProductCardLabel",componentId:"sc-b92902ba-2"})`
+  position: absolute;
+  z-index: 1;
+  ${({pillColor:e})=>e&&`background-color: ${e};`}
+  color: ${({fontColor:e})=>e?`var(--text-${e})`:"var(--text-primary)"};
+
+  /* Position handling */
+  ${({position:e,spacing:t})=>{let i=t||"calc(var(--space-1) / 8)";switch(e){case"top-left":case"left":default:return`top: ${i}; left: ${i};`;case"top-right":case"right":return`top: ${i}; right: ${i};`;case"bottom-left":return`bottom: ${i}; left: ${i};`;case"bottom-right":return`bottom: ${i}; right: ${i};`;case"center":return"top: 50%; left: 50%; transform: translate(-50%, -50%);";case"top-center":return`top: ${i}; left: 50%; transform: translateX(-50%);`;case"bottom-center":return`bottom: ${i}; left: 50%; transform: translateX(-50%);`}}}
+`;var eg=e.i(97984);let ex=y.default.div.withConfig({shouldForwardProp:e=>!["config","width","height","flexGrow","flexShrink","flexBasis","padding"].includes(e)}).withConfig({displayName:"content.styles__ContentContainer",componentId:"sc-54f91339-0"})`
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-fixed-3);
+
+  flex-grow: ${({flexGrow:e})=>void 0!==e?e:1};
+  flex-shrink: ${({flexShrink:e})=>void 0!==e?e:1};
+  flex-basis: ${({flexBasis:e})=>e||"50%"};
+
+  height: ${({height:e})=>e||"auto"};
+  min-height: 0;
+  width: ${({width:e})=>e||"100%"};
+
+  padding: ${({padding:e})=>e};
+  color: ${({config:e})=>{let t=e?.textColor;return"snowwhite"===t||"seedgreen"===t?`var(--color--${t})`:t||"var(--color--text--primary)"}};
+`,ey=y.default.div.withConfig({displayName:"content.styles__ProductInfoContainer",componentId:"sc-54f91339-1"})`
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-fixed-2);
+  flex: 1;
+`,ew=y.default.div.withConfig({displayName:"content.styles__ProductHeaderContainer",componentId:"sc-54f91339-2"})`
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+`;y.default.span.withConfig({displayName:"content.styles__ProductPill",componentId:"sc-54f91339-3"})`
+  display: inline-flex;
+  align-items: center;
+  padding: var(--space-1) var(--space-2);
+  border-radius: var(--radius--small, 8px);
+  font-size: var(--font-size--small, 12px);
+  font-weight: var(--font-weight--medium, 500);
+  line-height: var(--line-height--tight, 1.2);
+  text-transform: uppercase;
+  letter-spacing: var(--letter-spacing--wide, 0.5px);
+`;let eb=y.default.div.withConfig({displayName:"content.styles__ProductPriceContainer",componentId:"sc-54f91339-4"})`
+  display: flex;
+  flex-direction: column;
+  margin-top: auto;
+`,ev=y.default.div.withConfig({displayName:"content.styles__DiscountLabelContainer",componentId:"sc-54f91339-5"})`
+  display: flex;
+  justify-content: flex-start;
+`,eC=y.default.div.withConfig({shouldForwardProp:e=>!["config","textColor","width","height","flexGrow","flexShrink","flexBasis","padding"].includes(e)}).withConfig({displayName:"content.styles__PriceDetailsContainer",componentId:"sc-54f91339-6"})`
+  display: flex;
+  align-items: center;
+  gap: ${({config:e})=>e?.gap||"6px"};
+`,ek=(0,y.default)(eg.TypeBodyLarge).withConfig({displayName:"content.styles__CrossedOutPrice",componentId:"sc-54f91339-7"})`
+  text-decoration: line-through;
+  color: var(--text-disabled);
+
+  /* Mobile styles */
+  --fz: 1rem; /* 16px */
+  --fw: 350;
+  --lh: 1.4; /* 140% = 22.4px */
+  --lts: -0.16px;
+  font-style: normal;
+
+  /* Desktop styles */
+  @media (min-width: 768px) {
+    --fz: 1.25rem; /* 20px */
+    --fw: 350;
+    --lh: 1.3; /* 130% = 26px */
+    --lts: -0.2px;
+  }
+`,e_=y.default.div.withConfig({shouldForwardProp:e=>!["config","textColor","width","height","flexGrow","flexShrink","flexBasis","padding","hasBothActions"].includes(e)}).withConfig({displayName:"content.styles__ActionContainer",componentId:"sc-54f91339-8"})`
+  display: flex;
+  align-items: ${({config:e})=>e?.alignItems||"center"};
+  gap: ${({config:e})=>e?.gap||"var(--spacing--x3, 24px)"};
+  align-self: stretch;
+  justify-content: flex-start;
+  width: auto;
+
+  /* Global button text behavior */
+  #add-to-cart-button,
+  #digioh-vs-out-of-stock-cta-button {
+    white-space: nowrap !important;
+  }
+
+  #learn-more-button {
+    white-space: nowrap;
+  }
+
+  /* Desktop: side by side */
+  @media (min-width: 1025px) {
+    flex-direction: row;
+
+    #add-to-cart-button,
+    #digioh-vs-out-of-stock-cta-button {
+      flex: none;
+      min-width: ${({config:e})=>e?.buttonWidth||"150px"};
+    }
+
+    #learn-more-button {
+      flex: none;
+      white-space: nowrap;
+    }
+  }
+
+  /* Mobile: side-by-side */
+  @media (max-width: 1024px) {
+    flex-direction: row;
+    align-items: center;
+    gap: ${({config:e})=>e?.gap||"var(--spacing--x2, 16px)"};
+
+    #add-to-cart-button,
+    #digioh-vs-out-of-stock-cta-button {
+      flex: none;
+      min-width: 120px;
+    }
+
+    #learn-more-button {
+      flex: none;
+      white-space: nowrap;
+    }
+  }
+
+  /* Mobile: small */
+  @media (max-width: 400px) {
+    #add-to-cart-button,
+    #digioh-vs-out-of-stock-cta-button {
+      min-width: 110px;
+      padding: var(--spacing--x2, 16px);
+    }
+  }
+`;y.default.h2.withConfig({displayName:"content.styles__ProductHeading",componentId:"sc-54f91339-9"})`
+  font-family: var(--font-family--heading, 'Inter', sans-serif);
+  font-size: var(--font-size--large, 18px);
+  font-weight: var(--font-weight--semibold, 600);
+  line-height: var(--line-height--tight, 1.2);
+  color: inherit;
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+`,y.default.p.withConfig({displayName:"content.styles__ProductDescription",componentId:"sc-54f91339-10"})`
+  font-family: var(--font-family--body, 'Inter', sans-serif);
+  font-size: var(--font-size--small, 14px);
+  font-weight: var(--font-weight--normal, 400);
+  line-height: var(--line-height--relaxed, 1.5);
+  color: inherit;
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  opacity: 0.8;
+`,y.default.p.withConfig({displayName:"content.styles__ProductPrice",componentId:"sc-54f91339-11"})`
+  font-family: var(--font-family--body, 'Inter', sans-serif);
+  font-size: var(--font-size--large, 18px);
+  font-weight: var(--font-weight--semibold, 600);
+  line-height: var(--line-height--tight, 1.2);
+  color: inherit;
+  margin: 0;
+`,(0,y.default)(eg.TypeBodyLargeStrong).withConfig({shouldForwardProp:e=>"color"!==e}).withConfig({displayName:"content.styles__LearnMore",componentId:"sc-54f91339-12"})`
+  color: ${({color:e="seedgreen"})=>`var(--color--${e})`};
+  text-decoration: underline;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+
+  &:hover {
+    opacity: 0.8;
+  }
+`;let ej=({id:e,src:i,alt:o,labels:a=[],className:n,linkUrl:r,onClick:d,styleConfig:s})=>(0,t.jsxs)(ef,{id:e,className:n,config:s,children:[a.map((e,i)=>(0,t.jsx)(eh,{size:"small",fontColor:"seedgreen"===e.fontColor?"primary":"inverse-primary",pillColor:e.pillColor,position:e.position||"left",spacing:e.spacing,children:e.text},`${e.text}-${i}`)),(0,t.jsx)(em,{containerHeight:s?.containerHeight||"100%",className:"product-image-wrapper",children:d?(0,t.jsx)("div",{onClick:d,style:{display:"block",width:"100%",height:"100%",cursor:"pointer"},children:(0,t.jsx)(l.default,{src:i,alt:o,fill:!0,style:{objectFit:s?.objectFit||"contain",objectPosition:s?.objectPosition||"center"}})}):r||s?.linkUrl?(0,t.jsx)(z.default,{href:r||s?.linkUrl||"",style:{display:"block",width:"100%",height:"100%"},children:(0,t.jsx)(l.default,{src:i,alt:o,fill:!0,style:{objectFit:s?.objectFit||"contain",objectPosition:s?.objectPosition||"center"}})}):(0,t.jsx)(l.default,{src:i,alt:o,fill:!0,style:{objectFit:s?.objectFit||"contain",objectPosition:s?.objectPosition||"center"}})})]});var eP=e.i(285003);e.i(462691);var e$=e.i(361695),eS=e.i(630051),eN=e.i(484398),eI=e.i(440884);let eD=y.default.div.withConfig({displayName:"product-card-content-container__ProductTitleSection",componentId:"sc-f18bfa02-0"})`
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+`,ez=(0,y.default)(eg.TypeHeadingQuarternary).withConfig({displayName:"product-card-content-container__ProductTitle",componentId:"sc-f18bfa02-1"})`
+  /* Mobile styles */
+  --fz: 1.25rem; /* 20px */
+  --fw: 350;
+  --lh: 1.4; /* 140% = 28px */
+  --lts: -0.2px;
+  font-style: normal;
+
+  @media (min-width: 375px) {
+    white-space: nowrap;
+  }
+
+  /* Desktop styles */
+  @media (min-width: 768px) {
+    --fz: 1.5rem; /* 24px */
+    --fw: 350;
+    --lh: 1.2; /* 120% = 28.8px */
+    --lts: -0.36px;
+  }
+`,eM=(0,y.default)(eg.TypeBody).withConfig({displayName:"product-card-content-container__ProductDescription",componentId:"sc-f18bfa02-2"})`
+  /* Mobile styles */
+  --fz: 0.875rem; /* 14px */
+  --fw: 350;
+  --lh: 1.4; /* 140% = 19.6px */
+  --lts: -0.07px;
+  font-style: normal;
+
+  /* Desktop styles */
+  @media (min-width: 768px) {
+    --fz: 1rem; /* 16px */
+    --fw: 350;
+    --lh: 1.4; /* 140% = 22.4px */
+    --lts: -0.16px;
+  }
+`,eT=(0,y.default)(eg.TypeBodyLarge).withConfig({displayName:"product-card-content-container__GridProductPrice",componentId:"sc-f18bfa02-3"})`
+  /* Mobile styles */
+  --fz: 1rem; /* 16px */
+  --fw: 350;
+  --lh: 1.4; /* 140% = 22.4px */
+  --lts: -0.16px;
+  font-style: normal;
+
+  /* Desktop styles */
+  @media (min-width: 768px) {
+    --fz: 1.25rem; /* 20px */
+    --fw: 350;
+    --lh: 1.3; /* 130% = 26px */
+    --lts: -0.2px;
+  }
+`,eL=(0,y.default)(eg.TypeBodyLarge).withConfig({displayName:"product-card-content-container__FeaturedProductPrice",componentId:"sc-f18bfa02-4"})`
+  /* Same for both mobile and desktop */
+  --fz: 1.25rem; /* 20px */
+  --fw: 350;
+  --lh: 1.3; /* 130% = 26px */
+  --lts: -0.2px;
+  font-style: normal;
+`,eF=({id:e,title:i,description:o,numberOneProbioticImage:a,numberOneProbioticAltText:n,numberOneProbioticDisclaimer:r,numberOneProbioticDisclaimerMobile:d,badges:s=[],price:c,salePrice:p,showDiscount:u=!1,discountText:f,primaryAction:m,secondaryAction:h,className:g,styleConfig:x,isFeatured:y=!1})=>{let w=(0,eN.default)(1024),b=p||c,v=m?.disabled??(!!m&&!m.url&&!m.onClick),C=s.map((e,i)=>"label"===e.type?(0,t.jsx)(eu.default,{size:"small",color:e.color||"seedgreen",children:e.text},`${e.text}-${e.type}-${i}`):(0,t.jsx)(e$.Pill,{className:"product-pill",color:"snowwhite"===e.color?"inverse-primary":"primary",size:"small",padding:"6px",children:(0,eI.formatTrademarks)(e.text,!0)},`${e.text}-${e.type}-${i}`));return(0,t.jsxs)(ex,{id:e,className:g,width:x?.width,height:x?.height,flexGrow:x?.flexGrow,flexShrink:x?.flexShrink,flexBasis:x?.flexBasis,padding:x?.padding,config:{textColor:x?.textColor,actionConfig:x?.actionConfig,priceConfig:x?.priceConfig},children:[(0,t.jsxs)(ey,{id:"product-info-container",children:[(0,t.jsxs)(ew,{id:"product-header-container",children:[C,i&&(0,t.jsxs)(eD,{children:[(0,t.jsx)(ez,{color:x?.textColor,id:"product-title",children:i}),y&&w?(0,t.jsxs)(eL,{color:x?.textColor,children:["$",b]}):null]})]}),a&&(0,t.jsx)("div",{children:(0,t.jsx)(l.default,{src:a,alt:n||"Number One Probiotic",width:127,height:35})}),o&&(0,t.jsx)(eM,{id:"product-description",color:x?.textColor,children:o})]}),c&&(!y||!w)&&(0,t.jsxs)(eb,{id:"product-price-container",children:[u&&f&&(0,t.jsx)(ev,{children:(0,t.jsx)(eu.default,{size:"small",color:"seedgreen",children:f})}),(0,t.jsxs)(eC,{id:"product-price-details-container-main",config:x?.priceConfig,children:[y?(0,t.jsxs)(eL,{color:x?.textColor,children:["$",b]}):(0,t.jsxs)(eT,{color:x?.textColor,children:["$",b]}),p?(0,t.jsxs)(ek,{children:["$",c]}):null]})]}),(m||h)&&(0,t.jsxs)(e_,{id:"product-action-container",config:x?.actionConfig,hasBothActions:!!(m&&h),children:[m&&(0,t.jsx)(eP.default,{id:m.id||"add-to-cart-button",color:x?.textColor||"seedgreen",size:"large",label:m.label,url:m.url,onClick:m.onClick,disabled:v}),h&&(0,t.jsx)(eS.default,{id:"learn-more-button",label:h.label,color:x?.textColor||"seedgreen",underline:!0,hideArrow:!0,url:h.url,onClick:h.onClick,transform:"lower"})]}),r&&(0,t.jsx)(eA,{as:"div",style:{fontSize:"10px",lineHeight:"14px",letterSpacing:"-.05px",fontWeight:350,color:"rgba(252, 252, 247, 0.5)"},dangerouslySetInnerHTML:{__html:w?d:r}})]})};var eA=(0,y.default)(eg.TypeBody).withConfig({displayName:"product-card-content-container___StyledTypeBody",componentId:"sc-f18bfa02-5"})`
+            sup {
+              color: rgba(252, 252, 247, 0.5);
+            }
+          `;let eq=({id:e,className:i,showNewPill:o=!1,newPillText:a="New",newPillFontColor:n,showDiscountPill:r=!1,imageClickAction:d,showCapsuleImage:l,capsuleImageUrl:s,isFeatured:c=!1,primaryAction:p,secondaryAction:u,productData:f,imageConfig:m,contentConfig:h,styleConfig:g,children:x})=>{let{productName:y,productSku:w,productDescription:b,productNumberOneProbioticImage:v,productNumberOneProbioticAltText:C,productNumberOneProbioticDisclaimer:k,productNumberOneProbioticDisclaimerMobile:_,productAlphaCode:j,productImageUrl:P,price:$,salePrice:S,discountText:N,pillColor:I,pillPosition:D}=f,z=g?.textColor||"seedgreen";return(0,t.jsxs)(ep,{id:e,className:i,config:g,children:[l&&(0,t.jsx)(ej,{src:s,alt:`${y} capsule`,className:"capsule-image",styleConfig:m}),(0,t.jsx)(ej,{id:`product-card-image-container-${w}`,className:"product-card-image-container",src:P,alt:y,labels:o?[{text:a,fontColor:n??"snowwhite",pillColor:I,position:D||"left"}]:[],onClick:d,styleConfig:m}),(0,t.jsx)(eF,{id:`product-card-content-container-${w}`,className:"product-card-content-container",title:y,description:b,numberOneProbioticImage:v,numberOneProbioticAltText:C,numberOneProbioticDisclaimer:k,numberOneProbioticDisclaimerMobile:_,badges:j?[{text:j,color:z,type:"pill"}]:[],price:$,salePrice:S,showDiscount:r,discountText:N,isFeatured:c,styleConfig:{...h||{},textColor:g?.textColor??h?.textColor},primaryAction:p,secondaryAction:u}),x]})};var eB=e.i(944645);let eH=({products:e,isVsOutOfStock:o=!1})=>{let r=(0,n.useRouter)(),[d,l]=(0,a.useState)(!1),s=window.localStorage,c=()=>{let e=!1;if(s)try{e=!!JSON.parse(localStorage.getItem("digioh_json")||"{}")?.[eB.WAITLIST_LOCAL_STORAGE_KEY]}catch{e=!1}return e?"Waitlist Joined":"Join the Waitlist"},[p,u]=(0,a.useState)(c());(0,a.useEffect)(()=>{if(!o||!s)return;let e=setInterval(()=>{let e=c();e!==p&&u(e)},300);return()=>{clearInterval(e)}},[o,p]);let f=(0,eN.default)(1024),m=e.filter(e=>!e.isFeatured);return 0===m.length?(0,t.jsx)("p",{children:"No additional products found"}):(0,t.jsxs)(t.Fragment,{children:[d&&(0,t.jsx)(i.default,{}),(0,t.jsx)(U,{children:m.map((e,i)=>{let a=ea.includes(e.productSku),n=e.showDiscountPill??!1,s=e.discountText??"Sale",c="ds-duo"===e.productSku?"67.49":null,u=(0,eB.createViewDetailsAction)(e.productSku||"SKU",r,{setIsLoading:l,isLoading:d}),m=(0,eB.createAddToCartAction)(e.productSku||"SKU"),h=o&&"vs-wk"===e.productSku,g=h?{label:p,id:"digioh-vs-out-of-stock-cta-button",disabled:"Waitlist Joined"===p,onClick:()=>{}}:u;return(0,t.jsx)(eq,{className:"grid-product","data-testid":`grid-product-card-${e.productSku}`,showNewPill:a,newPillText:"New",newPillColor:"seedgreen",newPillFontColor:"snowwhite",showDiscountPill:n,showCapsuleImage:!1,capsuleImageUrl:"",primaryAction:g,secondaryAction:h?null:m,imageClickAction:h?void 0:()=>u.onClick?.(),productData:{productName:en[e.productSku]?.displayName||"Product",productSku:e.productSku||"SKU",productDescription:f?en[e.productSku]?.mobileDescription||en[e.productSku]?.description||"Product description":en[e.productSku]?.description||"Product description",productAlphaCode:"ds-duo"===e.productSku?"":en[e.productSku]?.alphaCode||"",productImageUrl:e.image||"",price:e.price||"",salePrice:c,discountText:s,pillColor:en[e.productSku]?.pillColor,pillPosition:en[e.productSku]?.pillPosition||"left"},imageConfig:{flexGrow:1,flexShrink:0,flexBasis:"35%",...e.imageConfig},contentConfig:{flexGrow:1,flexShrink:1,flexBasis:"60%",padding:"var(--space-2) 0",actionConfig:{}},styleConfig:{contentPosition:"left",mobileLayout:"horizontal",backgroundColor:"var(--fill-secondary)"}},e.id||i+1)})})]})},eO=y.createGlobalStyle`
+  main {
+    margin-top: -56px;
+    background-color: var(--fill-brand);
+  }
+`,eG=({products:e})=>{let{isLoading:d}=(()=>{let e=(0,n.useRouter)(),[t,i]=(0,a.useState)(!1);return{navigateToProduct:t=>{i(!0);let o=r.default[t]?.pdpUrl;o?e.push(o):i(!1)},isLoading:t}})(),l=e.find(e=>e.isFeatured),{featureFlags:s}=(0,o.useFeatureFlags)(),c=s?.isVsOutOfStock??!1;return(0,t.jsxs)(t.Fragment,{children:[d&&(0,t.jsx)(i.default,{}),(0,t.jsx)(eO,{}),(0,t.jsx)(N,{}),l&&(0,t.jsx)(ec,{featured:l}),(0,t.jsx)(G,{id:"products-grid",children:(0,t.jsx)(eH,{products:e,isVsOutOfStock:c})})]})};var eU=e.i(198255);e.s(["__N_SSG",0,!0,"default",0,({products:e})=>{let i,o=[...(i=["syn-wk","pds-wk","vs-wk","am-wk","pm-wk","dm-wk"],e.filter(e=>i.includes(e.code)).map(e=>{let t=en[e.code]||{order:999,isFeatured:!1,image:eU.default.jar};return{...e,image:t.image||eU.default.jar,order:t.order,isFeatured:t.isFeatured,showDiscountPill:t.showDiscountPill??!1,discountText:t.discountText??"Sale",imageConfig:t.imageConfig}}).sort((e,t)=>e.order-t.order)),{...er,showDiscountPill:en["ds-duo"]?.showDiscountPill??!1,discountText:en["ds-duo"]?.discountText??"Sale"}].sort((e,t)=>e.order-t.order);return(0,t.jsx)(eG,{products:o})}],545370)},950880,(e,t,i)=>{let o="/pdp/products";(window.__NEXT_P=window.__NEXT_P||[]).push([o,()=>e.r(545370)]),t.hot&&t.hot.dispose(function(){window.__NEXT_P.push([o])})}]);
+
+//# debugId=f4b12c08-c89f-738b-ab60-b1f3e0a33d65
+//# sourceMappingURL=0xqi8th3ad1iq.js.map

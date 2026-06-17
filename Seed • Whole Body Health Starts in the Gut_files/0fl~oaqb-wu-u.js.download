@@ -1,0 +1,328 @@
+;!function(){try { var e="undefined"!=typeof globalThis?globalThis:"undefined"!=typeof global?global:"undefined"!=typeof window?window:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&((e._debugIds|| (e._debugIds={}))[n]="d9ebd103-1c72-0ad4-6465-7f230c251e31")}catch(e){}}();
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,109587,e=>{"use strict";var t=e.i(391398);e.s(["getMetadataTags",0,function({pageTitle:e,pageDescription:i,canonicalUrl:a,imageUrl:n,ogImageAlt:r}){return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)("meta",{name:"description",content:i},"desc"),(0,t.jsx)("link",{rel:"canonical",href:a},"canonical"),(0,t.jsx)("meta",{property:"og:locale",content:"en_US"},"og:locale"),(0,t.jsx)("meta",{property:"og:site_name",content:"Seed"},"og:site_name"),(0,t.jsx)("meta",{property:"og:title",content:e},"og:title"),(0,t.jsx)("meta",{property:"og:description",content:i},"og:desc"),(0,t.jsx)("meta",{property:"og:url",content:a},"og:url"),(0,t.jsx)("meta",{property:"og:type",content:"website"},"og:type"),(0,t.jsx)("meta",{property:"og:image",content:n},"og:image"),(0,t.jsx)("meta",{property:"og:image:type",content:"image/png"},"og:image:type"),(0,t.jsx)("meta",{property:"og:image:width",content:"2400"},"og:image:width"),(0,t.jsx)("meta",{property:"og:image:height",content:"1260"},"og:image:height"),(0,t.jsx)("meta",{property:"og:image:alt",content:r||e},"og:image:alt"),(0,t.jsx)("meta",{name:"twitter:title",content:e},"twitter:title"),(0,t.jsx)("meta",{name:"twitter:description",content:i},"twitter:desc"),(0,t.jsx)("meta",{name:"twitter:url",content:a},"twitter:url"),(0,t.jsx)("meta",{name:"twitter:card",content:"summary_large_image"},"twitter:card"),(0,t.jsx)("meta",{name:"twitter:site",content:"@seedhealth"},"twitter:site"),(0,t.jsx)("meta",{name:"twitter:image",content:n},"twitter:image"),(0,t.jsx)("meta",{name:"twitter:image:alt",content:r||e},"twitter:image:alt")]})}])},387406,e=>{"use strict";var t=e.i(391398);e.s(["ExpandCircleDown",0,()=>(0,t.jsx)("svg",{width:"18",height:"18",viewBox:"0 0 18 18",fill:"none",xmlns:"http://www.w3.org/2000/svg",children:(0,t.jsx)("path",{d:"M9 11.7885L12.7885 8L12.075 7.31152L9 10.3865L5.925 7.31152L5.21152 8L9 11.7885ZM9.00335 18C7.7588 18 6.58872 17.7638 5.4931 17.2915C4.39748 16.8192 3.44444 16.1782 2.63397 15.3685C1.82352 14.5588 1.18192 13.6066 0.70915 12.512C0.236383 11.4174 0 10.2479 0 9.00335C0 7.7588 0.236158 6.58872 0.708475 5.4931C1.18081 4.39748 1.82183 3.44444 2.63153 2.63398C3.44123 1.82353 4.39337 1.18192 5.48795 0.709151C6.58255 0.236384 7.75212 0 8.99665 0C10.2412 0 11.4113 0.236158 12.5069 0.708475C13.6025 1.18081 14.5556 1.82182 15.366 2.63152C16.1765 3.44122 16.8181 4.39337 17.2908 5.48795C17.7636 6.58255 18 7.75212 18 8.99665C18 10.2412 17.7638 11.4113 17.2915 12.5069C16.8192 13.6025 16.1782 14.5556 15.3685 15.366C14.5588 16.1765 13.6066 16.8181 12.512 17.2909C11.4174 17.7636 10.2479 18 9.00335 18ZM9 17C11.2333 17 13.125 16.225 14.675 14.675C16.225 13.125 17 11.2333 17 9C17 6.76667 16.225 4.875 14.675 3.325C13.125 1.775 11.2333 1 9 1C6.76667 1 4.875 1.775 3.325 3.325C1.775 4.875 1 6.76667 1 9C1 11.2333 1.775 13.125 3.325 14.675C4.875 16.225 6.76667 17 9 17Z",fill:"#778971"})})])},489507,(e,t,i)=>{t.exports={page_name:"pdp-daily-synbiotic",page_desc:"The DS-01® Daily Synbiotic is the evolution of probiotics—formulated with 24 clinically studied probiotic strains and non-fermenting prebiotics to deliver systemic benefits including digestive health, skin health, and heart health.",page_title:"DS-01® Daily Synbiotic | Best Selling Probiotic | Best Price Available - Seed"}},654736,e=>{"use strict";var t=e.i(391398),i=e.i(489507),a=e.i(341949),n=e.i(760814),r=e.i(720291),o=e.i(104656);e.i(462691);var s=e.i(981198),l=e.i(399057),d=e.i(433540),c=e.i(3527),m=e.i(824789),p=e.i(910654),g=e.i(714863),u=e.i(860267),f=e.i(728858),h=e.i(628085),x=e.i(661050),y=e.i(207203),j=e.i(191788),b=e.i(911118),v=e.i(190099),w=e.i(546421),_=e.i(387406);let C=n.default.div.withConfig({displayName:"ds-01-faqs__FAQWrapper",componentId:"sc-80d0d191-0"})`
+  margin: auto;
+  max-width: 1440px;
+  padding: 4rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+
+  @media ${a.mqLargeMin} {
+    padding: 6rem 3rem;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+`,I=n.default.h2.withConfig({displayName:"ds-01-faqs__Title",componentId:"sc-80d0d191-1"})`
+  font-size: 32px;
+  font-weight: 350;
+  line-height: 40px;
+  color: var(--fill-brand);
+
+  @media ${a.mqLargeMin} {
+    font-size: 48px;
+    line-height: 56px;
+    letter-spacing: -0.48px;
+  }
+`,k=n.default.div.withConfig({displayName:"ds-01-faqs__AccordionWrapper",componentId:"sc-80d0d191-2"})`
+  max-width: 41.25rem;
+  width: 100%;
+`,S=n.default.button.withConfig({displayName:"ds-01-faqs__DisplayAllButton",componentId:"sc-80d0d191-3"})`
+  display: inline-flex;
+  margin-top: 1rem;
+  border: 0;
+  align-items: center;
+  gap: 0.5rem;
+  background-color: transparent;
+  appearance: none;
+
+  path {
+    fill: currentColor;
+  }
+`,T=({faqs:e})=>{if(!e?.metaObjects?.length)return null;let[i,a]=(0,j.useState)(!1),n=i?e.metaObjects.length:3,r=e.metaObjects.map(e=>{let t=(0,b.metaObjectItem)(e,"response");return{title:(0,b.metaObjectItem)(e,"question"),content:(0,v.convertSchemaToHtml)(t,{newLineToBreak:!0}),accordionEvent:{buttonName:"FAQ",question:(0,b.metaObjectItem)(e,"question"),location:"PDP"}}}).slice(0,n);return(0,t.jsxs)(C,{children:[(0,t.jsxs)(I,{children:["Questions?",(0,t.jsx)("br",{}),"We're here to help."]}),(0,t.jsxs)(k,{children:[(0,t.jsx)(w.default,{items:r,displayContentAsHTML:!0}),!i&&(0,t.jsxs)(S,{onClick:()=>a(!0),children:[(0,t.jsx)(_.ExpandCircleDown,{}),"View All"]})]})]})};var O=e.i(126019),M=e.i(621575),P=e.i(976045),q=e.i(453211);let N=n.default.div.withConfig({displayName:"product-transformative__TransformWrapper",componentId:"sc-2d3f2aad-0"})`
+  padding: 3.5rem 1rem;
+  background-color: var(--fill-secondary);
+
+  @media ${a.mqLargeMin} {
+    padding: 6rem 3.5rem;
+  }
+
+  * {
+    color: var(--fill-brand);
+  }
+`,$=n.default.div.withConfig({displayName:"product-transformative__TransformContentsWrapper",componentId:"sc-2d3f2aad-1"})`
+  margin: auto;
+  max-width: 1440px;
+`,L=n.default.div.withConfig({displayName:"product-transformative__TitleWrapper",componentId:"sc-2d3f2aad-2"})`
+  margin-bottom: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1rem;
+
+  @media ${a.mqLargeMin} {
+    margin-bottom: 5rem;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+`,z=n.default.h2.withConfig({displayName:"product-transformative__Title",componentId:"sc-2d3f2aad-3"})`
+  max-width: 39rem;
+  text-wrap: auto;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: -0.96px;
+  line-height: 35.2px;
+
+  @media ${a.mqLargeMin} {
+    font-size: 48px;
+    line-height: 56px;
+  }
+`,A=n.default.div.withConfig({displayName:"product-transformative__TransformContents",componentId:"sc-2d3f2aad-4"})`
+  @media ${a.mqLargeMin} {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .accordion-title {
+    padding-right: 1rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: 500;
+    font-size: 18px;
+  }
+
+  .accordion-title .afu-count {
+    font-family: 'Source Code Pro', 'Fira Code', monospace;
+    font-size: 14px;
+  }
+
+  .title-full-width,
+  .title-full-width p {
+    width: 100%;
+  }
+
+  .transform-contents-inner {
+    .accordion-p:first-of-type {
+      margin-top: 1rem;
+      margin-bottom: 1rem;
+    }
+
+    .accordion-p:not(:first-of-type) {
+      margin-bottom: 8px;
+      font-size: 14px;
+    }
+
+    .accordion-p em,
+    .accordion-p strong {
+      font-size: inherit;
+    }
+
+    .accordion-p em {
+      font-style: italic;
+    }
+  }
+`,B=n.default.div.withConfig({displayName:"product-transformative__IconGrid",componentId:"sc-2d3f2aad-5"})`
+  margin-top: 3rem;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 0.75rem;
+  row-gap: 1rem;
+
+  @media ${a.mqLargeMin} {
+    grid-template-columns: repeat(3, 1fr);
+  }
+`,D=n.default.div.withConfig({displayName:"product-transformative__BenefitIconImageFrame",componentId:"sc-2d3f2aad-6"})`
+  position: relative;
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+`,F=n.default.div.withConfig({displayName:"product-transformative__IconWrapper",componentId:"sc-2d3f2aad-7"})`
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  max-height: 40px;
+`,U=n.default.div.withConfig({displayName:"product-transformative__TransformativeIllustrationFrame",componentId:"sc-2d3f2aad-8"})`
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+`,E=n.default.p.withConfig({displayName:"product-transformative__SafetyTestingFootnote",componentId:"sc-2d3f2aad-9"})`
+  margin-top: 24px;
+  margin-bottom: 0;
+  font-family: var(--font-family-brand, 'Seed Sans');
+  font-size: 12px;
+  font-style: italic;
+  line-height: 1.4;
+  color: var(--fill-brand);
+
+  @media ${a.mqLargeMin} {
+    margin-top: 40px;
+  }
+`,R=n.default.button.withConfig({displayName:"product-transformative__OpenTrialsButton",componentId:"sc-2d3f2aad-10"})`
+  appearance: none;
+  display: inline-flex;
+  margin-top: 1rem;
+  border: 0;
+  align-items: center;
+  gap: 0.5rem;
+  text-decoration: underline;
+  font-weight: 500;
+  color: var(--fill-brand);
+  background-color: transparent;
+  cursor: pointer;
+`,W=({benefitIcons:e,benefitFAQs:i,productInfo:a,strainsModule:n,strainBlends:r})=>{let o,s,l,d,c,m,[p,g]=(0,j.useState)(!1);if(!i?.metaObjects||!e?.metaObjects||!a)return null;let u=(o=a.transformativeSectionImage?.reference,s=o?.image?.url?.trim(),l=o?.url?.trim(),d=a.transformativeSectionImageUrl?.value?.trim(),c=o?.image?.altText?.trim(),m=o?.alt?.trim(),{src:s||l||d||"https://assets.embeddables.com/leftcontent41_7513800312465626.png",alt:c||m||(a.shortTitle||a.title?`Illustration — ${a.shortTitle||a.title}`:"Strains and supplement illustration")}),f=i.metaObjects.map(e=>{let t=(0,b.metaObjectItem)(e,"content");return{title:`<span class="accordion-title">${(0,b.metaObjectItem)(e,"title")} <span class="afu-count">${(0,b.metaObjectItem)(e,"count_afu")} Billion AFU</span></span>`,content:(0,v.convertSchemaToHtml)(t,{newLineToBreak:!0,classes:{p:"accordion-p"}}),accordionEvent:{buttonName:"FAQ",question:(0,b.metaObjectItem)(e,"title"),location:"PDP"}}});return(0,t.jsx)(N,{children:(0,t.jsxs)($,{children:[(0,t.jsxs)(L,{children:[(0,t.jsx)(z,{children:a.transformativeSectionTitle?.value?.trim()||"24 strain formula for transformative gut benefits*"}),(0,t.jsxs)(R,{onClick:()=>g(!0),children:["View Strains + Ingredients",(0,t.jsx)(M.ArrowForward,{})]}),(0,t.jsx)(P.default,{productInfo:a,isOpen:p,setIsOpen:g,contents:"",children:(0,t.jsx)(q.default,{productInfo:a,benefitIcons:e,strainsModule:n,strainBlends:r})})]}),(0,t.jsxs)(A,{children:[(0,t.jsx)(U,{children:(0,t.jsx)(O.default,{src:u.src,alt:u.alt,fill:!0,sizes:"(max-width: 1023px) 100vw, 50vw",style:{objectFit:"contain"},priority:!0})}),(0,t.jsxs)("div",{className:"transform-contents-inner",children:[(0,t.jsx)(w.default,{items:f,displayContentAsHTML:!0,displayTitleAsHTML:!0,initialItem:-1,titleInnerExtraClasses:"title-full-width"}),(0,t.jsx)(B,{children:e.metaObjects.map(i=>{let a=(0,b.metaObjectMedia)(e,(0,b.metaObjectItem)(i,"icon"));return a?.thumbnailUrl?(0,t.jsxs)(F,{children:[(0,t.jsx)(D,{children:(0,t.jsx)(O.default,{src:a.thumbnailUrl,alt:a.alt||"",fill:!0,sizes:"40px",style:{objectFit:"contain"}})}),(0,b.metaObjectItem)(i,"title")]},`icon-${(0,b.metaObjectItem)(i,"title")}`):null})}),(0,t.jsx)(E,{children:"*Identical strain, formerly known as Bifidobacterium adolescentis SD-BA5-IT"})]})]})]})})},G=n.default.div.withConfig({displayName:"sustainable-delivery__SustainWrapper",componentId:"sc-291a9a2e-0"})`
+  margin: auto;
+  padding: 5rem 1rem;
+  max-width: 1440px;
+
+  @media ${a.mqLargeMin} {
+    padding: 5rem;
+  }
+
+  * {
+    color: var(--color-primar-seed-green);
+  }
+`,H=n.default.h2.withConfig({displayName:"sustainable-delivery__Title",componentId:"sc-291a9a2e-1"})`
+  margin-bottom: 3rem;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: -0.64px;
+  line-height: 35.2px;
+  text-wrap: auto;
+
+  @media ${a.mqLargeMin} {
+    font-size: 48px;
+    letter-spacing: -0.96px;
+    line-height: 52.8px;
+  }
+`,Q=n.default.div.withConfig({displayName:"sustainable-delivery__CardGrid",componentId:"sc-291a9a2e-2"})`
+  display: grid;
+  gap: 1rem;
+  letter-spacing: -0.16px;
+
+  @media ${a.mqSmallMin} {
+    grid-template-columns: repeat(2, 1fr);
+  }
+`,X=n.default.div.withConfig({displayName:"sustainable-delivery__CardItem",componentId:"sc-291a9a2e-3"})`
+  position: relative;
+  margin-bottom: 0.5rem;
+  border-radius: 2rem;
+
+  @media ${a.mqSmallMin} {
+    padding: 1rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    background-color: var(--fill-secondary);
+  }
+`,V=n.default.div.withConfig({displayName:"sustainable-delivery__CardContents",componentId:"sc-291a9a2e-4"})`
+  position: absolute;
+  left: 1rem;
+  bottom: 1rem;
+  right: 1rem;
+  border-radius: 16px;
+  padding: 1rem;
+  letter-spacing: -0.16px;
+  background-color: var(--color-neutral-frosted-glass-t35);
+  backdrop-filter: blur(75px);
+
+  * {
+    color: var(--fill-bright);
+  }
+
+  @media ${a.mqSmallMin} {
+    position: static;
+    border-radius: 0px;
+    background-color: transparent;
+    backdrop-filter: blur(0px);
+
+    * {
+      color: var(--fill-brand);
+    }
+  }
+`,Z=n.default.picture.withConfig({displayName:"sustainable-delivery__MainImage",componentId:"sc-291a9a2e-5"})`
+  border-radius: 1rem;
+  width: 100%;
+  overflow: hidden;
+
+  img {
+    display: block;
+    width: 100%;
+  }
+`,K=n.default.p.withConfig({displayName:"sustainable-delivery__CardTitle",componentId:"sc-291a9a2e-6"})`
+  font-size: 1.5rem;
+  font-weight: 400;
+  letter-spacing: -0.16px;
+`,Y=n.default.p.withConfig({displayName:"sustainable-delivery__CardDescription",componentId:"sc-291a9a2e-7"})`
+  letter-spacing: -0.16px;
+`,J=n.default.div.withConfig({displayName:"sustainable-delivery__CardCallout",componentId:"sc-291a9a2e-8"})`
+  padding: 0.5rem 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+
+  &:first-of-type {
+    margin-top: 1rem;
+  }
+
+  &:not(:first-of-type) {
+    border-top: 1px solid var(--color-neutral-faded-green-20);
+  }
+
+  img {
+    display: none;
+    max-width: 37px;
+  }
+
+  p:first-of-type {
+    font-weight: 500;
+    line-height: 1.5rem;
+    letter-spacing: -0.16px;
+  }
+
+  p:last-child {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+    opacity: 0.6;
+    letter-spacing: -0.16px;
+  }
+
+  @media ${a.mqSmallMin} {
+    img {
+      display: block;
+    }
+  }
+`,ee=({sustainabilityCards:e})=>{if(!e?.metaObjects)return null;try{return(0,t.jsxs)(G,{children:[(0,t.jsx)(H,{children:"Sustainably delivered, monthly."}),(0,t.jsx)(Q,{children:e.metaObjects.map(i=>{let a=(0,b.metaObjectMedia)(e,(0,b.metaObjectItem)(i,"mobile_image")),n=(0,b.metaObjectMedia)(e,(0,b.metaObjectItem)(i,"image")),r=(0,b.metaObjectItem)(i,"icon_images",!0),o=(0,b.metaObjectItem)(i,"icon_titles",!0),s=(0,b.metaObjectItem)(i,"icon_description",!0);return(0,t.jsxs)(X,{children:[(0,t.jsxs)(Z,{children:[(0,t.jsx)("source",{srcset:n.mediumUrl,media:"(width >= 30em)"}),(0,t.jsx)("img",{src:a.mediumUrl,alt:a.alt})]}),(0,t.jsxs)(V,{children:[(0,t.jsx)(K,{children:(0,b.metaObjectItem)(i,"title")}),(0,t.jsx)(Y,{children:(0,b.metaObjectItem)(i,"content")}),r.map((i,a)=>{let n=(0,b.metaObjectMedia)(e,i);return(0,t.jsxs)(J,{children:[(0,t.jsx)("img",{src:n.thumbnailUrl,alt:n.alt}),(0,t.jsxs)("div",{children:[(0,t.jsx)("p",{children:o[a]}),(0,t.jsx)("p",{children:s[a]})]})]},`sustain-icon-${i}`)})]})]},`sustainability-card-${(0,b.metaObjectItem)(i,"title")}`)})})]})}catch{return null}},et=n.createGlobalStyle`
+  .site-content {
+    background-color: var(--fill-primary);
+
+    @media ${a.mqLargeMin}{
+      padding: 0;
+    }
+    #srp0-sticky {
+      z-index: 100;
+      transform: translateY(0);
+    }
+    #add-to-cart-new {
+      display: none;
+    }
+  }
+  .optly-hero-text {
+    top: 20% !important;
+    @media ${a.mqXXLargeMin} {
+      top: 25% !important;
+    }
+  }
+
+  #add-to-cart-cta:focus {
+    background-color: var(--fill-brand) !important;
+  }
+
+  ${r.PageTypePdp}
+`,ei={page_type:"pdp",page_class:"page-daily-synbiotic-em",page_name:i.default.page_name,page_title:i.default.page_title,page_description:i.default.page_desc};e.s(["__N_SSG",0,!0,"default",0,({yotpoAverageScore:e,yotpoTotalReviews:i,siteBuy:a,productInfo:n,essentialsModule:r,benefitModule:j,chartModule:b,chartRows:v,testingModule:w,shopifyFAQs:_,benefitFAQs:C,benefitIcons:I,strainsModule:k,strainBlends:S,sustainabilityCards:O,products:M,faqSchema:P})=>{let{selectedSku:q,setSelectedSku:N,product:$}=(0,d.usePdpProductViewed)({products:M,sku:"syn-wk"}),L=(0,l.usePdpStickyBar)(q),z=[];return n?.media?.nodes?.forEach(e=>{"IMAGE"===e.mediaContentType&&z.push(e.previewImage.url)}),(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(et,{}),(0,t.jsx)(o.YotpoReviewScript,{}),(0,t.jsx)(h.default,{productName:n.name,productImages:z,productDescription:n.description,productSku:"syn-wk",productGtin:"",canonicalUrl:"https://seed.com/daily-synbiotic",productPrice:n?.priceRange?.minVariantPrice?.amount,pageTitle:`Seed • ${ei.page_title}`,ogImageUrl:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1759517363/structured-data/og-ds.png",ogImageAlt:ei.page_title,faqSchema:P,yotpoAverageScore:e,yotpoTotalReviews:i}),(0,t.jsxs)("div",{className:"container ds01-content",children:[(0,t.jsx)(c.InternationalCurrencyModal,{location:ei.page_title}),$&&n&&(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(m.default,{siteBuy:a,useCartContext:!0,selectedSku:q,setSelectedSku:N,productInfo:n,yotpoAverageScore:e,yotpoTotalReviews:i,benefitIcons:I,strainsModule:k,strainBlends:S}),r&&(0,t.jsx)(p.default,{productInfo:n,essentials:r,selectedSku:q}),j&&(0,t.jsx)(g.default,{benefits:j,productInfo:n,isDS:!0}),I&&C&&(0,t.jsx)(W,{benefitIcons:I,benefitFAQs:C,productInfo:n,strainsModule:k,strainBlends:S}),b&&v&&(0,t.jsx)(u.default,{productSku:q,chartRows:v,chartModule:b,productInfo:n}),O&&(0,t.jsx)(ee,{sustainabilityCards:O}),w&&(0,t.jsx)(f.default,{testingModule:w,productInfo:n}),_&&(0,t.jsx)(T,{faqs:_}),(0,t.jsx)(s.StickyBar,{...L,imageSrc:y.PRODUCT_IMAGE_DS01,buttonEventName:"DS start now"}),(0,t.jsx)(x.ReviewsDisplay,{imageUrl:"https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1759517363/structured-data/og-ds.png",product:$,url:"/daily-synbiotic"})]})]})]})}],654736)},847746,(e,t,i)=>{let a="/pdp/daily-synbiotic";(window.__NEXT_P=window.__NEXT_P||[]).push([a,()=>e.r(654736)]),t.hot&&t.hot.dispose(function(){window.__NEXT_P.push([a])})},648761,e=>{e.v(t=>Promise.all(["static/chunks/0w-k5gkqz-f~m.js"].map(t=>e.l(t))).then(()=>t(493594)))},828805,e=>{e.v(t=>Promise.all(["static/chunks/0ol1pnpd9uivv.js"].map(t=>e.l(t))).then(()=>t(879466)))},555482,e=>{e.v(t=>Promise.all(["static/chunks/0t3fbg48jstv9.js"].map(t=>e.l(t))).then(()=>t(481953)))},950678,e=>{e.v(t=>Promise.all(["static/chunks/0pgxb3aczchco.js"].map(t=>e.l(t))).then(()=>t(668026)))},711055,e=>{e.v(e=>Promise.resolve().then(()=>e(672091)))},412210,e=>{e.v(t=>Promise.all(["static/chunks/0pglam5yn~7-l.js"].map(t=>e.l(t))).then(()=>t(80511)))},458547,e=>{e.v(t=>Promise.all(["static/chunks/0f7f30z816p.q.js"].map(t=>e.l(t))).then(()=>t(89987)))},555819,e=>{e.v(t=>Promise.all(["static/chunks/0t-x5lfsld.ff.js"].map(t=>e.l(t))).then(()=>t(875941)))},327703,e=>{e.v(t=>Promise.all(["static/chunks/0aky5tcpupqw5.js"].map(t=>e.l(t))).then(()=>t(579812)))},134746,e=>{e.v(t=>Promise.all(["static/chunks/0.sd1b~.nrpt-.js"].map(t=>e.l(t))).then(()=>t(788778)))},523721,e=>{e.v(t=>Promise.all(["static/chunks/09r305142kcds.js"].map(t=>e.l(t))).then(()=>t(97491)))},241222,e=>{e.v(t=>Promise.all(["static/chunks/01d~5p_.q30-q.js"].map(t=>e.l(t))).then(()=>t(677965)))},376594,e=>{e.v(t=>Promise.all(["static/chunks/035p_bm-ugy~9.js"].map(t=>e.l(t))).then(()=>t(132571)))},16214,e=>{e.v(t=>Promise.all(["static/chunks/0pyvnka9bliil.js","static/chunks/04yt~55mml-yk.js"].map(t=>e.l(t))).then(()=>t(187646)))},974911,e=>{e.v(t=>Promise.all(["static/chunks/14vntooq-tl0m.js"].map(t=>e.l(t))).then(()=>t(956178)))},884178,e=>{e.v(t=>Promise.all(["static/chunks/0mmih~65z_goa.js"].map(t=>e.l(t))).then(()=>t(373549)))}]);
+
+//# debugId=d9ebd103-1c72-0ad4-6465-7f230c251e31
+//# sourceMappingURL=0v2bfco3ezay4.js.map
